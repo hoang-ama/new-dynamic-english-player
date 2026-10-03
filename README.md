@@ -51,6 +51,8 @@ Open `http://127.0.0.1:4173`. The player loads lesson metadata on startup, strea
 
 Lesson summaries, patterns, and vocabulary remain visibly unavailable when the canonical manifest has no reviewed enrichment; the player does not invent replacements.
 
+Vercel uses `npm run build:vercel`, which validates the checked-in lesson manifest without fetching the course or rewriting data. `npm run build` remains reserved for the separate catalog refresh pipeline.
+
 ## Deploy through GitHub Actions
 
 `.github/workflows/vercel.yml` runs unit tests, manifest validation, browser E2E, and axe checks before deploying. Pushes to feature branches create Vercel Preview deployments; pushes to `main` create Production deployments. Pull requests run the checks but do not receive deployment secrets. `vercel.json` disables Vercel's automatic Git deployment so the same commit is not deployed twice.
