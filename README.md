@@ -51,6 +51,18 @@ Open `http://127.0.0.1:4173`. The player loads lesson metadata on startup, strea
 
 Lesson summaries, patterns, and vocabulary remain visibly unavailable when the canonical manifest has no reviewed enrichment; the player does not invent replacements.
 
+## Deploy through GitHub Actions
+
+`.github/workflows/vercel.yml` runs unit tests, manifest validation, browser E2E, and axe checks before deploying. Pushes to feature branches create Vercel Preview deployments; pushes to `main` create Production deployments. Pull requests run the checks but do not receive deployment secrets. `vercel.json` disables Vercel's automatic Git deployment so the same commit is not deployed twice.
+
+Before the first deployment:
+
+1. Create/link this project in Vercel with `vercel link` and note `orgId` and `projectId` from the generated local `.vercel/project.json`.
+2. In GitHub, open **Settings → Secrets and variables → Actions** and add `VERCEL_TOKEN`, `VERCEL_ORG_ID`, and `VERCEL_PROJECT_ID` as repository secrets.
+3. Push a branch for Preview; merge/push to `main` for Production.
+
+The `.vercel/` directory and credentials are ignored and must not be committed. A separate `GEMINI_API_KEY` is only needed if/when a server-side AI feature is deployed; the current player does not call Gemini at runtime.
+
 ## Extract lesson content
 
 The source-content extractor uses the lesson article body and removes the embedded source audio controls and lesson-menu link. By default it fetches only the representative checkpoints (lessons 1, 113, and 340):
