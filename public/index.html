@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#eef2ed">
+    <meta name="description" content="A focused study player for New Dynamic English lessons.">
+    <title>Dynamic English Player</title>
+    <link rel="stylesheet" href="/styles.css">
+    <script type="module" src="/app.js"></script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" id="lesson-sidebar" aria-label="Lesson navigation" inert aria-hidden="true">
+        <div class="sidebar-head">
+          <a class="brand" href="/" aria-label="Dynamic English home">
+            <span class="brand-mark" aria-hidden="true">DE</span>
+            <span class="brand-name">Dynamic<br>English</span>
+          </a>
+          <button class="icon-button sidebar-close" id="sidebar-close" type="button" aria-label="Close lessons menu">×</button>
+        </div>
+
+        <div class="progress-summary" aria-live="polite">
+          <div class="progress-label-row">
+            <span>COURSE PROGRESS</span>
+            <strong id="progress-count">0 / 340</strong>
+          </div>
+          <div class="progress-track" role="progressbar" aria-label="Course progress" aria-valuemin="0" aria-valuemax="340" aria-valuenow="0" id="progress-bar">
+            <span id="progress-fill"></span>
+          </div>
+        </div>
+
+        <label class="search-box" for="lesson-search">
+          <span aria-hidden="true">⌕</span>
+          <input id="lesson-search" type="search" placeholder="Search lessons" autocomplete="off" aria-label="Search lessons by title or number">
+          <kbd>/</kbd>
+        </label>
+
+        <div class="part-heading">
+          <span>LESSONS</span>
+          <span id="lesson-result-count" aria-live="polite">340</span>
+        </div>
+        <nav class="part-tabs" aria-label="Filter by part" id="part-tabs">
+          <button type="button" data-part="0" class="part-tab is-active" aria-pressed="true">All</button>
+          <button type="button" data-part="1" class="part-tab" aria-pressed="false">1</button>
+          <button type="button" data-part="2" class="part-tab" aria-pressed="false">2</button>
+          <button type="button" data-part="3" class="part-tab" aria-pressed="false">3</button>
+          <button type="button" data-part="4" class="part-tab" aria-pressed="false">4</button>
+        </nav>
+        <ol class="lesson-list" id="lesson-list" aria-label="Lessons"></ol>
+        <p class="sidebar-source">New Dynamic English<br>Source: LopNgoaiNgu.com</p>
+      </aside>
+
+      <button class="drawer-scrim" id="drawer-scrim" type="button" aria-label="Close lessons menu"></button>
+
+      <main class="main-column" id="main-column">
+        <header class="topbar">
+          <button class="icon-button menu-open" id="menu-open" type="button" aria-label="Open lessons menu" aria-controls="lesson-sidebar" aria-expanded="false">☰</button>
+          <div class="breadcrumb"><span>STUDY LIBRARY</span><span class="breadcrumb-divider">/</span><strong id="breadcrumb-part">PART 1</strong></div>
+          <div class="topbar-current"><span class="live-dot"></span><span id="topbar-current-label">Lesson 1</span></div>
+        </header>
+
+        <div class="content-wrap">
+          <section class="lesson-intro" aria-labelledby="lesson-title">
+            <div class="lesson-kicker"><span id="lesson-part-label">PART 1</span><span class="kicker-rule"></span><span id="lesson-sequence">LESSON 01 OF 340</span></div>
+            <div class="title-row">
+              <div>
+                <h1 id="lesson-title">Loading lessons…</h1>
+                <p class="lesson-subtitle" id="lesson-subtitle">Anh Ngữ Sinh Động</p>
+              </div>
+              <button class="complete-button" id="complete-button" type="button" aria-pressed="false">
+                <span class="complete-indicator" aria-hidden="true">✓</span>
+                <span id="complete-label">Mark complete</span>
+              </button>
+            </div>
+          </section>
+
+          <section class="audio-section" aria-label="Lesson audio">
+            <div class="audio-heading">
+              <span class="section-index">01</span>
+              <div><h2>Listen</h2><p>Original lesson audio</p></div>
+              <span class="audio-source-tag">SOURCE AUDIO</span>
+            </div>
+            <div class="audio-player-card">
+              <div class="audio-main-row">
+                <div class="audio-track-meta">
+                  <span class="audio-disc" aria-hidden="true"><span></span></span>
+                  <div><strong id="audio-title">Lesson 1</strong><span>New Dynamic English</span></div>
+                </div>
+                <div class="transport-controls">
+                  <button class="transport-button" id="previous-button" type="button" aria-label="Previous lesson" title="Previous lesson">‹‹</button>
+                  <button class="play-button" id="play-button" type="button" aria-label="Play audio">▶</button>
+                  <button class="transport-button" id="next-button" type="button" aria-label="Next lesson" title="Next lesson">››</button>
+                </div>
+                <div class="audio-options">
+                  <label class="speed-control" for="speed-select"><span>Speed</span>
+                    <select id="speed-select" aria-label="Playback speed">
+                      <option value="0.75">0.75×</option>
+                      <option value="1" selected>1×</option>
+                      <option value="1.25">1.25×</option>
+                      <option value="1.5">1.5×</option>
+                      <option value="2">2×</option>
+                    </select>
+                  </label>
+                </div>
+              </div>
+              <div class="seek-row">
+                <span id="current-time">0:00</span>
+                <input id="seek-slider" class="seek-slider" type="range" min="0" max="0" value="0" step="0.1" aria-label="Seek audio">
+                <span id="duration-time">0:00</span>
+              </div>
+              <div class="audio-bottom-row">
+                <span class="audio-state" id="audio-state" aria-live="polite">Ready to play</span>
+                <label class="volume-control" for="volume-slider"><span aria-hidden="true">◖</span><input id="volume-slider" type="range" min="0" max="1" step="0.01" value="1" aria-label="Volume"></label>
+              </div>
+              <p class="audio-error" id="audio-error" role="status" hidden></p>
+            </div>
+            <audio id="audio-element" preload="none"></audio>
+          </section>
+
+          <section class="study-section" aria-labelledby="study-heading">
+            <div class="section-heading-row">
+              <div class="section-heading-title"><span class="section-index">02</span><div><h2 id="study-heading">Study notes</h2><p>Summary, sentence patterns, and vocabulary</p></div></div>
+              <span class="notes-status" id="notes-status">SOURCE-GROUNDED</span>
+            </div>
+            <div class="study-grid">
+              <article class="study-block summary-block">
+                <h3>Summary</h3>
+                <div id="summary-content" class="study-content"></div>
+              </article>
+              <article class="study-block patterns-block">
+                <h3>Key sentence patterns</h3>
+                <div id="patterns-content" class="study-content"></div>
+              </article>
+              <article class="study-block vocabulary-block">
+                <h3>Vocabulary</h3>
+                <div id="vocabulary-content" class="study-content"></div>
+              </article>
+            </div>
+          </section>
+
+          <section class="transcript-section" aria-labelledby="transcript-heading">
+            <div class="section-heading-row transcript-heading-row">
+              <div class="section-heading-title"><span class="section-index">03</span><div><h2 id="transcript-heading">Transcript</h2><p>Lesson text from the original course source</p></div></div>
+              <button class="transcript-toggle" id="transcript-toggle" type="button" aria-expanded="false" aria-controls="transcript-panel">Show transcript <span aria-hidden="true">＋</span></button>
+            </div>
+            <div id="transcript-panel" class="transcript-panel" hidden>
+              <div id="transcript-content" class="transcript-content" aria-live="polite"></div>
+            </div>
+          </section>
+
+          <footer class="page-footer"><span>Dynamic English Player</span><span>Original course content and audio belong to their respective rights holders.</span></footer>
+        </div>
+
+        <section class="player-dock" aria-label="Audio controls">
+          <div class="dock-track"><span class="dock-playing-indicator" aria-hidden="true"><i></i><i></i><i></i></span><div><strong id="dock-title">Lesson 1</strong><span>New Dynamic English</span></div></div>
+          <div class="dock-controls">
+            <button class="transport-button" id="dock-previous" type="button" aria-label="Previous lesson">‹‹</button>
+            <button class="dock-play-button" id="dock-play" type="button" aria-label="Play audio">▶</button>
+            <button class="transport-button" id="dock-next" type="button" aria-label="Next lesson">››</button>
+          </div>
+          <div class="dock-progress"><span id="dock-current-time">0:00</span><div class="dock-trackline"><span id="dock-progress-fill"></span></div><span id="dock-duration">0:00</span></div>
+          <button class="icon-button dock-expand" id="dock-expand" type="button" aria-label="Jump to audio player" title="Jump to audio player">↑</button>
+        </section>
+      </main>
+    </div>
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  </body>
+</html>

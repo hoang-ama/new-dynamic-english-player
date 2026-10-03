@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+*.zip
+.env
+.env.*
+.vercel/
+playwright-report/
+test-results/
+data/source-lessons/
+data/ai-enrichment/
