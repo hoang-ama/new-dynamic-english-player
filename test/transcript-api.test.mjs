@@ -8,6 +8,7 @@ const lesson = {
 };
 const lessons = [lesson];
 const page = "<div id='fontchu'><h3>Lesson one</h3><p>Source transcript text.</p><center><a href='index.php'>Menu Bài Học</a></center></div>";
+const silentLogger = { error() {} };
 
 function invoke(handler, { method = "GET", url = "/api/transcript?id=1" } = {}) {
   const res = {
@@ -57,6 +58,7 @@ test("fetches only the manifest URL and returns cleaned structured content", asy
 test("maps source failures to 502 without returning fabricated content", async () => {
   const handler = createTranscriptHandler({
     lessons,
+    logger: silentLogger,
     fetchImpl: async () => ({ ok: false, status: 503, text: async () => "" })
   });
   const res = await invoke(handler);
@@ -67,6 +69,7 @@ test("maps source failures to 502 without returning fabricated content", async (
 test("maps extraction failures to 502", async () => {
   const handler = createTranscriptHandler({
     lessons,
+    logger: silentLogger,
     fetchImpl: async () => ({ ok: true, text: async () => "<html><body>No lesson article</body></html>" })
   });
   const res = await invoke(handler);
