@@ -51,7 +51,7 @@ Open `http://127.0.0.1:4173`. The player loads lesson metadata on startup, strea
 
 Lesson summaries, patterns, and vocabulary remain visibly unavailable when the canonical manifest has no reviewed enrichment; the player does not invent replacements.
 
-Vercel uses `npm run build:vercel`, which validates the checked-in lesson manifest and stages it at `public/data/lessons.json` for static delivery. It does not fetch the course or rewrite the canonical data. The generated public copy is git-ignored. `npm run build` remains reserved for the separate catalog refresh pipeline.
+Vercel uses `npm run build:vercel`, which validates the checked-in lesson manifest and stages it at `public/data/lessons.json`, along with the browser modules from `src/`, for static delivery. It does not fetch the course or rewrite the canonical data. These generated public copies are git-ignored. `npm run build` remains reserved for the separate catalog refresh pipeline.
 
 ## Deploy through GitHub Actions
 
