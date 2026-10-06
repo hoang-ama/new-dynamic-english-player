@@ -1,5 +1,10 @@
 {
   "buildCommand": "npm run build:vercel",
+  "functions": {
+    "api/transcript.js": {
+      "includeFiles": "data/source-lessons/**/*.json"
+    }
+  },
   "git": {
     "deploymentEnabled": false
   }

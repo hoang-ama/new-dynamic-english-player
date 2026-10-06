@@ -55,6 +55,30 @@ test("fetches only the manifest URL and returns cleaned structured content", asy
   assert.ok(Array.isArray(res.body.sections));
 });
 
+test("serves a validated cached transcript without contacting the blocked source", async () => {
+  const cached = {
+    id: 1,
+    sourceUrl: lesson.sourceUrl,
+    title: "Lesson one",
+    content: "Cached protected source transcript.",
+    sections: [{ type: "paragraph", text: "Cached protected source transcript." }],
+    fetchedAt: "2026-10-03T00:00:00.000Z",
+    status: "fetched"
+  };
+  const handler = createTranscriptHandler({
+    lessons,
+    sourceLessonsDirectory: "/vercel/function/data/source-lessons",
+    readFileImpl: async filePath => {
+      assert.equal(filePath, "/vercel/function/data/source-lessons/1.json");
+      return JSON.stringify(cached);
+    },
+    fetchImpl: () => assert.fail("cached response must not request the upstream source")
+  });
+  const res = await invoke(handler);
+  assert.equal(res.statusCode, 200);
+  assert.equal(res.body.content, cached.content);
+});
+
 test("maps source failures to 502 without returning fabricated content", async () => {
   const handler = createTranscriptHandler({
     lessons,

@@ -1,6 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { enrichLesson, GEMINI_MODEL, validateEnrichment } from "../lib/ai-enrichment.mjs";
+import { enrichLesson, GEMINI_MODEL, parseModelJson, validateEnrichment } from "../lib/ai-enrichment.mjs";
+import { applyEnrichmentToManifest } from "../lib/lesson-enrichment-merge.mjs";
 
 const content = "The lesson teaches: I come from New York. New York is a city. I come from California.";
 const sourceLesson = {
@@ -121,4 +122,42 @@ test("rejects malformed or unsupported model output", async () => {
     apiKey: "test-secret",
     fetchImpl: async () => ({ ok: true, json: async () => ({ candidates: [{ content: { parts: [{ text: JSON.stringify({ ...validResult, summaryEvidence: ["not in source"] }) }] } }] }) })
   }), /failed validation/);
+});
+
+test("parses model JSON wrapped in markdown or surrounding text", () => {
+  assert.deepEqual(parseModelJson(`\`\`\`json\n${JSON.stringify(validResult)}\n\`\`\``), validResult);
+  assert.deepEqual(parseModelJson(`Here is the JSON:\n${JSON.stringify(validResult)}`), validResult);
+  assert.throws(() => parseModelJson("not-json"), /malformed JSON/);
+});
+
+test("applies validated enrichment candidates to the lesson manifest", () => {
+  const manifest = {
+    lessons: [{
+      id: 1,
+      sourceUrl: sourceLesson.sourceUrl,
+      summary: null,
+      keyPatterns: [],
+      vocabulary: [],
+      metadata: { aiStatus: "pending" }
+    }]
+  };
+  const candidate = {
+    ...validResult,
+    id: 1,
+    sourceUrl: sourceLesson.sourceUrl,
+    model: GEMINI_MODEL,
+    generatedAt: "2026-10-04T00:00:00.000Z",
+    status: "ai-generated",
+    reviewStatus: "pending",
+    validation: { schema: "passed", evidenceQuotes: "passed", semanticReview: "pending" }
+  };
+
+  const { manifest: merged, applied } = applyEnrichmentToManifest(manifest, [candidate]);
+
+  assert.equal(applied, 1);
+  assert.equal(merged.lessons[0].summary, validResult.summary);
+  assert.deepEqual(merged.lessons[0].keyPatterns, [{ pattern: "I come from [place].", meaning: "Say the place a person comes from." }]);
+  assert.deepEqual(merged.lessons[0].vocabulary, [{ word: "city", meaning: "city" }]);
+  assert.equal(merged.lessons[0].metadata.aiStatus, "ai-generated");
+  assert.equal(merged.lessons[0].metadata.aiReviewStatus, "pending");
 });

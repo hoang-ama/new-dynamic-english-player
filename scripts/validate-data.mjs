@@ -26,9 +26,27 @@ for (const l of lessons) {
   if (!l.audioUrl?.endsWith(`/audio/${l.id}.mp3`)) {
     errors.push(`lesson ${l.id}: unexpected audioUrl ${l.audioUrl}`);
   }
-  if (l.summary !== null) errors.push(`lesson ${l.id}: summary should be null before AI enrichment`);
+  if (l.summary !== null && (typeof l.summary !== "string" || !l.summary.trim())) {
+    errors.push(`lesson ${l.id}: summary must be null or a non-empty string`);
+  }
   if (!Array.isArray(l.keyPatterns)) errors.push(`lesson ${l.id}: keyPatterns must be array`);
+  else {
+    l.keyPatterns.forEach((item, index) => {
+      if (!item || typeof item.pattern !== "string" || !item.pattern.trim() ||
+          typeof item.meaning !== "string" || !item.meaning.trim()) {
+        errors.push(`lesson ${l.id}: keyPatterns[${index}] must include pattern and meaning`);
+      }
+    });
+  }
   if (!Array.isArray(l.vocabulary)) errors.push(`lesson ${l.id}: vocabulary must be array`);
+  else {
+    l.vocabulary.forEach((item, index) => {
+      if (!item || typeof item.word !== "string" || !item.word.trim() ||
+          typeof item.meaning !== "string" || !item.meaning.trim()) {
+        errors.push(`lesson ${l.id}: vocabulary[${index}] must include word and meaning`);
+      }
+    });
+  }
 }
 
 if (errors.length) {

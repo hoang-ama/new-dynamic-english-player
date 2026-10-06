@@ -104,7 +104,7 @@ Playwright reports are written under `test-results/` and are git-ignored.
 
 ## AI enrichment
 
-The enrichment pipeline uses Google's Gemini API with the pinned model ID `gemini-3.6-flash`. It reads only successful records from `data/source-lessons/`, requests structured JSON, and checks every evidence excerpt against the source text. Temporary `408`, `429`, and `5xx` responses are retried up to three total attempts, respecting `Retry-After` when provided. Results are staged in `data/ai-enrichment/` with `reviewStatus: "pending"`; they do not modify `data/lessons.json`.
+The enrichment pipeline uses Google's Gemini API with the pinned model ID `gemini-3.6-flash`. It reads only successful records from `data/source-lessons/`, requests structured JSON, and checks every evidence excerpt against the source text. Temporary `408`, `429`, and `5xx` responses are retried up to three total attempts, respecting `Retry-After` when provided. Results are staged in `data/ai-enrichment/` with `reviewStatus: "pending"`; generation alone does not modify `data/lessons.json`.
 
 Set `GEMINI_API_KEY` in the root `.env` file (the file is git-ignored):
 
@@ -119,6 +119,14 @@ npm run enrich -- --ids=1,113,340
 ```
 
 To process all lessons after reviewing the checkpoint candidates, use `npm run enrich -- --all`. Existing outputs are skipped unless `--force` is passed. Use `npm test` to run the enrichment validation tests.
+
+Apply validated enrichment candidates to the lesson manifest with:
+
+```bash
+npm run apply-enrichment
+```
+
+The apply step copies only the public study-note fields (`summary`, `keyPatterns`, and `vocabulary`) into `data/lessons.json` and records AI metadata. Evidence excerpts remain in the local candidate files.
 
 Review Google's [Gemini pricing and data-use terms](https://ai.google.dev/gemini-api/docs/pricing) before sending lesson content: Google's current documentation distinguishes the free tier (submitted content may be used to improve products) from paid tier (content is not used for product improvement).
 

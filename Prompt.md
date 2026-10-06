@@ -229,4 +229,4 @@ Next Steps:
 
 Summary, patterns và vocabulary còn trống cho đến khi có AI enrichment được duyệt.
 
-GEMINI_API_KEY chưa được cấu hình
+GEMINI_API_KEY: done

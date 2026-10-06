@@ -40,9 +40,67 @@
       "title": "Anh Ngữ Sinh Động Bài 1",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=1",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/1.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài học này giới thiệu chương trình New Dynamic English với hai người phụ trách là Max và Kathy. Người học luyện tập mẫu câu hỏi \"Where Do You Come From?\" và cách trả lời \"I come from...\", cùng mẫu câu chào \"Nice to meet you\". Ngoài ra, chương trình cũng giới thiệu phần Anh ngữ Thương mại Functioning in Business do Elizabeth Moore và Gary Engleton phụ trách.",
+      "keyPatterns": [
+        {
+          "pattern": "Where Do You Come From?",
+          "meaning": "Bạn từ đâu đến."
+        },
+        {
+          "pattern": "I come from_____",
+          "meaning": "Tôi đến từ [tiếp theo là tên tỉnh, hay tên tiểu bang, hay tên xứ]."
+        },
+        {
+          "pattern": "Nice to meet you.",
+          "meaning": "hân hạnh gặp ông hay bà"
+        },
+        {
+          "pattern": "Nice to meet you, too",
+          "meaning": "tôi cũng hân hạnh gặp ông hay bà."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "New York",
+          "meaning": "tên thành phố Nữu Ước, thuộc tiểu bang New York."
+        },
+        {
+          "word": "San Francisco",
+          "meaning": "tên thành phố San Francisco (Cựu Kim Sơn), thuộc tiểu bang California."
+        },
+        {
+          "word": "City",
+          "meaning": "thành phố"
+        },
+        {
+          "word": "State",
+          "meaning": "tiểu bang."
+        },
+        {
+          "word": "The United States",
+          "meaning": "hay The U.S.= Hoa Kỳ."
+        },
+        {
+          "word": "On the air",
+          "meaning": "đang trực tiếp nói với, hay đang thâu trên đài truyền thanh, hay truyền hình."
+        },
+        {
+          "word": "Off the air",
+          "meaning": "không còn thâu, hay thâu xong, chươnnh trình/truyền thanh hay truyền hình."
+        },
+        {
+          "word": "Spanish",
+          "meaning": "tiếng Tây Ban Nha"
+        },
+        {
+          "word": "Host",
+          "meaning": "Người điều khiển chương trình"
+        },
+        {
+          "word": "Take a break",
+          "meaning": "nghỉ (giải lao)."
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=1"
@@ -51,7 +109,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-09-30T09:34:02.672Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "gemini-3.6-flash",
+        "aiGeneratedAt": "2026-10-04T05:05:20.772Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -124,9 +190,67 @@
       "title": "Anh Ngữ Sinh Động Bài 5",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=5",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/5.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài học số 5 của chương trình New Dynamic English hướng dẫn cách nói mình từ đâu đến, cách hỏi vị trí các thành phố, cùng cách dùng đại từ \"we\", \"they\" và động từ \"to be\" ở số nhiều. Qua các phần phỏng vấn và thực tập, người học được làm quen với việc dùng hình thức viết tắt như \"She's\", \"We're\", \"They're\" và học một số từ vựng cùng địa danh phổ biến.",
+      "keyPatterns": [
+        {
+          "pattern": "Is She from Chicago?",
+          "meaning": "Có phải cô ấy ở thành phố Chicago đến không?"
+        },
+        {
+          "pattern": "SHE'S / They're / We're",
+          "meaning": "Cách viết và đọc tắt của \"SHE IS\" thành \"SHE'S\", \"They are\" thành \"They're\", và \"We are\" thành \"We're\"."
+        },
+        {
+          "pattern": "Where is [City]? -> It's in [Country/State].",
+          "meaning": "Hỏi vị trí của một thành phố và trả lời thành phố đó thuộc quốc gia hoặc tiểu bang nào."
+        },
+        {
+          "pattern": "Where are you from? -> I'm from [place].",
+          "meaning": "Hỏi ai đó từ đâu đến và trả lời mình đến từ đâu."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "SISTER",
+          "meaning": "em hay chị gái."
+        },
+        {
+          "word": "WASHINGTON, D.C.",
+          "meaning": "tên thủ đô Hoa Thịnh Đốn, thuộc đặc khu Columbia."
+        },
+        {
+          "word": "Bull",
+          "meaning": "bò mộng"
+        },
+        {
+          "word": "Golden Gate Bridge",
+          "meaning": "Kim-môn-kiều, tên chiếc cầu treo mầu đỏ nổi tiếng ở San Francisco."
+        },
+        {
+          "word": "Sears Tower",
+          "meaning": "tên tòa nhà chọc trời ở Chicago."
+        },
+        {
+          "word": "MESSAGE",
+          "meaning": "lời nhắn, tín điệp."
+        },
+        {
+          "word": "SHOW",
+          "meaning": "chương trình."
+        },
+        {
+          "word": "Canyon",
+          "meaning": "hẻm núi."
+        },
+        {
+          "word": "DATE",
+          "meaning": "buổi hẹn chơi, người mình hẹn đi chơi."
+        },
+        {
+          "word": "MARRIED",
+          "meaning": "có chồng hay vợ."
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=5"
@@ -135,7 +259,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-09-30T09:34:02.672Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "gemini-3.6-flash",
+        "aiGeneratedAt": "2026-10-06T01:43:37.563Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2392,9 +2524,51 @@
       "title": "Anh Ngữ Sinh Động Bài 113",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=113",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/113.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Chủ đề của bài học New Dynamic English Bài 113 là \"Where Were You Born?\", hướng dẫn cách nói nơi sinh trưởng và thời gian sinh của bản thân và người khác. Trong bài, Kathy phỏng vấn khách mời Maria Alvarez về quê quán của cô và cha mẹ cô, cũng như việc không cần visa khi công dân Mỹ ghé thăm Mexico. Phần cuối bài học là cuộc đàm thoại thực hành về việc lên kế hoạch tổ chức một buổi tiệc.",
+      "keyPatterns": [
+        {
+          "pattern": "was / were born",
+          "meaning": "Dùng thì quá khứ của BE (was/were) kết hợp với BORN khi nói về nơi sinh trưởng hoặc thời gian sinh ra."
+        },
+        {
+          "pattern": "In [năm/tháng/nơi chốn], On [ngày], At [giờ]",
+          "meaning": "Cách sử dụng các giới từ IN, ON, AT trước mốc thời gian và địa điểm."
+        },
+        {
+          "pattern": "Where was/were [subject] born?",
+          "meaning": "Mẫu câu hỏi ai đó sinh ra ở đâu."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "born",
+          "meaning": "quá khứ phân từ của động từ bất qui tắc BEAR (mang, đẻ)"
+        },
+        {
+          "word": "paternal grandparents",
+          "meaning": "ông bà nội"
+        },
+        {
+          "word": "maternal grandparents",
+          "meaning": "ông bà ngoại"
+        },
+        {
+          "word": "visa",
+          "meaning": "chiếu khán nhập cảnh"
+        },
+        {
+          "word": "citizen",
+          "meaning": "công dân"
+        },
+        {
+          "word": "serve",
+          "meaning": "mời, dọn"
+        },
+        {
+          "word": "vegetarian",
+          "meaning": "người ăn chay"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=113"
@@ -2403,7 +2577,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-09-30T09:34:02.672Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "gemini-3.6-flash",
+        "aiGeneratedAt": "2026-10-04T05:05:36.128Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -6361,9 +6543,43 @@
       "title": "Anh Ngữ Sinh Động Bài 302",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=302",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/302.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài học này hướng dẫn chi tiết cách sử dụng mệnh đề unless và phân biệt với if not trong các câu điều kiện. Mệnh đề unless được dùng trong câu điều kiện loại một và loại hai, nhưng không được dùng cho những tình huống giả định không có thực trong quá khứ hay tương lai. Ngoài ra, bài học còn giải thích cách dùng unless khi đưa ra ý bổ sung (afterthought) và cấu trúc rút gọn đi với past participle.",
+      "keyPatterns": [
+        {
+          "pattern": "simple present (ở unless clause) + simple future (ở main clause)",
+          "meaning": "Dùng trong câu điều kiện loại 1 (first conditional) diễn tả điều kiện trừ phi/nếu không."
+        },
+        {
+          "pattern": "simple past (ở unless clause) + would + infinitive (ở main clause)",
+          "meaning": "Dùng trong câu điều kiện loại 2 (second conditional)."
+        },
+        {
+          "pattern": "unless + afterthought",
+          "meaning": "Bắt buộc dùng unless khi nói thêm một điều để giới hạn hoặc bổ chính rõ hơn cho điều đã nói trước."
+        },
+        {
+          "pattern": "unless + past participle",
+          "meaning": "Lối viết rút ngắn câu phụ làm câu văn trang nghiêm (formal), trong đó unless đóng vai trò làm preposition."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "TO LURE",
+          "meaning": "quyến dũ, cám dỗ"
+        },
+        {
+          "word": "Recklessly",
+          "meaning": "liều lĩnh, thiếu thận trọng"
+        },
+        {
+          "word": "afterthought",
+          "meaning": "nói thêm một điều để giới hạn hay bổ chính cho rõ hơn điều đã nói trước"
+        },
+        {
+          "word": "FAILURE",
+          "meaning": "danh từ của động từ fail, phát âm là /fei-ljơ(r)/"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=302"
@@ -6372,7 +6588,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-09-30T09:34:02.672Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "gemini-3.6-flash",
+        "aiGeneratedAt": "2026-10-06T01:33:11.287Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {

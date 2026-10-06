@@ -8,3 +8,7 @@ playwright-report/
 test-results/
 data/source-lessons/
 data/ai-enrichment/
+public/data/lessons.json
+public/src/
+.vercel
+.env*
