@@ -47,18 +47,16 @@ test("stages the canonical 340-lesson manifest inside public static assets", asy
   }
 });
 
-test("stages without a private transcript cache so CI can use runtime source fetches", async () => {
+test("refuses to stage without the transcript cache because production depends on it", async () => {
   const directory = await mkdtemp(path.join(os.tmpdir(), "dynamic-english-vercel-"));
   try {
     const sourcePath = path.join(root, "data", "lessons.json");
-    const staged = await stageLessonManifest({
+    await assert.rejects(stageLessonManifest({
       sourcePath,
       sourceModulesDirectory: path.join(root, "src"),
       sourceLessonsDirectory: path.join(directory, "missing-source-lessons"),
       publicDirectory: directory
-    });
-    assert.equal(JSON.parse(await readFile(staged.manifestPath, "utf8")).lessons.length, 340);
-    assert.equal(staged.transcriptCacheCount, 0);
+    }), /requires the transcript cache/);
   } finally {
     await rm(directory, { recursive: true, force: true });
   }

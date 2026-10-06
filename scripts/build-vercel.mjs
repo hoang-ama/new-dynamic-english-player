@@ -12,8 +12,4 @@ const { manifestPath, modulePaths, transcriptCacheCount } = await stageLessonMan
 
 console.log(`Staged canonical lesson manifest for Vercel at ${manifestPath}`);
 console.log(`Staged ${modulePaths.length} browser modules for Vercel.`);
-if (transcriptCacheCount) {
-  console.log(`Validated ${transcriptCacheCount} cached transcript records for protected Vercel artifact.`);
-} else {
-  console.log("No local transcript cache staged; transcript API will fetch the fixed source URL at runtime.");
-}
+console.log(`Validated ${transcriptCacheCount} cached transcript records for the transcript function.`);

@@ -1,5 +1,5 @@
 import "dotenv/config";
-import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { mkdir, readFile, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { enrichLesson } from "../lib/ai-enrichment.mjs";
 
@@ -29,16 +29,24 @@ if (!apiKey) {
 const args = process.argv.slice(2);
 const ids = parseIds(args);
 const force = args.includes("--force");
+const concurrencyArg = args.find(arg => arg.startsWith("--concurrency="));
+const concurrency = concurrencyArg ? Number(concurrencyArg.slice("--concurrency=".length)) : 1;
+if (!Number.isInteger(concurrency) || concurrency < 1 || concurrency > 8) {
+  throw new Error("--concurrency must be an integer from 1 to 8");
+}
 await mkdir(OUT_DIR, { recursive: true });
 
 let failures = 0;
-for (const id of ids) {
+
+async function processLesson(id) {
   const outputPath = path.join(OUT_DIR, `${id}.json`);
+  // Failure records use a separate name so the merge step (which reads only `{id}.json`) never applies them.
+  const errorPath = path.join(OUT_DIR, `${id}.error.json`);
   if (!force) {
     try {
       await readFile(outputPath, "utf8");
       console.log(`SKIPPED ${id}: output already exists (use --force to replace)`);
-      continue;
+      return;
     } catch (error) {
       if (error.code !== "ENOENT") throw error;
     }
@@ -49,16 +57,24 @@ for (const id of ids) {
     const result = await enrichLesson(sourceLesson, {
       apiKey,
       onRetry: ({ attempt, nextAttempt, status, delay }) => {
-        console.warn(`RETRY ${id}: Gemini HTTP ${status}; attempt ${nextAttempt}/3 in ${delay}ms (after attempt ${attempt})`);
+        console.warn(`RETRY ${id}: Gemini HTTP ${status}; attempt ${nextAttempt} in ${delay}ms (after attempt ${attempt})`);
       }
     });
     await writeFile(outputPath, `${JSON.stringify(result, null, 2)}\n`, "utf8");
+    await rm(errorPath, { force: true });
     console.log(`AI-GENERATED ${id}: ${result.keyPatterns.length} patterns, ${result.vocabulary.length} vocabulary items; semantic review pending`);
   } catch (error) {
     failures += 1;
+    const record = { id, status: "failed", attemptedAt: new Date().toISOString(), error: error.message };
+    await writeFile(errorPath, `${JSON.stringify(record, null, 2)}\n`, "utf8");
     console.error(`FAILED ${id}: ${error.message}`);
   }
 }
+
+const queue = [...ids];
+await Promise.all(Array.from({ length: Math.min(concurrency, queue.length) }, async () => {
+  while (queue.length) await processLesson(queue.shift());
+}));
 
 console.log(`\nProcessed ${ids.length} requested lessons; ${failures} failed. Candidate outputs: ${OUT_DIR}`);
 if (failures) process.exitCode = 1;
