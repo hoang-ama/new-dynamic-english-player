@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "generatedAt": "2026-09-30T09:34:02.672Z",
+  "generatedAt": "2026-10-06T16:59:48.480Z",
   "source": {
     "name": "LopNgoaiNgu.com — Dynamic English",
     "catalogUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php",
@@ -107,7 +107,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "ai-generated",
         "aiModel": "gemini-3.6-flash",
@@ -127,20 +127,76 @@
       "title": "Anh Ngữ Sinh Động Bài 2",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=2",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/2.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson develops English for discussing personal and professional background. Gary Engleton talks about growing up overseas, international work, education, and his experience with Korea, China, UC Berkeley, and Georgetown. The lesson also introduces American business naming conventions, including first name, family name, Miss, Mrs., and Ms., plus common language functions such as requesting, offering, refusing, confirming, and agreeing.",
+      "keyPatterns": [
+        {
+          "pattern": "I lived in ...",
+          "meaning": "Use this pattern to say where someone lived in the past."
+        },
+        {
+          "pattern": "I studied ... at ...",
+          "meaning": "Use this pattern to describe a field of study and institution."
+        },
+        {
+          "pattern": "Please call me ...",
+          "meaning": "Use this polite pattern when telling someone which name to use."
+        },
+        {
+          "pattern": "I always use ...",
+          "meaning": "Use this pattern to describe a usual personal or business practice."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "overseas",
+          "meaning": "in or to a foreign country"
+        },
+        {
+          "word": "scholarship",
+          "meaning": "financial support for study"
+        },
+        {
+          "word": "political science",
+          "meaning": "the academic study of government and politics"
+        },
+        {
+          "word": "relatives",
+          "meaning": "members of your family"
+        },
+        {
+          "word": "networking",
+          "meaning": "building and maintaining professional relationships"
+        },
+        {
+          "word": "Miss",
+          "meaning": "a title traditionally used for an unmarried woman"
+        },
+        {
+          "word": "Mrs.",
+          "meaning": "a title traditionally used for a married woman"
+        },
+        {
+          "word": "Ms.",
+          "meaning": "a title for a woman that does not specify marital status"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=2"
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "failed",
-        "aiError": "Gemini API request failed (429): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric",
-        "aiAttemptedAt": "2026-10-06T16:20:35.337Z"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-06T16:47:56.689300Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -150,18 +206,80 @@
       "title": "Anh Ngữ Sinh Động Bài 3",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=3",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/3.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "The lesson teaches how to say where someone is from and how to ask about another person's name and origin. It practices the present forms of be, including he is, she is, his, and her, and uses locations such as Florida, Miami, Cairo, California, and London. It also includes introductions, a dinner invitation, and a business-English segment about international companies.",
+      "keyPatterns": [
+        {
+          "pattern": "What's her name?",
+          "meaning": "Ask for a woman's name."
+        },
+        {
+          "pattern": "I'm from ...",
+          "meaning": "State where you are from."
+        },
+        {
+          "pattern": "Where are you from?",
+          "meaning": "Ask where someone is from."
+        },
+        {
+          "pattern": "Is ... in ...?",
+          "meaning": "Ask whether a person or place is located in a particular place."
+        },
+        {
+          "pattern": "Would you like to come?",
+          "meaning": "Invite someone to an event or meal."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "guest",
+          "meaning": "a person invited to a place or program"
+        },
+        {
+          "word": "break",
+          "meaning": "a short period of rest"
+        },
+        {
+          "word": "capital",
+          "meaning": "the main city of a country or region"
+        },
+        {
+          "word": "on the air",
+          "meaning": "broadcasting live or as part of a program"
+        },
+        {
+          "word": "industrial robot",
+          "meaning": "a robot used in industrial work"
+        },
+        {
+          "word": "high-tech",
+          "meaning": "using advanced technology"
+        },
+        {
+          "word": "computer components",
+          "meaning": "parts used in computers"
+        },
+        {
+          "word": "dinner party",
+          "meaning": "a social event involving a meal"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=3"
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-06T16:47:56.689300Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -171,18 +289,76 @@
       "title": "Anh Ngữ Sinh Động Bài 4",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=4",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/4.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This business-English lesson focuses on introducing yourself in a professional setting. It uses a trade-show conversation to demonstrate giving your full name, job position, and company, and explains when to use a person's last name or first name. It also introduces business vocabulary related to technology, robots, hardware, software, and manufacturing.",
+      "keyPatterns": [
+        {
+          "pattern": "My name is ...",
+          "meaning": "Give your name in a professional introduction."
+        },
+        {
+          "pattern": "I'm the ... for ...",
+          "meaning": "State your position and company."
+        },
+        {
+          "pattern": "Nice to meet you, Mr. ...",
+          "meaning": "Address someone formally in a first business meeting."
+        },
+        {
+          "pattern": "Please call me ...",
+          "meaning": "Signal that first-name informality is acceptable."
+        },
+        {
+          "pattern": "I'm the ... representative for ...",
+          "meaning": "Describe your professional role and organization."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "booth",
+          "meaning": "a small area or stand at a trade show"
+        },
+        {
+          "word": "sales manager",
+          "meaning": "a manager responsible for sales"
+        },
+        {
+          "word": "robot",
+          "meaning": "a machine that performs tasks automatically"
+        },
+        {
+          "word": "hardware",
+          "meaning": "physical computer equipment"
+        },
+        {
+          "word": "software",
+          "meaning": "computer programs"
+        },
+        {
+          "word": "manufacturing process",
+          "meaning": "the process used to make products"
+        },
+        {
+          "word": "computer components",
+          "meaning": "individual parts of a computer"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=4"
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-06T16:47:56.689300Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -259,7 +435,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "ai-generated",
         "aiModel": "gemini-3.6-flash",
@@ -279,18 +455,76 @@
       "title": "Anh Ngữ Sinh Động Bài 6",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=6",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/6.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson focuses on education and employment in business English. Charles Blake discusses his university education and professional background, while the lesson also explains several ways people find jobs in the United States. It emphasizes employment advertisements, employment agencies, the Internet, and networking.",
+      "keyPatterns": [
+        {
+          "pattern": "I graduated from ...",
+          "meaning": "Say where you completed your degree or studies."
+        },
+        {
+          "pattern": "I studied ...",
+          "meaning": "Describe a field of study."
+        },
+        {
+          "pattern": "I worked for ...",
+          "meaning": "Describe a previous employer."
+        },
+        {
+          "pattern": "I found a job through ...",
+          "meaning": "Explain how you obtained a job."
+        },
+        {
+          "pattern": "stay in touch with ...",
+          "meaning": "Maintain contact with another person."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "college",
+          "meaning": "an institution of higher education"
+        },
+        {
+          "word": "university",
+          "meaning": "a higher-education institution offering undergraduate and advanced degrees"
+        },
+        {
+          "word": "employment agency",
+          "meaning": "a service that helps people find jobs"
+        },
+        {
+          "word": "fee",
+          "meaning": "money charged for a service"
+        },
+        {
+          "word": "resume",
+          "meaning": "a document summarizing education and work experience"
+        },
+        {
+          "word": "interviewing skills",
+          "meaning": "skills used during a job interview"
+        },
+        {
+          "word": "networking",
+          "meaning": "building professional relationships"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=6"
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-06T16:47:56.689300Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -300,18 +534,76 @@
       "title": "Anh Ngữ Sinh Động Bài 7",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=7",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/7.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "The lesson continues the topic of finding and getting a job, with special attention to job interviews. It reviews four common job-search methods—newspaper advertisements, employment agencies, personal contacts, and the Internet—and encourages learners to practice describing their education and work experience.",
+      "keyPatterns": [
+        {
+          "pattern": "I'm looking for a job.",
+          "meaning": "State that you are currently searching for employment."
+        },
+        {
+          "pattern": "I have experience in ...",
+          "meaning": "Describe previous professional experience."
+        },
+        {
+          "pattern": "I worked for ...",
+          "meaning": "Describe a previous employer."
+        },
+        {
+          "pattern": "I majored in ...",
+          "meaning": "State your main field of study."
+        },
+        {
+          "pattern": "I specialize in ...",
+          "meaning": "Describe a professional specialization."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "employer",
+          "meaning": "a person or organization that employs people"
+        },
+        {
+          "word": "employee",
+          "meaning": "a person who works for an organization"
+        },
+        {
+          "word": "résumé",
+          "meaning": "a summary of education and work experience"
+        },
+        {
+          "word": "employment agency",
+          "meaning": "an organization that helps people find jobs"
+        },
+        {
+          "word": "hire",
+          "meaning": "to employ someone"
+        },
+        {
+          "word": "interviewing skills",
+          "meaning": "abilities used to perform well in job interviews"
+        },
+        {
+          "word": "specialization",
+          "meaning": "a particular area of professional or academic expertise"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=7"
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-06T16:47:56.689300Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -321,18 +613,76 @@
       "title": "Anh Ngữ Sinh Động Bài 8",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=8",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/8.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "The lesson teaches how to talk about countries, nationalities, and locations. The central question is “Where is France?” and the lesson practices yes/no answers, the pronoun it, and questions about where people come from. Examples include France, Italy, Austria, Australia, Paris, Madrid, South Africa, the United States, and Australia.",
+      "keyPatterns": [
+        {
+          "pattern": "It's in ...",
+          "meaning": "State the location of a place."
+        },
+        {
+          "pattern": "Are you ...?",
+          "meaning": "Ask whether someone has a particular nationality or identity."
+        },
+        {
+          "pattern": "Yes, that's right.",
+          "meaning": "Confirm information."
+        },
+        {
+          "pattern": "No, it isn't.",
+          "meaning": "Give a negative answer about a place."
+        },
+        {
+          "pattern": "Does she come from ...?",
+          "meaning": "Ask whether a woman is from a country or place."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Europe",
+          "meaning": "the continent containing France and Italy"
+        },
+        {
+          "word": "map",
+          "meaning": "a visual representation of an area"
+        },
+        {
+          "word": "France",
+          "meaning": "a country in Europe"
+        },
+        {
+          "word": "Italy",
+          "meaning": "a country in Europe"
+        },
+        {
+          "word": "Austria",
+          "meaning": "a country in Europe"
+        },
+        {
+          "word": "Australia",
+          "meaning": "a country and continent in the Southern Hemisphere"
+        },
+        {
+          "word": "nationality",
+          "meaning": "the status of belonging to a particular nation"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=8"
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-06T16:47:56.689300Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -342,18 +692,76 @@
       "title": "Anh Ngữ Sinh Động Bài 9",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=9",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/9.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "The lesson combines Karen's job search with business English about job responsibilities. Karen is looking for computer-programming work but can only work part-time because of childcare responsibilities. The lesson also practices describing company locations, factories, meetings, and professional roles.",
+      "keyPatterns": [
+        {
+          "pattern": "I'm looking for ...",
+          "meaning": "Say what employment or opportunity you are seeking."
+        },
+        {
+          "pattern": "I can only work ...",
+          "meaning": "Describe a limitation on availability."
+        },
+        {
+          "pattern": "Who will take care of ...?",
+          "meaning": "Ask who will be responsible for caring for someone."
+        },
+        {
+          "pattern": "How many ... does it have?",
+          "meaning": "Ask about a quantity."
+        },
+        {
+          "pattern": "Its main ... is in ...",
+          "meaning": "State the main location of a company facility."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "job search",
+          "meaning": "the process of looking for employment"
+        },
+        {
+          "word": "part-time work",
+          "meaning": "work for fewer hours than a full-time position"
+        },
+        {
+          "word": "full-time job",
+          "meaning": "employment involving a full normal working schedule"
+        },
+        {
+          "word": "child care",
+          "meaning": "care provided for children"
+        },
+        {
+          "word": "computer programmer",
+          "meaning": "a person who writes computer programs"
+        },
+        {
+          "word": "factory",
+          "meaning": "a building where goods are manufactured"
+        },
+        {
+          "word": "responsibility",
+          "meaning": "a duty or area of work for which someone is accountable"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=9"
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-06T16:47:56.689300Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -363,18 +771,76 @@
       "title": "Anh Ngữ Sinh Động Bài 10",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=10",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/10.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson discusses career mobility and workplace responsibilities. Gary explains why changing companies can sometimes help a person become a senior executive and emphasizes keeping professional skills up to date. A business-dialog section then practices describing job duties using expressions such as “I handle” and “I'm in charge of.”",
+      "keyPatterns": [
+        {
+          "pattern": "It's better to ...",
+          "meaning": "Compare two choices or recommend an action."
+        },
+        {
+          "pattern": "Keep your skills up to date.",
+          "meaning": "Say that professional knowledge should remain current."
+        },
+        {
+          "pattern": "I'm in charge of ...",
+          "meaning": "State an area of responsibility."
+        },
+        {
+          "pattern": "I handle ...",
+          "meaning": "Describe work that you personally manage."
+        },
+        {
+          "pattern": "I'm a ... at ...",
+          "meaning": "State your job and employer."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "top executive",
+          "meaning": "a senior manager in an organization"
+        },
+        {
+          "word": "corporation",
+          "meaning": "a large business organization"
+        },
+        {
+          "word": "up to date",
+          "meaning": "current and not outdated"
+        },
+        {
+          "word": "out of date",
+          "meaning": "old or no longer current"
+        },
+        {
+          "word": "field",
+          "meaning": "a professional or academic area"
+        },
+        {
+          "word": "network",
+          "meaning": "a group of professional or personal contacts"
+        },
+        {
+          "word": "advice",
+          "meaning": "a recommendation about what to do"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=10"
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-06T16:47:56.689300Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -384,18 +850,72 @@
       "title": "Anh Ngữ Sinh Động Bài 11",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=11",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/11.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "The lesson teaches how to ask and answer questions about languages and nationalities using the verb speak. Maria Alvarez discusses her American identity and Spanish family background. The lesson contrasts speak, speaks, don't speak, and doesn't speak and includes examples of people who speak multiple languages.",
+      "keyPatterns": [
+        {
+          "pattern": "Do you speak ...?",
+          "meaning": "Ask whether someone speaks a language."
+        },
+        {
+          "pattern": "No, I don't.",
+          "meaning": "Answer a present-tense yes/no question negatively."
+        },
+        {
+          "pattern": "She speaks ...",
+          "meaning": "Describe a woman's language ability."
+        },
+        {
+          "pattern": "He doesn't speak ...",
+          "meaning": "Describe a man's lack of language ability."
+        },
+        {
+          "pattern": "Do people in ... speak ...?",
+          "meaning": "Ask about language use in a place."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Spanish",
+          "meaning": "the Spanish language"
+        },
+        {
+          "word": "Hispanic",
+          "meaning": "relating to Spanish-speaking culture or Latin America"
+        },
+        {
+          "word": "language",
+          "meaning": "a system of communication used by a community"
+        },
+        {
+          "word": "nationality",
+          "meaning": "a person's national identity"
+        },
+        {
+          "word": "second language",
+          "meaning": "a language learned or used in addition to a first language"
+        },
+        {
+          "word": "speak",
+          "meaning": "to use a language in communication"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=11"
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-06T16:47:56.689300Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -405,18 +925,76 @@
       "title": "Anh Ngữ Sinh Động Bài 12",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=12",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/12.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "The lesson focuses on describing professional history and work experience. Michael Epstein discusses his engineering and business background, while the lesson introduces vocabulary for education, quality assurance, systems engineering, work duration, and the business side of a career. It also discusses vacation time, normal work hours, and start-up companies.",
+      "keyPatterns": [
+        {
+          "pattern": "I majored in ...",
+          "meaning": "State your university field of study."
+        },
+        {
+          "pattern": "I worked for ... for ...",
+          "meaning": "Describe a previous job and its duration."
+        },
+        {
+          "pattern": "I have a background in ...",
+          "meaning": "Describe education or professional experience."
+        },
+        {
+          "pattern": "I got my MBA at ...",
+          "meaning": "Describe where you obtained an MBA."
+        },
+        {
+          "pattern": "I worked in ...",
+          "meaning": "Describe an area of professional work."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "electrical engineer",
+          "meaning": "an engineer specializing in electrical systems"
+        },
+        {
+          "word": "quality assurance",
+          "meaning": "activities used to ensure product or service quality"
+        },
+        {
+          "word": "systems engineer",
+          "meaning": "an engineer who works with complex systems"
+        },
+        {
+          "word": "MBA",
+          "meaning": "Master of Business Administration degree"
+        },
+        {
+          "word": "start-up company",
+          "meaning": "a newly established company"
+        },
+        {
+          "word": "work week",
+          "meaning": "the normal period of work in a week"
+        },
+        {
+          "word": "vacation",
+          "meaning": "time away from work for rest or travel"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=12"
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-06T16:47:56.689300Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -426,18 +1004,68 @@
       "title": "Anh Ngữ Sinh Động Bài 13",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=13",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/13.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "The lesson develops language for discussing job history and professional experience in a job interview. It helps learners describe previous positions, education, responsibilities, and career progression in a clear interview context.",
+      "keyPatterns": [
+        {
+          "pattern": "I worked for ...",
+          "meaning": "Describe a previous employer."
+        },
+        {
+          "pattern": "I was responsible for ...",
+          "meaning": "Describe a previous job responsibility."
+        },
+        {
+          "pattern": "I studied ...",
+          "meaning": "Describe educational background."
+        },
+        {
+          "pattern": "I have experience in ...",
+          "meaning": "Describe professional experience."
+        },
+        {
+          "pattern": "After I ..., I ...",
+          "meaning": "Describe the sequence of events in your career."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "job history",
+          "meaning": "a record of a person's previous employment"
+        },
+        {
+          "word": "job interview",
+          "meaning": "a meeting in which an employer evaluates a job candidate"
+        },
+        {
+          "word": "experience",
+          "meaning": "knowledge or skill gained from work or activity"
+        },
+        {
+          "word": "position",
+          "meaning": "a particular job or role"
+        },
+        {
+          "word": "responsibility",
+          "meaning": "a duty associated with a job"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=13"
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-06T16:47:56.689300Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -447,18 +1075,72 @@
       "title": "Anh Ngữ Sinh Động Bài 14",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=14",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/14.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "The lesson teaches how to ask who speaks a particular language and how to answer with a person's name. It practices the question word who, present-tense negatives with don't and doesn't, and language vocabulary through interviews and telephone conversations.",
+      "keyPatterns": [
+        {
+          "pattern": "Who is she?",
+          "meaning": "Ask for the identity of a woman."
+        },
+        {
+          "pattern": "Who speaks ...?",
+          "meaning": "Ask which person speaks a language."
+        },
+        {
+          "pattern": "... speaks ...",
+          "meaning": "State that a person speaks a language."
+        },
+        {
+          "pattern": "... doesn't speak ...",
+          "meaning": "State that a person does not speak a language."
+        },
+        {
+          "pattern": "Do you speak ...?",
+          "meaning": "Ask about a person's language ability."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "French",
+          "meaning": "the French language"
+        },
+        {
+          "word": "Spanish",
+          "meaning": "the Spanish language"
+        },
+        {
+          "word": "Japanese",
+          "meaning": "the Japanese language"
+        },
+        {
+          "word": "Korean",
+          "meaning": "the Korean language"
+        },
+        {
+          "word": "Russian",
+          "meaning": "the Russian language"
+        },
+        {
+          "word": "both",
+          "meaning": "the two people or things together"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=14"
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-06T16:47:56.689300Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -468,18 +1150,72 @@
       "title": "Anh Ngữ Sinh Động Bài 15",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=15",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/15.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This business-English lesson focuses on professional roles and the handling of personal questions in business conversations. It discusses educational background, work history, marketing, support staff, and questions that may be inappropriate or too personal, such as age, religion, salary, and marital status.",
+      "keyPatterns": [
+        {
+          "pattern": "What is your educational background?",
+          "meaning": "Ask about someone's education and training."
+        },
+        {
+          "pattern": "What prepared you to ...?",
+          "meaning": "Ask what experience or education prepared someone for a role."
+        },
+        {
+          "pattern": "I graduated from ...",
+          "meaning": "State where you completed your education."
+        },
+        {
+          "pattern": "I majored in ...",
+          "meaning": "State your academic major."
+        },
+        {
+          "pattern": "I worked in ...",
+          "meaning": "Describe a previous professional area."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "oversee",
+          "meaning": "to supervise or manage"
+        },
+        {
+          "word": "report to",
+          "meaning": "to work under the authority of someone"
+        },
+        {
+          "word": "support staff",
+          "meaning": "employees who provide assistance to an organization or department"
+        },
+        {
+          "word": "marketing",
+          "meaning": "activities involved in promoting and selling products or services"
+        },
+        {
+          "word": "marital status",
+          "meaning": "whether someone is married, single, or otherwise partnered"
+        },
+        {
+          "word": "educational background",
+          "meaning": "a person's education and training history"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=15"
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-06T16:47:56.689300Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -489,18 +1225,68 @@
       "title": "Anh Ngữ Sinh Động Bài 16",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=16",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/16.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "The lesson uses Cultural Tips to discuss the role of women in the workplace and related cultural expectations. It continues the business-English theme by helping learners understand workplace culture and language used when discussing professional roles and equality.",
+      "keyPatterns": [
+        {
+          "pattern": "Women in the workplace ...",
+          "meaning": "Introduce a discussion about women's roles at work."
+        },
+        {
+          "pattern": "In the workplace, ...",
+          "meaning": "Describe a situation or practice in a professional environment."
+        },
+        {
+          "pattern": "It is important to ...",
+          "meaning": "State an important workplace principle."
+        },
+        {
+          "pattern": "Compared with ...",
+          "meaning": "Compare two situations or groups."
+        },
+        {
+          "pattern": "People expect ...",
+          "meaning": "Describe expectations in a workplace or culture."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "workplace",
+          "meaning": "the place where people work"
+        },
+        {
+          "word": "culture",
+          "meaning": "the shared practices and values of a group"
+        },
+        {
+          "word": "role",
+          "meaning": "the function or position someone has"
+        },
+        {
+          "word": "professional",
+          "meaning": "related to work or a profession"
+        },
+        {
+          "word": "equality",
+          "meaning": "the state of having equal rights or opportunities"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=16"
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-06T16:47:56.689300Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -510,18 +1296,80 @@
       "title": "Anh Ngữ Sinh Động Bài 17",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=17",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/17.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "The lesson teaches numbers and the question “How many brothers do you have?” through conversations about Pierre Dubois and his family. Learners practice counting, asking about brothers, sisters, aunts, uncles, parents, and grandparents, and using have/has and does ... have.",
+      "keyPatterns": [
+        {
+          "pattern": "How many ... do you have?",
+          "meaning": "Ask about the number of people or things someone has."
+        },
+        {
+          "pattern": "Does he have ...?",
+          "meaning": "Ask whether a man has something or someone."
+        },
+        {
+          "pattern": "He has ...",
+          "meaning": "State what a man has."
+        },
+        {
+          "pattern": "How old are your parents?",
+          "meaning": "Ask about the age of someone's parents."
+        },
+        {
+          "pattern": "What about ...?",
+          "meaning": "Ask for related information about another person or thing."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "brother",
+          "meaning": "a male sibling"
+        },
+        {
+          "word": "sister",
+          "meaning": "a female sibling"
+        },
+        {
+          "word": "aunt",
+          "meaning": "the sister of a parent, or the wife of an uncle"
+        },
+        {
+          "word": "uncle",
+          "meaning": "the brother of a parent, or the husband of an aunt"
+        },
+        {
+          "word": "grandparents",
+          "meaning": "a person's grandparents"
+        },
+        {
+          "word": "single",
+          "meaning": "not married"
+        },
+        {
+          "word": "married",
+          "meaning": "having a husband or wife"
+        },
+        {
+          "word": "alive",
+          "meaning": "still living"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=17"
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-06T16:47:56.689300Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -531,18 +1379,72 @@
       "title": "Anh Ngữ Sinh Động Bài 18",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=18",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/18.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "The lesson combines a train-station conversation, number practice, and making appointments by telephone. It develops practical language for transportation and scheduling, including asking when a train leaves, giving times, and arranging a meeting.",
+      "keyPatterns": [
+        {
+          "pattern": "When does ... leave?",
+          "meaning": "Ask when a train or other scheduled service departs."
+        },
+        {
+          "pattern": "It's ... o'clock.",
+          "meaning": "State the time."
+        },
+        {
+          "pattern": "What time does ... start?",
+          "meaning": "Ask when an event begins."
+        },
+        {
+          "pattern": "Can we meet ...?",
+          "meaning": "Suggest or arrange a meeting time."
+        },
+        {
+          "pattern": "What time works for you?",
+          "meaning": "Ask about someone's available meeting time."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "train station",
+          "meaning": "a place where trains arrive and depart"
+        },
+        {
+          "word": "appointment",
+          "meaning": "an arranged meeting at a particular time"
+        },
+        {
+          "word": "schedule",
+          "meaning": "a plan showing times for events or transportation"
+        },
+        {
+          "word": "leave",
+          "meaning": "to depart from a place"
+        },
+        {
+          "word": "arrive",
+          "meaning": "to reach a place"
+        },
+        {
+          "word": "duration",
+          "meaning": "the amount of time something lasts"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=18"
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-06T16:47:56.689300Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -552,18 +1454,72 @@
       "title": "Anh Ngữ Sinh Động Bài 19",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=19",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/19.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "The lesson focuses on making appointments and discussing whether a conversation or meeting went well. It practices scheduling language, arranging times, and communicating about professional meetings in the context of business English.",
+      "keyPatterns": [
+        {
+          "pattern": "How did it go?",
+          "meaning": "Ask about the result or progress of an event or meeting."
+        },
+        {
+          "pattern": "It went well.",
+          "meaning": "Say that an event or meeting was successful."
+        },
+        {
+          "pattern": "Can we meet ...?",
+          "meaning": "Suggest a meeting."
+        },
+        {
+          "pattern": "I'd like to meet ...",
+          "meaning": "State a desire to arrange a meeting."
+        },
+        {
+          "pattern": "Are you available ...?",
+          "meaning": "Ask whether someone is free at a particular time."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "appointment",
+          "meaning": "an arranged meeting"
+        },
+        {
+          "word": "available",
+          "meaning": "free and able to meet or do something"
+        },
+        {
+          "word": "schedule",
+          "meaning": "a plan of arranged times"
+        },
+        {
+          "word": "meeting",
+          "meaning": "a planned gathering or discussion"
+        },
+        {
+          "word": "go well",
+          "meaning": "to happen successfully"
+        },
+        {
+          "word": "arrange",
+          "meaning": "to organize or plan something"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=19"
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-06T16:47:56.689300Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -573,18 +1529,80 @@
       "title": "Anh Ngữ Sinh Động Bài 20",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=20",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/20.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "The lesson teaches how to tell time and talk about duration through train travel and theater trips. The central question is “When Does the Train Leave?” Learners practice o'clock times, departure and arrival times, how long trips take, and when shows start and end.",
+      "keyPatterns": [
+        {
+          "pattern": "When does the train leave?",
+          "meaning": "Ask when a train departs."
+        },
+        {
+          "pattern": "It leaves at ...",
+          "meaning": "State a departure time."
+        },
+        {
+          "pattern": "When does it arrive?",
+          "meaning": "Ask when a train or person reaches a destination."
+        },
+        {
+          "pattern": "It takes about ... hours.",
+          "meaning": "State the approximate duration of a trip."
+        },
+        {
+          "pattern": "They usually end at ...",
+          "meaning": "State the usual ending time of an event."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "o'clock",
+          "meaning": "used to state an exact hour"
+        },
+        {
+          "word": "arrive",
+          "meaning": "to reach a destination"
+        },
+        {
+          "word": "leave",
+          "meaning": "to depart"
+        },
+        {
+          "word": "duration",
+          "meaning": "the length of time something continues"
+        },
+        {
+          "word": "drama",
+          "meaning": "the art or study of plays"
+        },
+        {
+          "word": "play",
+          "meaning": "a theatrical performance"
+        },
+        {
+          "word": "Broadway show",
+          "meaning": "a theatrical or musical production associated with Broadway in New York"
+        },
+        {
+          "word": "go by train",
+          "meaning": "travel by train"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=20"
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-06T16:47:56.689300Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -603,7 +1621,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -624,7 +1642,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -645,7 +1663,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -666,7 +1684,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -687,7 +1705,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -708,7 +1726,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -729,7 +1747,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -750,7 +1768,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -771,7 +1789,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -792,7 +1810,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -813,7 +1831,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -834,7 +1852,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -855,7 +1873,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -876,7 +1894,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -897,7 +1915,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -918,7 +1936,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -939,7 +1957,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -960,7 +1978,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -981,7 +1999,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1002,7 +2020,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1023,7 +2041,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1044,7 +2062,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1065,7 +2083,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1086,7 +2104,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1107,7 +2125,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1128,7 +2146,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1149,7 +2167,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1170,7 +2188,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1191,7 +2209,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1212,7 +2230,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1233,7 +2251,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1254,7 +2272,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1275,7 +2293,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1296,7 +2314,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1317,7 +2335,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1338,7 +2356,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1359,7 +2377,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1380,7 +2398,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1401,7 +2419,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1422,7 +2440,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1443,7 +2461,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1464,7 +2482,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1485,7 +2503,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1506,7 +2524,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1527,7 +2545,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1548,7 +2566,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1569,7 +2587,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1590,7 +2608,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1611,7 +2629,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1632,7 +2650,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1653,7 +2671,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1674,7 +2692,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1695,7 +2713,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1716,7 +2734,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1737,7 +2755,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1758,7 +2776,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1779,7 +2797,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1800,7 +2818,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1821,7 +2839,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1842,7 +2860,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1863,7 +2881,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1884,7 +2902,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1905,7 +2923,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1926,7 +2944,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1947,7 +2965,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1968,7 +2986,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -1989,7 +3007,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2010,7 +3028,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2031,7 +3049,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2052,7 +3070,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2073,7 +3091,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2094,7 +3112,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2115,7 +3133,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2136,7 +3154,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2157,7 +3175,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2178,7 +3196,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2199,7 +3217,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2220,7 +3238,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2241,7 +3259,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2262,7 +3280,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2283,7 +3301,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2304,7 +3322,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2325,7 +3343,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2346,7 +3364,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2367,7 +3385,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2388,7 +3406,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2409,7 +3427,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2430,7 +3448,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2451,7 +3469,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2472,7 +3490,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2493,7 +3511,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2514,7 +3532,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2577,7 +3595,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "ai-generated",
         "aiModel": "gemini-3.6-flash",
@@ -2606,7 +3624,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2627,7 +3645,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2648,7 +3666,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2669,7 +3687,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2690,7 +3708,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2711,7 +3729,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2732,7 +3750,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2753,7 +3771,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2774,7 +3792,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2795,7 +3813,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2816,7 +3834,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2837,7 +3855,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2858,7 +3876,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2879,7 +3897,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2900,7 +3918,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2921,7 +3939,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2942,7 +3960,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2963,7 +3981,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -2984,7 +4002,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3005,7 +4023,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3026,7 +4044,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3047,7 +4065,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3068,7 +4086,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3089,7 +4107,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3110,7 +4128,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3131,7 +4149,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3152,7 +4170,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3173,7 +4191,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3194,7 +4212,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3215,7 +4233,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3236,7 +4254,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3257,7 +4275,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3278,7 +4296,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3299,7 +4317,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3320,7 +4338,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3341,7 +4359,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3362,7 +4380,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3383,7 +4401,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3404,7 +4422,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3425,7 +4443,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3446,7 +4464,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3467,7 +4485,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3488,7 +4506,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3509,7 +4527,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3530,7 +4548,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3551,7 +4569,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3572,7 +4590,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3593,7 +4611,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3614,7 +4632,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3635,7 +4653,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3656,7 +4674,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3677,7 +4695,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3698,7 +4716,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3719,7 +4737,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3740,7 +4758,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3761,7 +4779,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3782,7 +4800,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3803,7 +4821,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3824,7 +4842,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3845,7 +4863,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3866,7 +4884,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3887,7 +4905,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3908,7 +4926,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3929,7 +4947,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3950,7 +4968,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3971,7 +4989,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -3992,11 +5010,9 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "failed",
-        "aiError": "The operation was aborted due to timeout",
-        "aiAttemptedAt": "2026-10-06T16:21:30.859Z"
+        "aiStatus": "pending"
       }
     },
     {
@@ -4015,7 +5031,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4036,7 +5052,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4057,7 +5073,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4078,7 +5094,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4099,7 +5115,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4120,7 +5136,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4141,7 +5157,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4162,7 +5178,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4183,7 +5199,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4204,7 +5220,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4225,7 +5241,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4246,7 +5262,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4267,7 +5283,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4288,7 +5304,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4309,7 +5325,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4330,7 +5346,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4351,7 +5367,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4372,7 +5388,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4393,7 +5409,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4414,7 +5430,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4435,7 +5451,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4456,7 +5472,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4477,7 +5493,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4498,7 +5514,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4519,7 +5535,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4540,7 +5556,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4561,7 +5577,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4582,7 +5598,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4603,7 +5619,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4624,7 +5640,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4645,7 +5661,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4666,7 +5682,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4687,7 +5703,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4708,7 +5724,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4729,7 +5745,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4750,7 +5766,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4771,7 +5787,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4792,7 +5808,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4813,7 +5829,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4834,7 +5850,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4855,7 +5871,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4876,7 +5892,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4897,7 +5913,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4918,7 +5934,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4939,7 +5955,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4960,7 +5976,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -4981,7 +5997,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5002,7 +6018,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5023,7 +6039,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5044,7 +6060,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5065,7 +6081,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5086,7 +6102,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5107,7 +6123,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5128,7 +6144,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5149,7 +6165,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5170,7 +6186,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5191,7 +6207,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5212,7 +6228,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5233,7 +6249,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5254,7 +6270,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5275,7 +6291,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5296,7 +6312,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5317,7 +6333,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5338,7 +6354,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5359,7 +6375,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5380,7 +6396,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5401,7 +6417,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5422,7 +6438,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5443,7 +6459,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5464,7 +6480,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5485,7 +6501,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5506,7 +6522,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5527,7 +6543,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5548,7 +6564,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5569,7 +6585,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5590,7 +6606,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5611,7 +6627,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5632,7 +6648,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5653,7 +6669,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5674,7 +6690,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5695,7 +6711,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5716,7 +6732,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5737,7 +6753,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5758,7 +6774,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5779,7 +6795,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5800,7 +6816,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5821,7 +6837,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5842,7 +6858,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5863,7 +6879,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5884,7 +6900,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5905,7 +6921,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5926,7 +6942,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5947,7 +6963,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5968,7 +6984,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -5989,7 +7005,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6010,7 +7026,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6031,7 +7047,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6052,7 +7068,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6073,7 +7089,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6094,7 +7110,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6115,7 +7131,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6136,7 +7152,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6157,7 +7173,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6178,7 +7194,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6199,7 +7215,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6220,7 +7236,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6241,7 +7257,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6262,7 +7278,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6283,7 +7299,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6304,7 +7320,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6325,7 +7341,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6346,7 +7362,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6367,7 +7383,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6388,7 +7404,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6409,7 +7425,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6430,7 +7446,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6451,7 +7467,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6472,7 +7488,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6493,7 +7509,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6514,7 +7530,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6535,7 +7551,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6590,7 +7606,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "ai-generated",
         "aiModel": "gemini-3.6-flash",
@@ -6619,7 +7635,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6640,7 +7656,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6661,7 +7677,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6682,7 +7698,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6703,7 +7719,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6724,7 +7740,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6745,7 +7761,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6766,7 +7782,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6787,7 +7803,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6808,7 +7824,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6829,7 +7845,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6850,7 +7866,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6871,7 +7887,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6892,7 +7908,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6913,7 +7929,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6934,7 +7950,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6955,7 +7971,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6976,7 +7992,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -6997,7 +8013,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -7018,7 +8034,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -7039,7 +8055,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -7060,7 +8076,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -7081,7 +8097,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -7102,7 +8118,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -7123,7 +8139,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -7144,7 +8160,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -7165,7 +8181,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -7186,7 +8202,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -7207,7 +8223,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -7228,7 +8244,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -7249,7 +8265,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -7270,7 +8286,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -7291,7 +8307,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -7312,7 +8328,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -7333,7 +8349,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -7354,7 +8370,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -7375,7 +8391,7 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "pending"
       }
@@ -7396,11 +8412,9 @@
       },
       "metadata": {
         "source": "lopngoaingu.com",
-        "fetchedAt": "2026-09-30T09:34:02.672Z",
+        "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "failed",
-        "aiError": "Gemini API request failed (429): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. * Quota exceeded for metric",
-        "aiAttemptedAt": "2026-10-06T16:22:05.884Z"
+        "aiStatus": "pending"
       }
     }
   ]
