@@ -9,6 +9,14 @@ const CHECKPOINT_IDS = [1, 113, 340];
 
 function parseIds(args) {
   if (args.includes("--all")) return Array.from({ length: 340 }, (_, index) => index + 1);
+  const rangeArg = args.find(arg => arg.startsWith("--range="));
+  if (rangeArg) {
+    const [start, end] = rangeArg.slice("--range=".length).split("-").map(value => Number(value.trim()));
+    if (!Number.isInteger(start) || !Number.isInteger(end) || start < 1 || end > 340 || start > end) {
+      throw new Error("--range must be in start-end format with 1 <= start <= end <= 340");
+    }
+    return Array.from({ length: end - start + 1 }, (_, index) => start + index);
+  }
   const idsArg = args.find(arg => arg.startsWith("--ids="));
   if (!idsArg) return CHECKPOINT_IDS;
 

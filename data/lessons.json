@@ -1612,9 +1612,55 @@
       "title": "Anh Ngữ Sinh Động Bài 21",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=21",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/21.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices expressing concern about a family member who is sick and describing what happened, followed by business language for making an appointment by phone.",
+      "keyPatterns": [
+        {
+          "pattern": "You look worried. What's wrong?",
+          "meaning": "Ask why someone seems worried or what is wrong."
+        },
+        {
+          "pattern": "What's the matter?",
+          "meaning": "Ask what problem or illness someone has."
+        },
+        {
+          "pattern": "Thanks for your concern.",
+          "meaning": "Thank someone for showing concern."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "suite",
+          "meaning": "phòng lớn và sang ở khách sạn"
+        },
+        {
+          "word": "STOMACH-ACHE",
+          "meaning": "đau bụng"
+        },
+        {
+          "word": "SOMETIME",
+          "meaning": "một lúc nào đó"
+        },
+        {
+          "word": "OFFICE",
+          "meaning": "văn phòng"
+        },
+        {
+          "word": "HOSPITAL",
+          "meaning": "bịnh viện"
+        },
+        {
+          "word": "GRANDSON",
+          "meaning": "cháu trai"
+        },
+        {
+          "word": "FREE",
+          "meaning": "rảnh, trống"
+        },
+        {
+          "word": "FLIGHT",
+          "meaning": "chuyến máy bay"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=21"
@@ -1623,7 +1669,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -1633,9 +1687,55 @@
       "title": "Anh Ngữ Sinh Động Bài 22",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=22",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/22.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson explains small talk in business phone calls: starting with friendly topics before discussing business and avoiding overly personal subjects.",
+      "keyPatterns": [
+        {
+          "pattern": "We rarely go directly to the main topic.",
+          "meaning": "Explain that business calls often begin with small talk."
+        },
+        {
+          "pattern": "Talking about friendly topics is called small talk.",
+          "meaning": "Define the role of small talk in business calls."
+        },
+        {
+          "pattern": "Avoid talking about very personal topics.",
+          "meaning": "Give advice about appropriate small-talk topics."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "TOPIC",
+          "meaning": "đầu đề, đề tài"
+        },
+        {
+          "word": "POLITE",
+          "meaning": "lịch sự, lễ phép, nhã nhặn"
+        },
+        {
+          "word": "PERSONAL",
+          "meaning": "có tính cách riêng tư"
+        },
+        {
+          "word": "INFORMAL",
+          "meaning": "thân mật"
+        },
+        {
+          "word": "IMMEDIATELY",
+          "meaning": "lập tức, ngay"
+        },
+        {
+          "word": "HOBBIES",
+          "meaning": "thú tiêu khiển, khác công việc hàng ngày"
+        },
+        {
+          "word": "FORMAL",
+          "meaning": "nghiêm trang, chính thức"
+        },
+        {
+          "word": "DISCUSS",
+          "meaning": "thảo luận, bàn về"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=22"
@@ -1644,7 +1744,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -1654,9 +1762,55 @@
       "title": "Anh Ngữ Sinh Động Bài 23",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=23",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/23.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices asking about prices, talking about clothing, and making comparisons with cost more than and cost less than.",
+      "keyPatterns": [
+        {
+          "pattern": "How much does it cost?",
+          "meaning": "Ask about the price of something."
+        },
+        {
+          "pattern": "It costs more than ...",
+          "meaning": "Compare a higher price with another item."
+        },
+        {
+          "pattern": "It costs less than ...",
+          "meaning": "Compare a lower price with another item."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "SUITE",
+          "meaning": "phòng sang trong khách sạn"
+        },
+        {
+          "word": "SUIT",
+          "meaning": "bộ đồ"
+        },
+        {
+          "word": "SILK",
+          "meaning": "lụa"
+        },
+        {
+          "word": "MEXICO",
+          "meaning": "Mễ-tây-cơ, Mê-hi-cô"
+        },
+        {
+          "word": "MATERIALS",
+          "meaning": "vật liệu, hàng"
+        },
+        {
+          "word": "INEXPENSIVE",
+          "meaning": "không đắt"
+        },
+        {
+          "word": "EXPENSIVE",
+          "meaning": "mắc, đắt"
+        },
+        {
+          "word": "EUROPE",
+          "meaning": "Âu châu"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=23"
@@ -1665,7 +1819,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -1675,9 +1837,55 @@
       "title": "Anh Ngữ Sinh Động Bài 24",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=24",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/24.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices listening to word problems involving family, travel time, money, and simple calculations, with additional telephone and business material.",
+      "keyPatterns": [
+        {
+          "pattern": "How many sisters does he have?",
+          "meaning": "Ask for a number based on information in a word problem."
+        },
+        {
+          "pattern": "What time does the train arrive?",
+          "meaning": "Ask for an arrival time using a duration."
+        },
+        {
+          "pattern": "How much does he get in 8 hours?",
+          "meaning": "Ask for a total amount based on a rate."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "laboratory",
+          "meaning": "phòng thí nghiệm"
+        },
+        {
+          "word": "UNIVERSITY",
+          "meaning": "đại học"
+        },
+        {
+          "word": "TOPIC",
+          "meaning": "đầu đề"
+        },
+        {
+          "word": "SPECIAL",
+          "meaning": "đặc biệt"
+        },
+        {
+          "word": "SECRET",
+          "meaning": "bí mật (adj)"
+        },
+        {
+          "word": "PERMISSION",
+          "meaning": "sự cho phép, giấy phép"
+        },
+        {
+          "word": "MATHEMATICS",
+          "meaning": "môn toán"
+        },
+        {
+          "word": "MATHEMATICAL",
+          "meaning": "thuộc về toán học"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=24"
@@ -1686,7 +1894,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -1696,9 +1912,55 @@
       "title": "Anh Ngữ Sinh Động Bài 25",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=25",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/25.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices answering questions from a business dialog and arranging a meeting time using direct and indirect suggestions.",
+      "keyPatterns": [
+        {
+          "pattern": "When shall we get together?",
+          "meaning": "Ask when people should meet."
+        },
+        {
+          "pattern": "I was hoping that we could perhaps arrange a meeting.",
+          "meaning": "Make a polite, indirect suggestion."
+        },
+        {
+          "pattern": "I'll tell you what. I'm free after eleven o'clock.",
+          "meaning": "Offer a practical alternative time."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "VAGUE",
+          "meaning": "mơ hồ"
+        },
+        {
+          "word": "SPECIFIC",
+          "meaning": "rõ ràng"
+        },
+        {
+          "word": "SMOOTH",
+          "meaning": "trơn tru, xuôi"
+        },
+        {
+          "word": "SALES",
+          "meaning": "mãi lực (mức sản phẩm bán ra)"
+        },
+        {
+          "word": "GENERAL",
+          "meaning": "tổng quát"
+        },
+        {
+          "word": "FREEDOM",
+          "meaning": "tự do"
+        },
+        {
+          "word": "DECIDE",
+          "meaning": "quyết định"
+        },
+        {
+          "word": "COWORKER",
+          "meaning": "người đồng nghiệp"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=25"
@@ -1707,7 +1969,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -1717,9 +1987,55 @@
       "title": "Anh Ngữ Sinh Động Bài 26",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=26",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/26.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices basic arithmetic in English, including addition, subtraction, and multiplication, and introduces related math vocabulary.",
+      "keyPatterns": [
+        {
+          "pattern": "One plus one equals two.",
+          "meaning": "State an addition result."
+        },
+        {
+          "pattern": "Eight minus two equals six.",
+          "meaning": "State a subtraction result."
+        },
+        {
+          "pattern": "Three times two equals six.",
+          "meaning": "State a multiplication result."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "UNDERSTOOD",
+          "meaning": "hiểu"
+        },
+        {
+          "word": "TIMES",
+          "meaning": "lần"
+        },
+        {
+          "word": "SUBSTRACTION",
+          "meaning": "tính trừ"
+        },
+        {
+          "word": "SCIENCE",
+          "meaning": "khoa học A"
+        },
+        {
+          "word": "PLUS",
+          "meaning": "thêm vào"
+        },
+        {
+          "word": "NUMBERS",
+          "meaning": "các con số"
+        },
+        {
+          "word": "MULTIPLICATION",
+          "meaning": "phép nhân"
+        },
+        {
+          "word": "MATHEMETICS",
+          "meaning": "môn toán"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=26"
@@ -1728,7 +2044,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -1738,9 +2062,55 @@
       "title": "Anh Ngữ Sinh Động Bài 27",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=27",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/27.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson continues the business appointment series and focuses on arranging meeting times with business colleagues.",
+      "keyPatterns": [
+        {
+          "pattern": "Let's arrange a meeting.",
+          "meaning": "Suggest arranging a meeting."
+        },
+        {
+          "pattern": "When shall we get together?",
+          "meaning": "Ask about a suitable meeting time."
+        },
+        {
+          "pattern": "I can meet you at ...",
+          "meaning": "State availability for a meeting."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "TOPIC",
+          "meaning": "đầu đề"
+        },
+        {
+          "word": "PROJECT",
+          "meaning": "dự án"
+        },
+        {
+          "word": "MUSICIAN",
+          "meaning": "nhạc sĩ"
+        },
+        {
+          "word": "MANAGER",
+          "meaning": "quản lý"
+        },
+        {
+          "word": "MAINTENANCE",
+          "meaning": "bảo trì"
+        },
+        {
+          "word": "DEADLINE",
+          "meaning": "ngày chót, hạn chót"
+        },
+        {
+          "word": "ACCOMPLISH",
+          "meaning": "đạt được, làm trọn"
+        },
+        {
+          "word": "OCTOBER DEADLINE",
+          "meaning": "hạn chót là tháng Mười"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=27"
@@ -1749,7 +2119,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -1759,9 +2137,55 @@
       "title": "Anh Ngữ Sinh Động Bài 28",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=28",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/28.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices extracting answers from a business dialog and using polite alternatives, apologies, and alternative meeting times.",
+      "keyPatterns": [
+        {
+          "pattern": "Could we make it earlier in the day?",
+          "meaning": "Suggest an alternative meeting time."
+        },
+        {
+          "pattern": "I'm sorry, but I'm not free after three.",
+          "meaning": "Politely refuse a proposed time."
+        },
+        {
+          "pattern": "I'll get back to you.",
+          "meaning": "Promise to respond later after checking."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "VAGUE",
+          "meaning": "mơ hồ, tổng quát, không rõ"
+        },
+        {
+          "word": "REASON",
+          "meaning": "lý do"
+        },
+        {
+          "word": "AVAILABLE",
+          "meaning": "rảnh"
+        },
+        {
+          "word": "ALTERNATIVE",
+          "meaning": "một lựa chọn khác"
+        },
+        {
+          "word": "TO APOLOGIZE",
+          "meaning": "xin lỗi"
+        },
+        {
+          "word": "A NEGOTIATION",
+          "meaning": "thương lượng"
+        },
+        {
+          "word": "REJECT A SUGGESTION",
+          "meaning": "từ chối một đề nghị"
+        },
+        {
+          "word": "PROPOSE AN ALTERNATIVE",
+          "meaning": "đề nghị (ngày giờ hẹn) khác"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=28"
@@ -1770,7 +2194,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -1780,9 +2212,55 @@
       "title": "Anh Ngữ Sinh Động Bài 29",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=29",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/29.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson introduces college life and studies, especially the present progressive with study and take a class.",
+      "keyPatterns": [
+        {
+          "pattern": "What are you studying?",
+          "meaning": "Ask what someone is studying."
+        },
+        {
+          "pattern": "I'm taking Chemistry and Physics.",
+          "meaning": "Say which classes you are taking."
+        },
+        {
+          "pattern": "I'm taking History and English literature.",
+          "meaning": "Describe current classes using the present progressive."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "ROOMMATE",
+          "meaning": "người ở cùng phòng"
+        },
+        {
+          "word": "Physics",
+          "meaning": "môn vật lý học"
+        },
+        {
+          "word": "MATHEMATICS",
+          "meaning": "môn toán"
+        },
+        {
+          "word": "LITERATURE",
+          "meaning": "văn chương"
+        },
+        {
+          "word": "LIBRARIAN",
+          "meaning": "quan thủ thư viện"
+        },
+        {
+          "word": "a physician",
+          "meaning": "bác sĩ"
+        },
+        {
+          "word": "a course",
+          "meaning": "một môn học"
+        },
+        {
+          "word": "ON CAMPUS",
+          "meaning": "ở trong đại học"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=29"
@@ -1791,7 +2269,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -1801,9 +2287,55 @@
       "title": "Anh Ngữ Sinh Động Bài 30",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=30",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/30.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson continues the business appointment series, focusing on confirming meeting times and ending a business telephone conversation.",
+      "keyPatterns": [
+        {
+          "pattern": "I can certainly understand your concerns.",
+          "meaning": "Acknowledge and respond to another person's concerns."
+        },
+        {
+          "pattern": "I will confirm the meeting.",
+          "meaning": "Confirm a planned arrangement."
+        },
+        {
+          "pattern": "I'll see you then.",
+          "meaning": "Close a conversation after confirming a meeting."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "PLANT",
+          "meaning": "xưởng máy"
+        },
+        {
+          "word": "MANAGER",
+          "meaning": "quản lý"
+        },
+        {
+          "word": "DECISION",
+          "meaning": "điều quyết định"
+        },
+        {
+          "word": "COMPANY",
+          "meaning": "công ty tư"
+        },
+        {
+          "word": "CERTAIN",
+          "meaning": "chắc chắn"
+        },
+        {
+          "word": "CAFETERIA",
+          "meaning": "tiệm ăn nhỏ"
+        },
+        {
+          "word": "BOSS",
+          "meaning": "người chỉ huy trong công việc mình, xếp"
+        },
+        {
+          "word": "ASTRONAUT",
+          "meaning": "phi hành gia"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=30"
@@ -1812,7 +2344,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -1822,9 +2362,55 @@
       "title": "Anh Ngữ Sinh Động Bài 31",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=31",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/31.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices building long sentences step by step and avoiding misunderstandings during telephone conversations.",
+      "keyPatterns": [
+        {
+          "pattern": "I'll look forward to seeing you tomorrow morning.",
+          "meaning": "Build a longer sentence by adding information step by step."
+        },
+        {
+          "pattern": "She's the manager of the project that I'm working on.",
+          "meaning": "Use a relative clause to add information."
+        },
+        {
+          "pattern": "I was wondering if we could get together again.",
+          "meaning": "Make a polite suggestion in a phone conversation."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "seventieth",
+          "meaning": "thứ 70"
+        },
+        {
+          "word": "seventeenth",
+          "meaning": "thứ 17"
+        },
+        {
+          "word": "fourteenth",
+          "meaning": "thứ 14"
+        },
+        {
+          "word": "fortieth",
+          "meaning": "thứ 40"
+        },
+        {
+          "word": "Seventeen",
+          "meaning": "mười bẩây"
+        },
+        {
+          "word": "SOUND",
+          "meaning": "phát âm, nghe"
+        },
+        {
+          "word": "PREVENT",
+          "meaning": "tránh"
+        },
+        {
+          "word": "at your hotel",
+          "meaning": "ở khách sạn của bạn"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=31"
@@ -1833,7 +2419,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -1843,9 +2437,55 @@
       "title": "Anh Ngữ Sinh Động Bài 32",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=32",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/32.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices saying telephone numbers and common office language, including answering phones, taking messages, and scheduling appointments.",
+      "keyPatterns": [
+        {
+          "pattern": "Could I have your telephone number, please?",
+          "meaning": "Politely ask for a telephone number."
+        },
+        {
+          "pattern": "Sometimes I schedule appointments.",
+          "meaning": "Describe a receptionist's office task."
+        },
+        {
+          "pattern": "Can I take a message?",
+          "meaning": "Offer to record a telephone message."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "PICTURES",
+          "meaning": "hình, ảnh"
+        },
+        {
+          "word": "HOSPITAL",
+          "meaning": "bịnh viện"
+        },
+        {
+          "word": "BOOKSTORE",
+          "meaning": "tiệm sách"
+        },
+        {
+          "word": "BLIND",
+          "meaning": "mù"
+        },
+        {
+          "word": "AWARD",
+          "meaning": "giải thưởng"
+        },
+        {
+          "word": "APARTMENT",
+          "meaning": "một căn phòng"
+        },
+        {
+          "word": "Law firm",
+          "meaning": "văn phòng tổ hợp luật sư"
+        },
+        {
+          "word": "GREET VISITORS",
+          "meaning": "chào khách"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=32"
@@ -1854,7 +2494,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -1864,9 +2512,55 @@
       "title": "Anh Ngữ Sinh Động Bài 33",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=33",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/33.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson combines a question-of-the-week activity with a story about a break-in and telephone message-taking in a business context.",
+      "keyPatterns": [
+        {
+          "pattern": "How many ...?",
+          "meaning": "Ask for a quantity in the question-of-the-week activity."
+        },
+        {
+          "pattern": "I'll call you back.",
+          "meaning": "Tell someone that you will return a phone call."
+        },
+        {
+          "pattern": "Can I take a message?",
+          "meaning": "Offer to record information for someone who is unavailable."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "TAKE",
+          "meaning": "lấy (trộm)"
+        },
+        {
+          "word": "STATE",
+          "meaning": "tiểu bang"
+        },
+        {
+          "word": "SPELLING",
+          "meaning": "đánh vần"
+        },
+        {
+          "word": "SECRET",
+          "meaning": "điều bí mật"
+        },
+        {
+          "word": "PRODUCTS",
+          "meaning": "sản phẩm"
+        },
+        {
+          "word": "PLEASE",
+          "meaning": "xin chờ một chút"
+        },
+        {
+          "word": "LAB",
+          "meaning": "phòng thí nghiệm"
+        },
+        {
+          "word": "HOLE",
+          "meaning": "lỗ"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=33"
@@ -1875,7 +2569,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -1885,9 +2587,47 @@
       "title": "Anh Ngữ Sinh Động Bài 34",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=34",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/34.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices questions based on a dialog and telephone message-taking, with emphasis on confirming information accurately.",
+      "keyPatterns": [
+        {
+          "pattern": "Can I take a message?",
+          "meaning": "Offer to record a message."
+        },
+        {
+          "pattern": "Could I have your telephone number, please?",
+          "meaning": "Politely request contact information."
+        },
+        {
+          "pattern": "Please spell your name.",
+          "meaning": "Ask someone to spell a name to avoid mistakes."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "ASPECT",
+          "meaning": "khiá cạnh"
+        },
+        {
+          "word": "KEY WORD",
+          "meaning": "chữ chủ chốt, quan trọng"
+        },
+        {
+          "word": "CONFIRM ALL INFORMATION",
+          "meaning": "xác nhận lại tất cả tin tức"
+        },
+        {
+          "word": "TO PREVENT PROBLEMS FROM HAPPENING",
+          "meaning": "tránh không để vấn đề khó khăn xảy ra"
+        },
+        {
+          "word": "BREAK THE NUMBERS INTO SMALL GROUPS",
+          "meaning": "chia số điện thoại thành nhóm nhỏ"
+        },
+        {
+          "word": "Can I take a mesage",
+          "meaning": "Tôi ghi lại lời nhắn được không?"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=34"
@@ -1896,7 +2636,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -1906,9 +2654,55 @@
       "title": "Anh Ngữ Sinh Động Bài 35",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=35",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/35.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson introduces family members and the verb have through the topic I Have One Child, while also discussing work and family.",
+      "keyPatterns": [
+        {
+          "pattern": "I have one child.",
+          "meaning": "State the number of children someone has."
+        },
+        {
+          "pattern": "We're talking about his job and family.",
+          "meaning": "Introduce the topic of someone's work and family."
+        },
+        {
+          "pattern": "I love teaching.",
+          "meaning": "Express enjoyment of a job."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "wife",
+          "meaning": "vợ"
+        },
+        {
+          "word": "mathematics",
+          "meaning": "môn toán"
+        },
+        {
+          "word": "husband",
+          "meaning": "chồng"
+        },
+        {
+          "word": "girl",
+          "meaning": "con gái"
+        },
+        {
+          "word": "daughter",
+          "meaning": "con gái"
+        },
+        {
+          "word": "Job",
+          "meaning": "công vệc làm"
+        },
+        {
+          "word": "Interesting",
+          "meaning": "lý thú"
+        },
+        {
+          "word": "Beautiful",
+          "meaning": "đẹp"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=35"
@@ -1917,7 +2711,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -1927,9 +2729,55 @@
       "title": "Anh Ngữ Sinh Động Bài 36",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=36",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/36.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson reviews language questions, babysitting and social activities, and hotel reservations.",
+      "keyPatterns": [
+        {
+          "pattern": "What language do they speak?",
+          "meaning": "Ask which language someone speaks."
+        },
+        {
+          "pattern": "I'll be looking forward to it.",
+          "meaning": "Express anticipation of a future event."
+        },
+        {
+          "pattern": "Make a reservation.",
+          "meaning": "Reserve a room or place in advance."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "t",
+          "meaning": "vị trí (cách Cựu"
+        },
+        {
+          "word": "Typically",
+          "meaning": "thường, tiêu biểu"
+        },
+        {
+          "word": "Studio",
+          "meaning": "phòng thâu thanh"
+        },
+        {
+          "word": "Staff",
+          "meaning": "nhân viên khách sạn"
+        },
+        {
+          "word": "Service",
+          "meaning": "dịch vụ"
+        },
+        {
+          "word": "Responsibility",
+          "meaning": "nhiệm vụ"
+        },
+        {
+          "word": "Reservation",
+          "meaning": "giữ phòng trước ở khách sạn"
+        },
+        {
+          "word": "Priced",
+          "meaning": "giá phải chăng"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=36"
@@ -1938,7 +2786,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -1948,9 +2804,55 @@
       "title": "Anh Ngữ Sinh Động Bài 37",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=37",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/37.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson gives cultural guidance about hotel check-in and check-out, hotel policies, and confirming reservation details.",
+      "keyPatterns": [
+        {
+          "pattern": "Each hotel has its own policy.",
+          "meaning": "Explain that hotel rules can differ."
+        },
+        {
+          "pattern": "They might charge you for an extra day.",
+          "meaning": "Explain a possible additional hotel charge."
+        },
+        {
+          "pattern": "Could you confirm my reservation?",
+          "meaning": "Ask the hotel to verify a reservation."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "please",
+          "meaning": "xin cho tôi nhân viên phụ trách giữ phòng trước"
+        },
+        {
+          "word": "lobby",
+          "meaning": "phòng đợi ở khách sạn"
+        },
+        {
+          "word": "y Terrible",
+          "meaning": "kinh khủng"
+        },
+        {
+          "word": "a discount",
+          "meaning": "bớt, giảm giá request a discount"
+        },
+        {
+          "word": "Good service",
+          "meaning": "dịch vụ tốt, tiếp đãi lịch sự"
+        },
+        {
+          "word": "Make a reservation",
+          "meaning": "giữ phòng trước"
+        },
+        {
+          "word": "Let you in",
+          "meaning": "cho vào"
+        },
+        {
+          "word": "Check in time",
+          "meaning": "giờ nhận phòng"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=37"
@@ -1959,7 +2861,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -1969,9 +2879,55 @@
       "title": "Anh Ngữ Sinh Động Bài 38",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=38",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/38.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices talking about jobs and daily life, including the alphabet and spelling names over the phone.",
+      "keyPatterns": [
+        {
+          "pattern": "What do you do?",
+          "meaning": "Ask someone what their job is."
+        },
+        {
+          "pattern": "What kind of job do you have?",
+          "meaning": "Ask about someone's occupation."
+        },
+        {
+          "pattern": "How do you spell that?",
+          "meaning": "Ask someone to spell a name or word."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Lawyer",
+          "meaning": "luật sư"
+        },
+        {
+          "word": "Expensive",
+          "meaning": "đắt, tốn tiền"
+        },
+        {
+          "word": "Comfortable",
+          "meaning": "ấm cúng"
+        },
+        {
+          "word": "Law firm",
+          "meaning": "tổ hợp luật sư"
+        },
+        {
+          "word": "A doctor",
+          "meaning": "bác sĩ"
+        },
+        {
+          "word": "A high salary",
+          "meaning": "lương cao"
+        },
+        {
+          "word": "A good salary",
+          "meaning": "lương khá"
+        },
+        {
+          "word": "work in a hospital",
+          "meaning": "tôi làm ở bệnh viện"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=38"
@@ -1980,7 +2936,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -1990,9 +2954,55 @@
       "title": "Anh Ngữ Sinh Động Bài 39",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=39",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/39.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson combines a street interview about a painter with making and confirming a hotel reservation by telephone.",
+      "keyPatterns": [
+        {
+          "pattern": "I'd like to make a reservation.",
+          "meaning": "Ask to reserve a hotel room."
+        },
+        {
+          "pattern": "I'd like to confirm my reservation.",
+          "meaning": "Ask to verify a reservation."
+        },
+        {
+          "pattern": "Right now.",
+          "meaning": "State that something is happening at the present time."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Truck",
+          "meaning": "xe vận-tải"
+        },
+        {
+          "word": "Paint",
+          "meaning": "sơn"
+        },
+        {
+          "word": "Bellman",
+          "meaning": "người nhân viên khách sạn khuân hay sách đồ cho khách"
+        },
+        {
+          "word": "To paint",
+          "meaning": "sơn, vẽ"
+        },
+        {
+          "word": "The President",
+          "meaning": "Tổng Thống"
+        },
+        {
+          "word": "Right now",
+          "meaning": "ngay bây giờ"
+        },
+        {
+          "word": "Reservation number",
+          "meaning": "số giữ phòng trước"
+        },
+        {
+          "word": "Confirmed reservation",
+          "meaning": "đã giữ phòng trước và đãø xác nhận"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=39"
@@ -2001,7 +3011,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2011,9 +3029,55 @@
       "title": "Anh Ngữ Sinh Động Bài 40",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=40",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/40.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices answering questions from a hotel dialog, handling hotel problems, and making or confirming a reservation.",
+      "keyPatterns": [
+        {
+          "pattern": "How can I handle this problem?",
+          "meaning": "Ask how to resolve a problem."
+        },
+        {
+          "pattern": "I'd like to make a reservation.",
+          "meaning": "Request a hotel reservation."
+        },
+        {
+          "pattern": "Can you confirm my reservation?",
+          "meaning": "Ask the hotel to confirm a booking."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Suite",
+          "meaning": "phòng lớn tại khách sạn"
+        },
+        {
+          "word": "Persistent",
+          "meaning": "kiên trì, khăng khăng đòi"
+        },
+        {
+          "word": "Full",
+          "meaning": "không còn chỗ trống"
+        },
+        {
+          "word": "A desk clerk",
+          "meaning": "tiếp viên ở quầy tiếp khách phiá trước"
+        },
+        {
+          "word": "Solve is more formal",
+          "meaning": "chính-thức hơn"
+        },
+        {
+          "word": "Arrive at the hotel",
+          "meaning": "tới khách-sạn"
+        },
+        {
+          "word": "BOOK",
+          "meaning": "dành chỗ trước, như book a ticket, book a room"
+        },
+        {
+          "word": "A front desk",
+          "meaning": "Quầy tiếp khách phiá trước, chỗ nhận khách ở khách sạn, cũng là chỗ hỏi thăm, ghi tên nhận phòng hay trả phòng"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=40"
@@ -2022,7 +3086,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2032,9 +3104,55 @@
       "title": "Anh Ngữ Sinh Động Bài 41",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=41",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/41.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices talking about where people live, housing and living conditions, and spelling information over the telephone.",
+      "keyPatterns": [
+        {
+          "pattern": "Where do you live?",
+          "meaning": "Ask about someone's place of residence."
+        },
+        {
+          "pattern": "How do you spell that?",
+          "meaning": "Ask for the spelling of a name or address."
+        },
+        {
+          "pattern": "I live in ...",
+          "meaning": "State where someone lives."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "MEET",
+          "meaning": "gặp"
+        },
+        {
+          "word": "Located",
+          "meaning": "toạ lạc"
+        },
+        {
+          "word": "Limited",
+          "meaning": "giới hạn"
+        },
+        {
+          "word": "GIRLFRIEND",
+          "meaning": "bạn gái"
+        },
+        {
+          "word": "FIRM",
+          "meaning": "tổ hợp luật-sư"
+        },
+        {
+          "word": "Expensive",
+          "meaning": "đắt Mr"
+        },
+        {
+          "word": "Company",
+          "meaning": "công ty president (không viết hoa)"
+        },
+        {
+          "word": "A businessman",
+          "meaning": "thương-gia, nhà kinh-doanh"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=41"
@@ -2043,7 +3161,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2053,9 +3179,55 @@
       "title": "Anh Ngữ Sinh Động Bài 42",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=42",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/42.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson combines a question-of-the-week activity about occupations with a story involving an airline reservation.",
+      "keyPatterns": [
+        {
+          "pattern": "What do they do?",
+          "meaning": "Ask what occupation someone has."
+        },
+        {
+          "pattern": "I work ...",
+          "meaning": "Describe a person's job."
+        },
+        {
+          "pattern": "I'm traveling on business.",
+          "meaning": "Describe business travel."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "fare",
+          "meaning": "giá chuyến bay, hay chuyến đi tắc xi"
+        },
+        {
+          "word": "Strange",
+          "meaning": "lạ"
+        },
+        {
+          "word": "Sick",
+          "meaning": "bị bịnh"
+        },
+        {
+          "word": "Several",
+          "meaning": "nhiều"
+        },
+        {
+          "word": "Fly",
+          "meaning": "bay hạng thường"
+        },
+        {
+          "word": "Fellow",
+          "meaning": "người, anh chàng"
+        },
+        {
+          "word": "Baby-sitting",
+          "meaning": "giữ trẻ hộ"
+        },
+        {
+          "word": "BORING",
+          "meaning": "chán, tẻ nhạt (adj"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=42"
@@ -2064,7 +3236,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2074,9 +3254,55 @@
       "title": "Anh Ngữ Sinh Động Bài 43",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=43",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/43.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson teaches ways to avoid problems with hotel reservations, including spelling names and clearly giving arrival and departure information.",
+      "keyPatterns": [
+        {
+          "pattern": "What is your arrival date?",
+          "meaning": "Ask when a guest will arrive."
+        },
+        {
+          "pattern": "What is your departure date?",
+          "meaning": "Ask when a guest will leave."
+        },
+        {
+          "pattern": "Could you spell your name, please?",
+          "meaning": "Confirm spelling for a reservation."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "facsimile",
+          "meaning": "điện thư, bản sao y hệt"
+        },
+        {
+          "word": "Sentence",
+          "meaning": "câu"
+        },
+        {
+          "word": "Prevent",
+          "meaning": "ngặn chận, đề phòng"
+        },
+        {
+          "word": "Phrase",
+          "meaning": "nhóm chữ"
+        },
+        {
+          "word": "Information",
+          "meaning": "tin tức"
+        },
+        {
+          "word": "Immediately",
+          "meaning": "ngay lập tức"
+        },
+        {
+          "word": "Advise",
+          "meaning": "(verb) khuyên"
+        },
+        {
+          "word": "The same",
+          "meaning": "giống nhau"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=43"
@@ -2085,7 +3311,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2095,9 +3329,55 @@
       "title": "Anh Ngữ Sinh Động Bài 44",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=44",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/44.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson reviews jobs, family, and living situations while practicing questions with what and possessive words such as my, your, his, and her.",
+      "keyPatterns": [
+        {
+          "pattern": "What is your wife's name?",
+          "meaning": "Ask for a person's name using what."
+        },
+        {
+          "pattern": "My wife's name is Sandra.",
+          "meaning": "Give a family member's name."
+        },
+        {
+          "pattern": "This is my ...",
+          "meaning": "Identify a family relationship using a possessive."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Terrible",
+          "meaning": "rất dở, tệ"
+        },
+        {
+          "word": "Student",
+          "meaning": "học sinh, sinh viên A dentist"
+        },
+        {
+          "word": "Sis",
+          "meaning": "viết tắt của chữ"
+        },
+        {
+          "word": "Piano",
+          "meaning": "dương cầm"
+        },
+        {
+          "word": "Interview",
+          "meaning": "cuộc phỏng vấn"
+        },
+        {
+          "word": "A nurse",
+          "meaning": "y tá A passenger"
+        },
+        {
+          "word": "work very hard",
+          "meaning": "tôi làm việc cực nhọc, chăm chỉ"
+        },
+        {
+          "word": "The post office",
+          "meaning": "sở bưu điện"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=44"
@@ -2106,7 +3386,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2116,9 +3404,55 @@
       "title": "Anh Ngữ Sinh Động Bài 45",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=45",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/45.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This business lesson continues hotel check-in and focuses on clarifying information in a conversation.",
+      "keyPatterns": [
+        {
+          "pattern": "Let me see if I understand you correctly.",
+          "meaning": "Check that you understood information correctly."
+        },
+        {
+          "pattern": "Let me clarify that.",
+          "meaning": "Make something clearer."
+        },
+        {
+          "pattern": "I would need more detail.",
+          "meaning": "Ask for additional information."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "upset",
+          "meaning": "bực mình, giận"
+        },
+        {
+          "word": "designated",
+          "meaning": "được chỉ định Eliz"
+        },
+        {
+          "word": "Smart",
+          "meaning": "thông minh"
+        },
+        {
+          "word": "Recording",
+          "meaning": "thâu âm"
+        },
+        {
+          "word": "Hallway",
+          "meaning": "hành lang"
+        },
+        {
+          "word": "Room service",
+          "meaning": "mang đồ ăn hay đồ uống hay dịch vụ khách cần tận phòng"
+        },
+        {
+          "word": "Operating television",
+          "meaning": "điều khiển máy truyền hình"
+        },
+        {
+          "word": "Designated areas",
+          "meaning": "những nơi chỉ định"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=45"
@@ -2127,7 +3461,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2137,9 +3479,55 @@
       "title": "Anh Ngữ Sinh Động Bài 46",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=46",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/46.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices cultural tips, sentence completion, daily dialogue, and ways to ask for clarification when something is unclear.",
+      "keyPatterns": [
+        {
+          "pattern": "Could you say that again?",
+          "meaning": "Ask someone to repeat information."
+        },
+        {
+          "pattern": "What do you mean?",
+          "meaning": "Ask for clarification."
+        },
+        {
+          "pattern": "Let me make sure I understand.",
+          "meaning": "Check understanding before continuing."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Snacks",
+          "meaning": "đồ ăn đỡ đói như khoai tây rán khô, potato chips"
+        },
+        {
+          "word": "Refrigerators",
+          "meaning": "tủ lạnh"
+        },
+        {
+          "word": "a surcharge",
+          "meaning": "tiền trả thêm a local call"
+        },
+        {
+          "word": "Room service",
+          "meaning": "dọn đồ ăn tận phòng cho khách"
+        },
+        {
+          "word": "My goodness",
+          "meaning": "trời đất"
+        },
+        {
+          "word": "Extra services",
+          "meaning": "các dịch vụ thêm"
+        },
+        {
+          "word": "Extra charges",
+          "meaning": "trả thêm"
+        },
+        {
+          "word": "Checking out",
+          "meaning": "trả phòng"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=46"
@@ -2148,7 +3536,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2158,9 +3554,55 @@
       "title": "Anh Ngữ Sinh Động Bài 47",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=47",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/47.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices talking about age, activities people like to do, and comparisons, using examples involving a ballet dancer and a doctor.",
+      "keyPatterns": [
+        {
+          "pattern": "I'm 24 years old.",
+          "meaning": "State someone's age."
+        },
+        {
+          "pattern": "What do you like to do?",
+          "meaning": "Ask about activities someone enjoys."
+        },
+        {
+          "pattern": "She's older than ...",
+          "meaning": "Compare ages."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "sister",
+          "meaning": "chị hay em gái"
+        },
+        {
+          "word": "single",
+          "meaning": "độc thân"
+        },
+        {
+          "word": "cooker",
+          "meaning": "nồi nấu"
+        },
+        {
+          "word": "ballerina",
+          "meaning": "nữ vũ công ballet"
+        },
+        {
+          "word": "Hamburger",
+          "meaning": "thịt bò nghiền nướng"
+        },
+        {
+          "word": "Cute",
+          "meaning": "dễ thương"
+        },
+        {
+          "word": "Atlanta",
+          "meaning": "thủ-phủ của tiểu bang"
+        },
+        {
+          "word": "hate it",
+          "meaning": "tôi ghét việc làm ấy"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=47"
@@ -2169,7 +3611,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2179,9 +3629,55 @@
       "title": "Anh Ngữ Sinh Động Bài 48",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=48",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/48.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson combines a street interview with a musician, a story interlude, and the continuation of a business hotel telephone conversation.",
+      "keyPatterns": [
+        {
+          "pattern": "I was living in New York.",
+          "meaning": "Describe a past living situation."
+        },
+        {
+          "pattern": "I was working for a newspaper.",
+          "meaning": "Describe past employment."
+        },
+        {
+          "pattern": "Let's get together.",
+          "meaning": "Suggest meeting socially or professionally."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "scientist",
+          "meaning": "nhà khoa học"
+        },
+        {
+          "word": "restaurant",
+          "meaning": "tiệm ăn"
+        },
+        {
+          "word": "mystery",
+          "meaning": "sự bí mật"
+        },
+        {
+          "word": "Originally",
+          "meaning": "lúc đầu"
+        },
+        {
+          "word": "Blake",
+          "meaning": "chúng tôi đã làm xong hết thủ tục nhận phòng cho ông"
+        },
+        {
+          "word": "Bellman",
+          "meaning": "nhân viên khách sạn khuân hay sách đồ hay nhắn tin dùm cho khách"
+        },
+        {
+          "word": "get along",
+          "meaning": "hợp nhau"
+        },
+        {
+          "word": "a print",
+          "meaning": "bản in"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=48"
@@ -2190,7 +3686,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2200,9 +3704,55 @@
       "title": "Anh Ngữ Sinh Động Bài 49",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=49",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/49.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices listening to a dialog, answering questions from it, and applying the information to business communication.",
+      "keyPatterns": [
+        {
+          "pattern": "Listen to the question.",
+          "meaning": "Prepare to answer a question based on a dialog."
+        },
+        {
+          "pattern": "Now listen to the dialog.",
+          "meaning": "Use a dialog as the source of an answer."
+        },
+        {
+          "pattern": "The answer is ...",
+          "meaning": "State the answer after listening."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "luggage",
+          "meaning": "túi hay va-li hàng lý"
+        },
+        {
+          "word": "guidelines",
+          "meaning": "hướng-dẫn tổng quát"
+        },
+        {
+          "word": "complicated",
+          "meaning": "phức-tạp"
+        },
+        {
+          "word": "polite requests",
+          "meaning": "lời yêu cầu nhã nhặn"
+        },
+        {
+          "word": "low-paying jobs",
+          "meaning": "những việc làm lương thấp"
+        },
+        {
+          "word": "hotel lobby",
+          "meaning": "phòng đợi ở khách sạn"
+        },
+        {
+          "word": "a night",
+          "meaning": "phòng đó giá thuê là 120 đô-la một đêm"
+        },
+        {
+          "word": "a hamburger",
+          "meaning": "thịt bò nghiền nướng"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=49"
@@ -2211,7 +3761,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2221,9 +3779,55 @@
       "title": "Anh Ngữ Sinh Động Bài 50",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=50",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/50.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices adjectives and adverbs while discussing jobs, family, and how people feel about their work.",
+      "keyPatterns": [
+        {
+          "pattern": "Do you like your job?",
+          "meaning": "Ask how someone feels about their work."
+        },
+        {
+          "pattern": "I'm very happy with my job.",
+          "meaning": "Describe a positive attitude toward work."
+        },
+        {
+          "pattern": "It's a really interesting job.",
+          "meaning": "Describe work using an adjective."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "excellent",
+          "meaning": "rất tốt"
+        },
+        {
+          "word": "Hamburger",
+          "meaning": "thịt bò nghiền nướng hay rán"
+        },
+        {
+          "word": "Divorced",
+          "meaning": "đã ly-dị"
+        },
+        {
+          "word": "Clothes",
+          "meaning": "(số nhiều) quần áo"
+        },
+        {
+          "word": "Awe",
+          "meaning": "sự kinh sợ"
+        },
+        {
+          "word": "very bad",
+          "meaning": "rất tệ nhưng awesome(adj"
+        },
+        {
+          "word": "a store",
+          "meaning": "cửa hàng store manager"
+        },
+        {
+          "word": "clothing store",
+          "meaning": "tiệm bán quần áo Phân biệt cách đọc và cách dùng hai chữ cloth/clothes"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=50"
@@ -2232,7 +3836,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2242,9 +3854,55 @@
       "title": "Anh Ngữ Sinh Động Bài 51",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=51",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/51.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices spelling, hotel check-in, receiving checks, and exchanging foreign currency in business-travel situations.",
+      "keyPatterns": [
+        {
+          "pattern": "Could I have your name, please?",
+          "meaning": "Politely request identifying information."
+        },
+        {
+          "pattern": "I'd like to cash this check.",
+          "meaning": "Request a banking service while traveling."
+        },
+        {
+          "pattern": "I'd like to exchange some money.",
+          "meaning": "Request currency exchange."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "policy",
+          "meaning": "qui luật"
+        },
+        {
+          "word": "fee",
+          "meaning": "lệ phí"
+        },
+        {
+          "word": "customer",
+          "meaning": "thân chủ, khách"
+        },
+        {
+          "word": "coins",
+          "meaning": "tiền xu, hào, bạc đồng"
+        },
+        {
+          "word": "bills",
+          "meaning": "tiền giấy"
+        },
+        {
+          "word": "Restaurant",
+          "meaning": "nhà hàng, tiệm ăn"
+        },
+        {
+          "word": "Block",
+          "meaning": "dãy phố"
+        },
+        {
+          "word": "to refuse",
+          "meaning": "từ chối"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=51"
@@ -2253,7 +3911,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2263,9 +3929,55 @@
       "title": "Anh Ngữ Sinh Động Bài 52",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=52",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/52.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson covers credit cards and travelers checks, and practices polite ways to refuse requests or offers.",
+      "keyPatterns": [
+        {
+          "pattern": "I'm afraid that isn't possible.",
+          "meaning": "Politely refuse a request."
+        },
+        {
+          "pattern": "I'm sorry, but ...",
+          "meaning": "Introduce a polite refusal or limitation."
+        },
+        {
+          "pattern": "I understand what you mean.",
+          "meaning": "Acknowledge another person's point before responding."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Rude",
+          "meaning": "thô lỗ, thiếu nhã nhặn"
+        },
+        {
+          "word": "Major",
+          "meaning": "chính worldwide"
+        },
+        {
+          "word": "Colleague",
+          "meaning": "đồng nghiệp"
+        },
+        {
+          "word": "Attempt",
+          "meaning": "cố, thử, tìm cách (tương tự có chữ to try)"
+        },
+        {
+          "word": "To refuse",
+          "meaning": "từ chối"
+        },
+        {
+          "word": "Credit card",
+          "meaning": "thẻ mua chịu, thẻ tín dụng"
+        },
+        {
+          "word": "Bank account",
+          "meaning": "trương mục ngân hàng"
+        },
+        {
+          "word": "have another engagement",
+          "meaning": "có chuyện bận (hẹn) khác"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=52"
@@ -2274,7 +3986,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2284,9 +4004,55 @@
       "title": "Anh Ngữ Sinh Động Bài 53",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=53",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/53.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson reviews language for talking about jobs and family through the Harris family and related interviews.",
+      "keyPatterns": [
+        {
+          "pattern": "What does he do?",
+          "meaning": "Ask about someone's job."
+        },
+        {
+          "pattern": "He works for ...",
+          "meaning": "State an employer or workplace."
+        },
+        {
+          "pattern": "He has two children.",
+          "meaning": "Describe family using have/has."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "gymnastics",
+          "meaning": "Thể dục thẩm mỹ như nhẩy xà"
+        },
+        {
+          "word": "Show",
+          "meaning": "buổi diễn xuất"
+        },
+        {
+          "word": "Possessives",
+          "meaning": "Chủ hữu cách"
+        },
+        {
+          "word": "MOST",
+          "meaning": "hầu hết, phần lớn"
+        },
+        {
+          "word": "MANY",
+          "meaning": "nhiều, và"
+        },
+        {
+          "word": "Jobs",
+          "meaning": "công việc"
+        },
+        {
+          "word": "Family",
+          "meaning": "gia đình"
+        },
+        {
+          "word": "teach piano",
+          "meaning": "tôi dạy môn dương cầm"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=53"
@@ -2295,7 +4061,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2305,9 +4079,55 @@
       "title": "Anh Ngữ Sinh Động Bài 54",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=54",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/54.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson combines a question-of-the-week activity with making a lunch reservation at a restaurant.",
+      "keyPatterns": [
+        {
+          "pattern": "I'd like to make a reservation.",
+          "meaning": "Request a restaurant reservation."
+        },
+        {
+          "pattern": "I'd like a table for four.",
+          "meaning": "State the desired table size."
+        },
+        {
+          "pattern": "What time would you like?",
+          "meaning": "Ask for a preferred reservation time."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "hole",
+          "meaning": "lỗ"
+        },
+        {
+          "word": "grill",
+          "meaning": "vỉ hay mặt lò nướng"
+        },
+        {
+          "word": "Vegetarian",
+          "meaning": "người ăn chay"
+        },
+        {
+          "word": "Steak",
+          "meaning": "thịt thái từng miếng dầy để nướng hay rán, thường chỉ thịt bò"
+        },
+        {
+          "word": "State",
+          "meaning": "tiểu bang"
+        },
+        {
+          "word": "Meat",
+          "meaning": "thịt"
+        },
+        {
+          "word": "Favorite",
+          "meaning": "ưa thích nhất"
+        },
+        {
+          "word": "Chuckle",
+          "meaning": "cười nhẹ"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=54"
@@ -2316,7 +4136,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2326,9 +4154,55 @@
       "title": "Anh Ngữ Sinh Động Bài 55",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=55",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/55.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices answering questions from a dialog and making or canceling restaurant reservations.",
+      "keyPatterns": [
+        {
+          "pattern": "What does Ms. Graham order?",
+          "meaning": "Ask for information contained in a restaurant dialog."
+        },
+        {
+          "pattern": "I'd like to cancel my reservation.",
+          "meaning": "Cancel a restaurant booking politely."
+        },
+        {
+          "pattern": "Could I change the reservation?",
+          "meaning": "Request a change to a reservation."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Sometime",
+          "meaning": "vào một hôm nào đó"
+        },
+        {
+          "word": "Popular",
+          "meaning": "nổi tiếng"
+        },
+        {
+          "word": "Show up",
+          "meaning": "đến (dự)"
+        },
+        {
+          "word": "appreciate your calling",
+          "meaning": "cám ơn bà đã gọi cho hay"
+        },
+        {
+          "word": "To cancel a reservation",
+          "meaning": "bỏ buổi hẹn trước"
+        },
+        {
+          "word": "Later in the month",
+          "meaning": "vào dịp khác trong tháng"
+        },
+        {
+          "word": "I’m sorry",
+          "meaning": "tôi ân hận"
+        },
+        {
+          "word": "As soon as possible",
+          "meaning": "càng sớm càng tốt"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=55"
@@ -2337,7 +4211,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2347,9 +4229,55 @@
       "title": "Anh Ngữ Sinh Động Bài 56",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=56",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/56.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson introduces daily schedules and habitual actions, especially asking and answering what time people get up and do routine activities.",
+      "keyPatterns": [
+        {
+          "pattern": "What time do you get up?",
+          "meaning": "Ask about a daily routine and time."
+        },
+        {
+          "pattern": "I get up at seven.",
+          "meaning": "State a habitual action with a time."
+        },
+        {
+          "pattern": "I go to work at eight.",
+          "meaning": "Describe a regular daily schedule."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Traffic",
+          "meaning": "xe cộ"
+        },
+        {
+          "word": "Sandwich",
+          "meaning": "bánh mì mềm nhân thịt và phó mát"
+        },
+        {
+          "word": "Newspaper",
+          "meaning": "nhật báo, báo hàng ngày"
+        },
+        {
+          "word": "Stop working",
+          "meaning": "ngưng làm việc"
+        },
+        {
+          "word": "Rush hour",
+          "meaning": "giờ đông xe cộ"
+        },
+        {
+          "word": "Go shopping",
+          "meaning": "đi mua đồ"
+        },
+        {
+          "word": "Eat breakfast",
+          "meaning": "ăn sáng"
+        },
+        {
+          "word": "After work",
+          "meaning": "sau khi làm việc"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=56"
@@ -2358,7 +4286,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2368,9 +4304,55 @@
       "title": "Anh Ngữ Sinh Động Bài 57",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=57",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/57.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson combines a moving story with business discussions about purchasing industrial robots and related arrangements.",
+      "keyPatterns": [
+        {
+          "pattern": "I'm moving to San Diego.",
+          "meaning": "Describe a move to a new place."
+        },
+        {
+          "pattern": "We need to buy industrial robots.",
+          "meaning": "Discuss a business need."
+        },
+        {
+          "pattern": "We're going to ...",
+          "meaning": "Talk about a planned action."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "museum",
+          "meaning": "bảo tàng viện"
+        },
+        {
+          "word": "grateful",
+          "meaning": "biết ơn"
+        },
+        {
+          "word": "by",
+          "meaning": "trước"
+        },
+        {
+          "word": "Nervous",
+          "meaning": "lo lắng, bồn chồn"
+        },
+        {
+          "word": "Move",
+          "meaning": "dọn nhà"
+        },
+        {
+          "word": "Ever",
+          "meaning": "từng"
+        },
+        {
+          "word": "Details",
+          "meaning": "chi tiết"
+        },
+        {
+          "word": "Deadline",
+          "meaning": "hạn chót"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=57"
@@ -2379,7 +4361,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2389,9 +4379,55 @@
       "title": "Anh Ngữ Sinh Động Bài 58",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=58",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/58.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson explains status in American business and how to recognize who has greater responsibility or importance in a group.",
+      "keyPatterns": [
+        {
+          "pattern": "Who is the most important?",
+          "meaning": "Ask about status within a group."
+        },
+        {
+          "pattern": "He is the president of the company.",
+          "meaning": "Identify someone's business position."
+        },
+        {
+          "pattern": "Look at the title.",
+          "meaning": "Use a person's title as a clue to status."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "possessives",
+          "meaning": "sở hữu cách"
+        },
+        {
+          "word": "informal",
+          "meaning": "thân mật"
+        },
+        {
+          "word": "indicate",
+          "meaning": "chỉ rõ"
+        },
+        {
+          "word": "gender",
+          "meaning": "phái tính (nam hay nữ)"
+        },
+        {
+          "word": "Position",
+          "meaning": "chức vụ"
+        },
+        {
+          "word": "Meyers",
+          "meaning": "Tôi đã xin hẹn cho chúng ta gặp ông"
+        },
+        {
+          "word": "Director",
+          "meaning": "giám đốc"
+        },
+        {
+          "word": "make reservations",
+          "meaning": "hẹn, dành trước"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=58"
@@ -2400,7 +4436,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2410,9 +4454,55 @@
       "title": "Anh Ngữ Sinh Động Bài 59",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=59",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/59.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices talking about weekly schedules and asking whether someone teaches every day.",
+      "keyPatterns": [
+        {
+          "pattern": "Do you teach every day?",
+          "meaning": "Ask whether an activity happens every day."
+        },
+        {
+          "pattern": "I teach on Mondays and Wednesdays.",
+          "meaning": "Describe a weekly schedule."
+        },
+        {
+          "pattern": "What days do you work?",
+          "meaning": "Ask about someone's regular workdays."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "weekly",
+          "meaning": "hàng tuần"
+        },
+        {
+          "word": "Teaching",
+          "meaning": "việc dạy"
+        },
+        {
+          "word": "Teach",
+          "meaning": "dạy"
+        },
+        {
+          "word": "Mostly",
+          "meaning": "phần lớn"
+        },
+        {
+          "word": "a lesson",
+          "meaning": "bài học"
+        },
+        {
+          "word": "Music teacher",
+          "meaning": "giáo sư âm nhạc"
+        },
+        {
+          "word": "An hour",
+          "meaning": "một giờ"
+        },
+        {
+          "word": "A week",
+          "meaning": "tuần lễ"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=59"
@@ -2421,7 +4511,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2431,9 +4529,55 @@
       "title": "Anh Ngữ Sinh Động Bài 60",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=60",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/60.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices making and changing plans, including a telephone invitation and business restaurant reservations.",
+      "keyPatterns": [
+        {
+          "pattern": "I'd like to make a reservation.",
+          "meaning": "Make a restaurant reservation."
+        },
+        {
+          "pattern": "Can we change the reservation?",
+          "meaning": "Request a change to an existing plan."
+        },
+        {
+          "pattern": "I'll call you back.",
+          "meaning": "Promise to return a phone call."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "stolen",
+          "meaning": "ăn cắp"
+        },
+        {
+          "word": "schedules",
+          "meaning": "thời biểu"
+        },
+        {
+          "word": "plant",
+          "meaning": "xưởng máy"
+        },
+        {
+          "word": "adequate",
+          "meaning": "đầy đủ"
+        },
+        {
+          "word": "Seatle",
+          "meaning": "tên thành phố ở tiểu bang Washington, miền tây"
+        },
+        {
+          "word": "Robot",
+          "meaning": "người máy"
+        },
+        {
+          "word": "Refusing",
+          "meaning": "cách từ chối"
+        },
+        {
+          "word": "Police",
+          "meaning": "cảnh sát"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=60"
@@ -2442,7 +4586,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2452,9 +4604,55 @@
       "title": "Anh Ngữ Sinh Động Bài 61",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=61",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/61.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices expressing the same idea in different ways, discussing office status, changing appointments, and politely refusing.",
+      "keyPatterns": [
+        {
+          "pattern": "Could you be more specific?",
+          "meaning": "Ask someone to give clearer information."
+        },
+        {
+          "pattern": "Could you give more details about the project?",
+          "meaning": "Request additional details."
+        },
+        {
+          "pattern": "I'm afraid that isn't possible.",
+          "meaning": "Politely refuse a request."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "workspace",
+          "meaning": "cỡ lớn của văn phòng làm việc"
+        },
+        {
+          "word": "technology",
+          "meaning": "kỹ thuật"
+        },
+        {
+          "word": "restaurant",
+          "meaning": "nhà hàng ; privacy"
+        },
+        {
+          "word": "Specific",
+          "meaning": "rõ-rệt, rành mạch"
+        },
+        {
+          "word": "Impressed",
+          "meaning": "phục, cảm kích, có ấn tượng tốt"
+        },
+        {
+          "word": "Detail",
+          "meaning": "chi tiết"
+        },
+        {
+          "word": "private office",
+          "meaning": "phòng riêng có cửa"
+        },
+        {
+          "word": "an office",
+          "meaning": "văn phòng ; coffee area"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=61"
@@ -2463,7 +4661,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2473,9 +4679,55 @@
       "title": "Anh Ngữ Sinh Động Bài 62",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=62",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/62.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson introduces duration and everyday time expressions through questions about how long activities take.",
+      "keyPatterns": [
+        {
+          "pattern": "How long does it take?",
+          "meaning": "Ask about duration."
+        },
+        {
+          "pattern": "It takes about twenty minutes.",
+          "meaning": "State how long an activity or trip takes."
+        },
+        {
+          "pattern": "How long is the trip?",
+          "meaning": "Ask about the length of a journey."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "hay cafe",
+          "meaning": "tiệm ăn nhỏ, tiệm bán cà phê và đồ giải khát"
+        },
+        {
+          "word": "A motorbike",
+          "meaning": "xe bình bịch"
+        },
+        {
+          "word": "A gym",
+          "meaning": "phòng tập thể dục"
+        },
+        {
+          "word": "A bus",
+          "meaning": "xe buýt"
+        },
+        {
+          "word": "Gymnastics",
+          "meaning": "môn thể dục thẩm mỹ, như nhẩy xà - parallel bars, nhẩy xà (dọc) kép"
+        },
+        {
+          "word": "to shower",
+          "meaning": "tắm dưới vòi sen"
+        },
+        {
+          "word": "A shower",
+          "meaning": "tắm dưới vòi sen"
+        },
+        {
+          "word": "do my homework",
+          "meaning": "tôi làm bài tập ở nhà"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=62"
@@ -2484,7 +4736,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2494,9 +4754,55 @@
       "title": "Anh Ngữ Sinh Động Bài 63",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=63",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/63.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson combines daily-schedule questions, a restaurant story, and intermediate business English.",
+      "keyPatterns": [
+        {
+          "pattern": "What time do you usually ...?",
+          "meaning": "Ask about a regular daily schedule."
+        },
+        {
+          "pattern": "I'd like to make a reservation.",
+          "meaning": "Request a restaurant reservation."
+        },
+        {
+          "pattern": "What time would you like?",
+          "meaning": "Ask for a preferred reservation time."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Reservation",
+          "meaning": "sự dè dặt"
+        },
+        {
+          "word": "Jail",
+          "meaning": "nhà giam, nhà tù"
+        },
+        {
+          "word": "Flexibility",
+          "meaning": "mềm dẻo, linh động"
+        },
+        {
+          "word": "Deadline",
+          "meaning": "hạn chót"
+        },
+        {
+          "word": "Cheese",
+          "meaning": "phó mát"
+        },
+        {
+          "word": "excellent meeting",
+          "meaning": "buổi họp có kết quả tốt đẹp"
+        },
+        {
+          "word": "To install",
+          "meaning": "ráp, lắp máy vào"
+        },
+        {
+          "word": "To deliver",
+          "meaning": "giao hàng"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=63"
@@ -2505,7 +4811,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2515,9 +4829,55 @@
       "title": "Anh Ngữ Sinh Động Bài 64",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=64",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/64.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson continues the business communication sequence with practice based on dialogs and questions.",
+      "keyPatterns": [
+        {
+          "pattern": "Let me see if I understand you correctly.",
+          "meaning": "Check understanding in a business conversation."
+        },
+        {
+          "pattern": "Could you clarify that?",
+          "meaning": "Ask someone to make information clearer."
+        },
+        {
+          "pattern": "I would need more information.",
+          "meaning": "Request additional details."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Temporary",
+          "meaning": "tạm thời"
+        },
+        {
+          "word": "Team",
+          "meaning": "nhóm"
+        },
+        {
+          "word": "Structure",
+          "meaning": "cơ cấu"
+        },
+        {
+          "word": "Promote",
+          "meaning": "thăng chức"
+        },
+        {
+          "word": "Manager",
+          "meaning": "quản đốc, trưởng phòng"
+        },
+        {
+          "word": "to soften",
+          "meaning": "làm dịu đi"
+        },
+        {
+          "word": "high-end market",
+          "meaning": "thị trường mà sản phẩm đắt tiền, tinh xảo, và phẩm chất rất tốt"
+        },
+        {
+          "word": "high technology",
+          "meaning": "kỹ thuật máy móc cao cấp, như kỹ thuật điện tử"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=64"
@@ -2526,7 +4886,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2536,9 +4904,55 @@
       "title": "Anh Ngữ Sinh Động Bài 65",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=65",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/65.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson introduces duration and comparison through the question How Long Is Her Lesson?",
+      "keyPatterns": [
+        {
+          "pattern": "How long is her lesson?",
+          "meaning": "Ask about duration."
+        },
+        {
+          "pattern": "It's longer than ...",
+          "meaning": "Compare durations."
+        },
+        {
+          "pattern": "It's shorter than ...",
+          "meaning": "Compare durations."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "early",
+          "meaning": "sớm"
+        },
+        {
+          "word": "earlier",
+          "meaning": "sớm hơn"
+        },
+        {
+          "word": "Older",
+          "meaning": "nhiều tuổi hơn"
+        },
+        {
+          "word": "LAST",
+          "meaning": "kéo dài"
+        },
+        {
+          "word": "to last",
+          "meaning": "kéo dài"
+        },
+        {
+          "word": "stop practicing",
+          "meaning": "ngưng tập"
+        },
+        {
+          "word": "start practicing",
+          "meaning": "bắt đầu tập"
+        },
+        {
+          "word": "earlier than",
+          "meaning": "sớm hơn"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=65"
@@ -2547,7 +4961,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2557,9 +4979,55 @@
       "title": "Anh Ngữ Sinh Động Bài 66",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=66",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/66.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson combines a street interview about visiting Mount Vernon with business appointment and reservation material.",
+      "keyPatterns": [
+        {
+          "pattern": "How do I get to Mount Vernon?",
+          "meaning": "Ask about travel or transportation."
+        },
+        {
+          "pattern": "I'd like to make an appointment.",
+          "meaning": "Request an appointment."
+        },
+        {
+          "pattern": "What time works for you?",
+          "meaning": "Ask which time is convenient."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Tourist",
+          "meaning": "du khách"
+        },
+        {
+          "word": "Project",
+          "meaning": "dự án"
+        },
+        {
+          "word": "Issue",
+          "meaning": "vần đề cần giải quyết"
+        },
+        {
+          "word": "Flexibility",
+          "meaning": "sự uyển chuyển, linh động, mềm dẻo"
+        },
+        {
+          "word": "Fact",
+          "meaning": "sự kiện"
+        },
+        {
+          "word": "Doubt",
+          "meaning": "sự nghi-ngờ"
+        },
+        {
+          "word": "Discuss",
+          "meaning": "thảo luận, bàn"
+        },
+        {
+          "word": "Concern",
+          "meaning": "sự quan tâm, lo-ngại"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=66"
@@ -2568,7 +5036,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2578,9 +5054,55 @@
       "title": "Anh Ngữ Sinh Động Bài 67",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=67",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/67.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson continues the industrial-robot business discussion and practices polite ways to express disagreement and concerns.",
+      "keyPatterns": [
+        {
+          "pattern": "I'm not sure that ...",
+          "meaning": "Express polite uncertainty or disagreement."
+        },
+        {
+          "pattern": "I don't agree with that.",
+          "meaning": "State disagreement politely."
+        },
+        {
+          "pattern": "Could you provide more details?",
+          "meaning": "Ask for information before deciding."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "limits",
+          "meaning": "giới hạn"
+        },
+        {
+          "word": "flexible",
+          "meaning": "mềm dẻo, linh động, uyển chuyển"
+        },
+        {
+          "word": "comments",
+          "meaning": "lời nhận-định, ý kiến (opinions)"
+        },
+        {
+          "word": "comment",
+          "meaning": "nhấn mạnh vần đầu: comment"
+        },
+        {
+          "word": "Reservations",
+          "meaning": "sự dè dặt"
+        },
+        {
+          "word": "Position",
+          "meaning": "vị trí, lập trường"
+        },
+        {
+          "word": "Policy",
+          "meaning": "điều lệ, chính sách, qui luật"
+        },
+        {
+          "word": "Encourage",
+          "meaning": "khuyến khích"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=67"
@@ -2589,7 +5111,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2599,9 +5129,55 @@
       "title": "Anh Ngữ Sinh Động Bài 68",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=68",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/68.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices talking about how people spend the rest of their day and describing daily routines.",
+      "keyPatterns": [
+        {
+          "pattern": "How do you spend the rest of your day?",
+          "meaning": "Ask how someone spends time after a particular activity."
+        },
+        {
+          "pattern": "I usually ...",
+          "meaning": "Describe a regular routine."
+        },
+        {
+          "pattern": "After work, I ...",
+          "meaning": "Describe an activity that follows another."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "mother-in-law",
+          "meaning": "mẹ chồng hay mẹ vợ"
+        },
+        {
+          "word": "grandson",
+          "meaning": "cháu trai"
+        },
+        {
+          "word": "granddaughter",
+          "meaning": "cháu gái"
+        },
+        {
+          "word": "grandchild",
+          "meaning": "cháu trai hay gái"
+        },
+        {
+          "word": "Volunteer",
+          "meaning": "tình nguyện"
+        },
+        {
+          "word": "Photography",
+          "meaning": "nhiếp ảnh"
+        },
+        {
+          "word": "Daughter-in-law",
+          "meaning": "con dâu"
+        },
+        {
+          "word": "Astronomy",
+          "meaning": "thiên văn học"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=68"
@@ -2610,7 +5186,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2620,9 +5204,55 @@
       "title": "Anh Ngữ Sinh Động Bài 69",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=69",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/69.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson revisits restaurant reservations and practices making arrangements clearly by telephone.",
+      "keyPatterns": [
+        {
+          "pattern": "I'd like to make a reservation.",
+          "meaning": "Request a restaurant booking."
+        },
+        {
+          "pattern": "I'd like to change my reservation.",
+          "meaning": "Request a reservation change."
+        },
+        {
+          "pattern": "What time would you like?",
+          "meaning": "Ask for a preferred time."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "some",
+          "meaning": "vài] Kathy"
+        },
+        {
+          "word": "mail",
+          "meaning": "thư"
+        },
+        {
+          "word": "Wild",
+          "meaning": "náo loạn, lộn xộn"
+        },
+        {
+          "word": "Voice",
+          "meaning": "giọng, lời"
+        },
+        {
+          "word": "Mileage",
+          "meaning": "tổng số dặm dường dài"
+        },
+        {
+          "word": "Mile",
+          "meaning": "một dặm anh, chừng 1"
+        },
+        {
+          "word": "Delicious",
+          "meaning": "ngon miệng"
+        },
+        {
+          "word": "Confirm",
+          "meaning": "xác nhận"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=69"
@@ -2631,7 +5261,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2641,9 +5279,55 @@
       "title": "Anh Ngữ Sinh Động Bài 70",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=70",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/70.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson explains how information is communicated inside American companies and how business information moves between people.",
+      "keyPatterns": [
+        {
+          "pattern": "How is information communicated?",
+          "meaning": "Ask about a company's communication process."
+        },
+        {
+          "pattern": "Please send me the information.",
+          "meaning": "Request information from a colleague."
+        },
+        {
+          "pattern": "I'll pass the message on.",
+          "meaning": "Tell someone you will relay information."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "word",
+          "meaning": "lời, chữ, từ"
+        },
+        {
+          "word": "memo",
+          "meaning": "thư ngắn, từ chữ memorandum, số nhiều memoranda hay memorandums"
+        },
+        {
+          "word": "meetings",
+          "meaning": "họp"
+        },
+        {
+          "word": "friendly",
+          "meaning": "thân mật"
+        },
+        {
+          "word": "formal",
+          "meaning": "nghiêm trang, trịnh trọng, có vẻ lễ nghi"
+        },
+        {
+          "word": "aspect",
+          "meaning": "khía cạnh"
+        },
+        {
+          "word": "Sigh",
+          "meaning": "tiếng thở dài"
+        },
+        {
+          "word": "Problem",
+          "meaning": "vấn đề khó khăn"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=70"
@@ -2652,7 +5336,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2662,9 +5354,55 @@
       "title": "Anh Ngữ Sinh Động Bài 71",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=71",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/71.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices summer activities, the twelve months, the four seasons, and weather vocabulary.",
+      "keyPatterns": [
+        {
+          "pattern": "What do you do in the summer?",
+          "meaning": "Ask about seasonal activities."
+        },
+        {
+          "pattern": "My favorite season is summer.",
+          "meaning": "State a favorite season."
+        },
+        {
+          "pattern": "It is hot in the summer.",
+          "meaning": "Describe typical seasonal weather."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "hot",
+          "meaning": "nóng"
+        },
+        {
+          "word": "cold",
+          "meaning": "lạnh"
+        },
+        {
+          "word": "Warm",
+          "meaning": "ấm"
+        },
+        {
+          "word": "Vacation",
+          "meaning": "dịp nghỉ"
+        },
+        {
+          "word": "Season",
+          "meaning": "mùa"
+        },
+        {
+          "word": "Month",
+          "meaning": "tháng"
+        },
+        {
+          "word": "Hate",
+          "meaning": "ghét"
+        },
+        {
+          "word": "Favorite",
+          "meaning": "ưa thích"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=71"
@@ -2673,7 +5411,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2683,9 +5429,55 @@
       "title": "Anh Ngữ Sinh Động Bài 72",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=72",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/72.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This business lesson continues an important introduction between business people and practices professional introductions.",
+      "keyPatterns": [
+        {
+          "pattern": "I'd like to introduce you to ...",
+          "meaning": "Introduce one business person to another."
+        },
+        {
+          "pattern": "This is ...",
+          "meaning": "Present someone in an introduction."
+        },
+        {
+          "pattern": "It's nice to meet you.",
+          "meaning": "Respond politely to an introduction."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "show",
+          "meaning": "buổi triển lãm, trưng bầy, trình diễn"
+        },
+        {
+          "word": "Trade",
+          "meaning": "thương"
+        },
+        {
+          "word": "Retired",
+          "meaning": "đã về hưu"
+        },
+        {
+          "word": "Portland",
+          "meaning": "tên thành phố ờ Tây bắc tiểu bang Oregon, miền tây"
+        },
+        {
+          "word": "Parents",
+          "meaning": "cha mẹ"
+        },
+        {
+          "word": "West Coast",
+          "meaning": "bờ phía tây, chỉ những tiểu bang như California, Washington"
+        },
+        {
+          "word": "School teacher",
+          "meaning": "giáo viên"
+        },
+        {
+          "word": "Retired businessman",
+          "meaning": "nhà kinh doanh đã về hưu"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=72"
@@ -2694,7 +5486,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2704,9 +5504,55 @@
       "title": "Anh Ngữ Sinh Động Bài 73",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=73",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/73.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This culture lesson explains how to introduce a colleague to an American and how to respond when someone introduces you.",
+      "keyPatterns": [
+        {
+          "pattern": "I'd like to introduce my colleague.",
+          "meaning": "Introduce a colleague to another person."
+        },
+        {
+          "pattern": "This is my colleague, ...",
+          "meaning": "Identify the person being introduced."
+        },
+        {
+          "pattern": "It's a pleasure to meet you.",
+          "meaning": "Respond politely to an introduction."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "skier",
+          "meaning": "người trượt tuyết"
+        },
+        {
+          "word": "co-worker",
+          "meaning": "đồng nghiệp"
+        },
+        {
+          "word": "Standard",
+          "meaning": "tiêu chuẩn, chính thức"
+        },
+        {
+          "word": "Responsibility",
+          "meaning": "trách nhiệm, nhiệm vụ"
+        },
+        {
+          "word": "Global",
+          "meaning": "toàn cầu, quốc tế"
+        },
+        {
+          "word": "Valuable information",
+          "meaning": "tin tức giá trị"
+        },
+        {
+          "word": "To ski",
+          "meaning": "trượt tuyết"
+        },
+        {
+          "word": "To mention",
+          "meaning": "đề cập đến, nhắc đến"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=73"
@@ -2715,7 +5561,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2725,9 +5579,55 @@
       "title": "Anh Ngữ Sinh Động Bài 74",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=74",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/74.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices talking about stars and the sky while reinforcing descriptive everyday English.",
+      "keyPatterns": [
+        {
+          "pattern": "There are stars in the sky.",
+          "meaning": "Describe what exists or is visible in the sky."
+        },
+        {
+          "pattern": "There is ...",
+          "meaning": "Introduce something that exists or is present."
+        },
+        {
+          "pattern": "There are ...",
+          "meaning": "Introduce multiple things that exist or are present."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "sunset",
+          "meaning": "hoàng hôn"
+        },
+        {
+          "word": "sunrise",
+          "meaning": "bình minh"
+        },
+        {
+          "word": "hen",
+          "meaning": "gà mái"
+        },
+        {
+          "word": "Rooster",
+          "meaning": "gà trống"
+        },
+        {
+          "word": "Night",
+          "meaning": "ban đêm"
+        },
+        {
+          "word": "Morning",
+          "meaning": "buổi sáng"
+        },
+        {
+          "word": "to cackle",
+          "meaning": "cục tác (gà mái)"
+        },
+        {
+          "word": "a photograph",
+          "meaning": "bức hình, ảnh"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=74"
@@ -2736,7 +5636,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2746,9 +5654,55 @@
       "title": "Anh Ngữ Sinh Động Bài 75",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=75",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/75.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson combines a street interview about transportation to work with business introduction material.",
+      "keyPatterns": [
+        {
+          "pattern": "How do you get to work?",
+          "meaning": "Ask about someone's transportation to work."
+        },
+        {
+          "pattern": "I take the bus.",
+          "meaning": "State a usual means of transportation."
+        },
+        {
+          "pattern": "I drive to work.",
+          "meaning": "State how someone normally travels to work."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "fishmonger",
+          "meaning": "người bán cá"
+        },
+        {
+          "word": "fisherman",
+          "meaning": "người đánh cá"
+        },
+        {
+          "word": "angler",
+          "meaning": "người câu cáù"
+        },
+        {
+          "word": "Wharf",
+          "meaning": "cầu tầu, bến tầu (số nhiều wharves)"
+        },
+        {
+          "word": "Retire",
+          "meaning": "về hưu"
+        },
+        {
+          "word": "Nervous",
+          "meaning": "hồi hộp, bồn chồn, lo lắng"
+        },
+        {
+          "word": "Move",
+          "meaning": "dọn nhà"
+        },
+        {
+          "word": "Issue",
+          "meaning": "vấn đề"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=75"
@@ -2757,7 +5711,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2767,9 +5729,43 @@
       "title": "Anh Ngữ Sinh Động Bài 76",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=76",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/76.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices listening comprehension through questions and answers based on a business introduction dialog.",
+      "keyPatterns": [
+        {
+          "pattern": "What does Mr. Blake do?",
+          "meaning": "Ask for information from a business introduction dialog."
+        },
+        {
+          "pattern": "Who is ...?",
+          "meaning": "Ask who a person is."
+        },
+        {
+          "pattern": "He works for ...",
+          "meaning": "State someone's company or employer."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Bored",
+          "meaning": "chán"
+        },
+        {
+          "word": "Sorry to bother you",
+          "meaning": "xin lỗi đã làm phiền ông/bà"
+        },
+        {
+          "word": "A page",
+          "meaning": "thiếu niên tùy phái mặc đồng phục, chuyển thư hay giấy tờ ở khách sạn hay nghị viện"
+        },
+        {
+          "word": "Myers",
+          "meaning": "cô ấy phải hỏi lại cho chắc là người cô gặp đúng là ông"
+        },
+        {
+          "word": "To page",
+          "meaning": "gọi tên, báo hay cho người đi tìm"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=76"
@@ -2778,7 +5774,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2788,9 +5792,55 @@
       "title": "Anh Ngữ Sinh Động Bài 77",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=77",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/77.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson focuses on weather and clauses with when, using the question Does It Ever Snow in Florida?",
+      "keyPatterns": [
+        {
+          "pattern": "Does it ever snow in Florida?",
+          "meaning": "Ask whether something happens sometimes in a place."
+        },
+        {
+          "pattern": "It snows when it is cold.",
+          "meaning": "Connect two situations with when."
+        },
+        {
+          "pattern": "When it rains, ...",
+          "meaning": "Describe an action or condition that occurs when something happens."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "windy",
+          "meaning": "có gió"
+        },
+        {
+          "word": "surfing",
+          "meaning": "môn lướt sóng trên một ván mỏng"
+        },
+        {
+          "word": "sunny",
+          "meaning": "có nắng"
+        },
+        {
+          "word": "rainy",
+          "meaning": "mưa"
+        },
+        {
+          "word": "rain",
+          "meaning": "mưa"
+        },
+        {
+          "word": "hurricane",
+          "meaning": "bão lớn, giông tố"
+        },
+        {
+          "word": "cloudy",
+          "meaning": "có mây"
+        },
+        {
+          "word": "Weather",
+          "meaning": "thời tiết"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=77"
@@ -2799,7 +5849,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2809,9 +5867,55 @@
       "title": "Anh Ngữ Sinh Động Bài 78",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=78",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/78.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson emphasizes first impressions in business and continues the story of an introduction involving industrial robots.",
+      "keyPatterns": [
+        {
+          "pattern": "The first impression is very important in business.",
+          "meaning": "State the importance of first impressions."
+        },
+        {
+          "pattern": "It's nice to meet you.",
+          "meaning": "Respond to a first introduction."
+        },
+        {
+          "pattern": "I'd like to introduce you to ...",
+          "meaning": "Make a professional introduction."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "fish",
+          "meaning": "cá"
+        },
+        {
+          "word": "contact",
+          "meaning": "liên lạc, tiếp xúc"
+        },
+        {
+          "word": "caught",
+          "meaning": "bắt được"
+        },
+        {
+          "word": "Wharf",
+          "meaning": "bến tầu"
+        },
+        {
+          "word": "River",
+          "meaning": "sông"
+        },
+        {
+          "word": "Mountain",
+          "meaning": "núi"
+        },
+        {
+          "word": "Lucky",
+          "meaning": "may mắn, hên"
+        },
+        {
+          "word": "Fishhook",
+          "meaning": "lưỡi câu"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=78"
@@ -2820,7 +5924,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2830,9 +5942,55 @@
       "title": "Anh Ngữ Sinh Động Bài 79",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=79",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/79.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices polite interruption in business conversations, especially when another person needs to change the situation or schedule.",
+      "keyPatterns": [
+        {
+          "pattern": "I hate to interrupt, but ...",
+          "meaning": "Interrupt politely before adding important information."
+        },
+        {
+          "pattern": "We have a car outside.",
+          "meaning": "Explain the reason for interrupting."
+        },
+        {
+          "pattern": "We have reservations at 12:15.",
+          "meaning": "State an existing reservation or schedule."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Word",
+          "meaning": "lời, chữ, từ"
+        },
+        {
+          "word": "Visual",
+          "meaning": "thuộc về thị giác"
+        },
+        {
+          "word": "Urgent",
+          "meaning": "khẩn cấp"
+        },
+        {
+          "word": "UCLA",
+          "meaning": "viết tắt ở chữ"
+        },
+        {
+          "word": "clock appointment",
+          "meaning": "buổi hẹn lúc hai giờ"
+        },
+        {
+          "word": "Immediate action",
+          "meaning": "phải hành động ngay"
+        },
+        {
+          "word": "A sentence",
+          "meaning": "câu"
+        },
+        {
+          "word": "Delay the decision",
+          "meaning": "hoãn quyết định"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=79"
@@ -2841,7 +5999,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2851,9 +6017,55 @@
       "title": "Anh Ngữ Sinh Động Bài 80",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=80",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/80.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices talking about working with small children, clauses with when, and tag questions.",
+      "keyPatterns": [
+        {
+          "pattern": "I work with small children.",
+          "meaning": "Describe someone's work with children."
+        },
+        {
+          "pattern": "She works in a hospital, doesn't she?",
+          "meaning": "Use a tag question to confirm information."
+        },
+        {
+          "pattern": "It happens when ...",
+          "meaning": "Use a when-clause to connect events."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "eyes",
+          "meaning": "mắt"
+        },
+        {
+          "word": "Legs",
+          "meaning": "chân"
+        },
+        {
+          "word": "a clinic",
+          "meaning": "phòng mạch"
+        },
+        {
+          "word": "A nurse",
+          "meaning": "y-tá"
+        },
+        {
+          "word": "My leg hurts",
+          "meaning": "chân tôi đau"
+        },
+        {
+          "word": "A medical problem",
+          "meaning": "bịnh"
+        },
+        {
+          "word": "A hearing problem",
+          "meaning": "nghe không rõ"
+        },
+        {
+          "word": "they have trouble reading",
+          "meaning": "khi chúng không nghe rõ, thì chúng gặp trở ngại về đọc"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=80"
@@ -2862,7 +6074,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2872,9 +6092,55 @@
       "title": "Anh Ngữ Sinh Động Bài 81",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=81",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/81.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This business lesson practices accepting and refusing offers in a restaurant setting.",
+      "keyPatterns": [
+        {
+          "pattern": "I'd be happy to ...",
+          "meaning": "Accept an offer or suggestion politely."
+        },
+        {
+          "pattern": "I'm afraid I can't.",
+          "meaning": "Refuse an offer politely."
+        },
+        {
+          "pattern": "We wanted a comfortable place to discuss business.",
+          "meaning": "Describe a preference for a restaurant setting."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "waitress",
+          "meaning": "người hầu bàn (nữ)"
+        },
+        {
+          "word": "rare",
+          "meaning": "còn sống bên giữa"
+        },
+        {
+          "word": "order",
+          "meaning": "còn có nghĩa là hàng đã đặt"
+        },
+        {
+          "word": "medium",
+          "meaning": "chín vừa"
+        },
+        {
+          "word": "Waiter",
+          "meaning": "người hầu bàn (nam)"
+        },
+        {
+          "word": "Rich",
+          "meaning": "béo"
+        },
+        {
+          "word": "Formal",
+          "meaning": "có vẻ trịnh trọïng, trang nghiêm"
+        },
+        {
+          "word": "Dressing",
+          "meaning": "dầu hay phó mát lỏng để trộn rau sống"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=81"
@@ -2883,7 +6149,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2893,9 +6167,55 @@
       "title": "Anh Ngữ Sinh Động Bài 82",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=82",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/82.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices listening comprehension from a restaurant dialog, including identifying what a person orders.",
+      "keyPatterns": [
+        {
+          "pattern": "What does Ms. Graham order?",
+          "meaning": "Ask for information from a restaurant dialog."
+        },
+        {
+          "pattern": "I'll have the large green salad.",
+          "meaning": "Order a specific item."
+        },
+        {
+          "pattern": "Are you ready to order?",
+          "meaning": "Ask whether someone is ready to choose food."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "dressing",
+          "meaning": "dầu hay phó mát lỏng trộn rau sống"
+        },
+        {
+          "word": "chosen",
+          "meaning": "chọn"
+        },
+        {
+          "word": "Toast",
+          "meaning": "bánh mì nướng"
+        },
+        {
+          "word": "Plain",
+          "meaning": "giản dị"
+        },
+        {
+          "word": "Menu",
+          "meaning": "thực đơn"
+        },
+        {
+          "word": "Individual",
+          "meaning": "cá nhân"
+        },
+        {
+          "word": "Freedom",
+          "meaning": "sự tự do"
+        },
+        {
+          "word": "Orange juice",
+          "meaning": "nước cam tươi"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=82"
@@ -2904,7 +6224,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2914,9 +6242,55 @@
       "title": "Anh Ngữ Sinh Động Bài 83",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=83",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/83.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices physical description and the difference between very and too, using a fashion-model interview.",
+      "keyPatterns": [
+        {
+          "pattern": "I'm a fashion model.",
+          "meaning": "State someone's occupation."
+        },
+        {
+          "pattern": "She's very busy.",
+          "meaning": "Use very to strengthen an adjective."
+        },
+        {
+          "pattern": "She's not too busy to be on our show.",
+          "meaning": "Use too ... to to express an excessive degree that affects possibility."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "thin",
+          "meaning": "gầy (ốm), fat"
+        },
+        {
+          "word": "short",
+          "meaning": "thấp"
+        },
+        {
+          "word": "Weight",
+          "meaning": "(n) trọng-lượng, sức nặng"
+        },
+        {
+          "word": "Pictures",
+          "meaning": "hình, ảnh"
+        },
+        {
+          "word": "Famous",
+          "meaning": "nổi danh"
+        },
+        {
+          "word": "model clothes",
+          "meaning": "tôi làm mẫu quần áo"
+        },
+        {
+          "word": "To model",
+          "meaning": "làm mẫu"
+        },
+        {
+          "word": "A newspaper",
+          "meaning": "nhật-báo"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=83"
@@ -2925,7 +6299,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2935,9 +6317,55 @@
       "title": "Anh Ngữ Sinh Động Bài 84",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=84",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/84.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson combines everyday health language about pain with business practice focused on confirming understanding.",
+      "keyPatterns": [
+        {
+          "pattern": "Where does it hurt?",
+          "meaning": "Ask where someone feels pain."
+        },
+        {
+          "pattern": "It hurts right here.",
+          "meaning": "Identify the location of pain."
+        },
+        {
+          "pattern": "It hurts when I walk.",
+          "meaning": "Use when to describe when pain occurs."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Support",
+          "meaning": "hỗ trợ"
+        },
+        {
+          "word": "Statue",
+          "meaning": "bức tượng"
+        },
+        {
+          "word": "Primarily",
+          "meaning": "quan trọng nhất, chính"
+        },
+        {
+          "word": "Plant",
+          "meaning": "xưởng máy"
+        },
+        {
+          "word": "Operation",
+          "meaning": "điều hành"
+        },
+        {
+          "word": "Mechanical",
+          "meaning": "thuộc về máy móc"
+        },
+        {
+          "word": "Knob",
+          "meaning": "nút vặn"
+        },
+        {
+          "word": "Install",
+          "meaning": "thiết-bị, đặït hệ thống, ráp máy"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=84"
@@ -2946,7 +6374,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2956,9 +6392,55 @@
       "title": "Anh Ngữ Sinh Động Bài 85",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=85",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/85.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices listening questions about business proposals, prices, and after-sales support.",
+      "keyPatterns": [
+        {
+          "pattern": "There’s no doubt that your robots are well-engineered.",
+          "meaning": "Express strong confidence about a product."
+        },
+        {
+          "pattern": "The price is quite low.",
+          "meaning": "Describe and evaluate a price."
+        },
+        {
+          "pattern": "I wasn't sure if his company could provide aftersales support and service.",
+          "meaning": "Express uncertainty about a capability."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Oppose",
+          "meaning": "chống"
+        },
+        {
+          "word": "Negotiators",
+          "meaning": "người thương lượng"
+        },
+        {
+          "word": "Top management",
+          "meaning": "nhân viên quản trị cap cấp"
+        },
+        {
+          "word": "Permanent increase",
+          "meaning": "tăng lương vĩnh viễn"
+        },
+        {
+          "word": "A subordinate",
+          "meaning": "nhân viên dưới quyền"
+        },
+        {
+          "word": "A proposal",
+          "meaning": "một đề nghị"
+        },
+        {
+          "word": "A negotiation",
+          "meaning": "một cuộc thương lượng"
+        },
+        {
+          "word": "A bonus",
+          "meaning": "tiền thưởng"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=85"
@@ -2967,7 +6449,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2977,9 +6467,55 @@
       "title": "Anh Ngữ Sinh Động Bài 86",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=86",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/86.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices evening and weekend activities and continues work with clauses beginning with when.",
+      "keyPatterns": [
+        {
+          "pattern": "What do you do in your free time?",
+          "meaning": "Ask about leisure activities."
+        },
+        {
+          "pattern": "I usually ...",
+          "meaning": "Describe a regular activity."
+        },
+        {
+          "pattern": "When I'm not working, I ...",
+          "meaning": "Describe an activity during free time."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Activity",
+          "meaning": "hoạt-động"
+        },
+        {
+          "word": "To wonder",
+          "meaning": "thắc mắc, tự hỏi, tò mò, muốn biết"
+        },
+        {
+          "word": "Steak knife",
+          "meaning": "dao cắt thịt bò nướng"
+        },
+        {
+          "word": "Stay inside",
+          "meaning": "ở trong nhà"
+        },
+        {
+          "word": "Beef tenderloin",
+          "meaning": "thịt bò mềm filet mignon"
+        },
+        {
+          "word": "An airplane",
+          "meaning": "phi-cơ"
+        },
+        {
+          "word": "A garden",
+          "meaning": "vườn"
+        },
+        {
+          "word": "A steak house",
+          "meaning": "nhà hàng chuyên bán thịt bò nướng"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=86"
@@ -2988,7 +6524,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -2998,9 +6542,55 @@
       "title": "Anh Ngữ Sinh Động Bài 87",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=87",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/87.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This business lesson practices conceding a point while discussing restaurant plans, spare parts, and after-sales service.",
+      "keyPatterns": [
+        {
+          "pattern": "Let me see if I understand you correctly.",
+          "meaning": "Check understanding during a negotiation."
+        },
+        {
+          "pattern": "I understand your concern.",
+          "meaning": "Acknowledge another person's concern."
+        },
+        {
+          "pattern": "We can concede that point.",
+          "meaning": "Give agreement on one point while continuing a discussion."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Retiree",
+          "meaning": "người đã về hưu"
+        },
+        {
+          "word": "Retire",
+          "meaning": "về hưu"
+        },
+        {
+          "word": "Facilities",
+          "meaning": "cơ xưởng, máy móc"
+        },
+        {
+          "word": "To warehouse",
+          "meaning": "chứa hàng vào kho"
+        },
+        {
+          "word": "To concede",
+          "meaning": "nhường"
+        },
+        {
+          "word": "The warehouse",
+          "meaning": "kho chứa hàng"
+        },
+        {
+          "word": "Spare parts",
+          "meaning": "đồ phụ tùng thay thế"
+        },
+        {
+          "word": "Retirement age",
+          "meaning": "tuổi về hưu"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=87"
@@ -3009,7 +6599,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -3019,9 +6617,55 @@
       "title": "Anh Ngữ Sinh Động Bài 88",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=88",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/88.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices listening questions about business facilities and introduces the importance of common ground and honesty in negotiation.",
+      "keyPatterns": [
+        {
+          "pattern": "Does International Robotics have a nearby warehouse for spare parts?",
+          "meaning": "Ask about a business facility."
+        },
+        {
+          "pattern": "We can depend on them.",
+          "meaning": "Express reliance on another company."
+        },
+        {
+          "pattern": "Being honest will allow you to build long-term relationships.",
+          "meaning": "Explain why honesty matters in negotiation."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Orders",
+          "meaning": "hàng đã đặt mua"
+        },
+        {
+          "word": "Ground",
+          "meaning": "vùng đất, mặt đất"
+        },
+        {
+          "word": "to complain",
+          "meaning": "than phiền"
+        },
+        {
+          "word": "To concede",
+          "meaning": "nhường một điểm trong cuộc tranh luận"
+        },
+        {
+          "word": "Fall behind",
+          "meaning": "trễ hạn"
+        },
+        {
+          "word": "Common ground",
+          "meaning": "điểm tương đồng"
+        },
+        {
+          "word": "At all times",
+          "meaning": "luôn luôn, lúc nào cũng"
+        },
+        {
+          "word": "We’ll lose business",
+          "meaning": "chúng ta sẽ mất khách"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=88"
@@ -3030,7 +6674,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -3040,9 +6692,55 @@
       "title": "Anh Ngữ Sinh Động Bài 89",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=89",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/89.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices likes and dislikes about food and classifications such as vegetarian and meat eater.",
+      "keyPatterns": [
+        {
+          "pattern": "What's your favorite food?",
+          "meaning": "Ask about someone's favorite food."
+        },
+        {
+          "pattern": "I like meat.",
+          "meaning": "State a food preference."
+        },
+        {
+          "pattern": "I'm a vegetarian.",
+          "meaning": "Describe a dietary classification."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "steak",
+          "meaning": "thịt bò nướng"
+        },
+        {
+          "word": "retire",
+          "meaning": "về hưu"
+        },
+        {
+          "word": "hot",
+          "meaning": "cay, như ớt"
+        },
+        {
+          "word": "Taco",
+          "meaning": "bánh đa ngô ròn, cuộn nhân thịt hay phó mát"
+        },
+        {
+          "word": "Spicy",
+          "meaning": "có nêm gia vị cay, như cà ri"
+        },
+        {
+          "word": "Spaghetti",
+          "meaning": "mì kiểu Ý có trộn sốt cà chua và thịt bầm, rắc phó mát"
+        },
+        {
+          "word": "Meat",
+          "meaning": "thịt"
+        },
+        {
+          "word": "Enchilada",
+          "meaning": "bánh đa cuộn nhân thịt hay phó mát"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=89"
@@ -3051,7 +6749,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -3061,9 +6767,55 @@
       "title": "Anh Ngữ Sinh Động Bài 90",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=90",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/90.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson combines a story about Edgar Allan Poe with business language for offering and discussing after-sales services.",
+      "keyPatterns": [
+        {
+          "pattern": "I offer him a drink.",
+          "meaning": "Make an offer to someone."
+        },
+        {
+          "pattern": "We need aftersales services.",
+          "meaning": "Discuss service after a product sale."
+        },
+        {
+          "pattern": "What are the issues?",
+          "meaning": "Ask about problems or matters that need discussion."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "waitress",
+          "meaning": "người hầu bàn nữ"
+        },
+        {
+          "word": "offerings",
+          "meaning": "đề nghị đưa ra"
+        },
+        {
+          "word": "Waiter",
+          "meaning": "người hầu bàn nam"
+        },
+        {
+          "word": "Issues",
+          "meaning": "vấn đề cần thảo luận"
+        },
+        {
+          "word": "Famous",
+          "meaning": "nổi tiếng"
+        },
+        {
+          "word": "Delicious",
+          "meaning": "ngon miệng"
+        },
+        {
+          "word": "To offer",
+          "meaning": "đề nghị, mời"
+        },
+        {
+          "word": "The check",
+          "meaning": "biên lai tính tiền"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=90"
@@ -3072,7 +6824,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -3082,9 +6842,55 @@
       "title": "Anh Ngữ Sinh Động Bài 91",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=91",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/91.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This culture lesson explains restaurant ordering and hosting etiquette, including alcohol, moderation, and who normally pays.",
+      "keyPatterns": [
+        {
+          "pattern": "Should I order the same thing that the host orders?",
+          "meaning": "Ask about appropriate restaurant etiquette."
+        },
+        {
+          "pattern": "You order whatever you like.",
+          "meaning": "Give permission to choose freely."
+        },
+        {
+          "pattern": "Generally, the host pays for the meal.",
+          "meaning": "Explain a common business-lunch practice."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Client",
+          "meaning": "thân chủ"
+        },
+        {
+          "word": "Alcohol",
+          "meaning": "rượu"
+        },
+        {
+          "word": "Raspberry sauce",
+          "meaning": "nước sốt làm bằng trái raspberry, để đổ lên trên bánh ngọt"
+        },
+        {
+          "word": "Main course",
+          "meaning": "món ăn chính"
+        },
+        {
+          "word": "none for me",
+          "meaning": "tôi không muốn"
+        },
+        {
+          "word": "Make an individual choice",
+          "meaning": "chọn riêng cho mình"
+        },
+        {
+          "word": "Beer",
+          "meaning": "bia, wine"
+        },
+        {
+          "word": "To stuff",
+          "meaning": "eat too much"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=91"
@@ -3093,7 +6899,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -3103,9 +6917,55 @@
       "title": "Anh Ngữ Sinh Động Bài 92",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=92",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/92.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices sports and ability, especially talking about favorite sports and preferences.",
+      "keyPatterns": [
+        {
+          "pattern": "Do you like baseball?",
+          "meaning": "Ask whether someone likes a sport."
+        },
+        {
+          "pattern": "Baseball is my favorite sport.",
+          "meaning": "State a favorite sport."
+        },
+        {
+          "pattern": "I prefer American football.",
+          "meaning": "Express a preference between sports."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "won",
+          "meaning": "thắng"
+        },
+        {
+          "word": "Tennis",
+          "meaning": "môn quần vợt"
+        },
+        {
+          "word": "Sports",
+          "meaning": "các môn thể thao"
+        },
+        {
+          "word": "Soccer",
+          "meaning": "túc cầu, bóng tròn"
+        },
+        {
+          "word": "Basketball",
+          "meaning": "bóng rổ"
+        },
+        {
+          "word": "a vegetarian",
+          "meaning": "người ăn chay"
+        },
+        {
+          "word": "American football",
+          "meaning": "bóng bầu dục kiểu Mỹ"
+        },
+        {
+          "word": "prefer American football",
+          "meaning": "tôi thích bóng bầu dục Mỹ hơn"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=92"
@@ -3114,7 +6974,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -3124,9 +6992,55 @@
       "title": "Anh Ngữ Sinh Động Bài 93",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=93",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/93.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This business lesson practices confirming information and asking for permission during a business lunch.",
+      "keyPatterns": [
+        {
+          "pattern": "Let me see if I understand you correctly on this.",
+          "meaning": "Confirm that you understood a business point."
+        },
+        {
+          "pattern": "Could I ask you a question?",
+          "meaning": "Ask permission to ask something."
+        },
+        {
+          "pattern": "I would need more detail.",
+          "meaning": "Request more information before deciding."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "to summarize",
+          "meaning": "tóm tắt"
+        },
+        {
+          "word": "a tiger",
+          "meaning": "hổ"
+        },
+        {
+          "word": "a summary",
+          "meaning": "bản tóm tắt"
+        },
+        {
+          "word": "a rabbit",
+          "meaning": "con thỏ"
+        },
+        {
+          "word": "a lion",
+          "meaning": "sư tử"
+        },
+        {
+          "word": "To raise",
+          "meaning": "nâng lên"
+        },
+        {
+          "word": "Quickly enough",
+          "meaning": "đủ nhanh, kịp thời"
+        },
+        {
+          "word": "Monkey House",
+          "meaning": "chuồng khỉ"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=93"
@@ -3135,7 +7049,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -3145,9 +7067,55 @@
       "title": "Anh Ngữ Sinh Động Bài 94",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=94",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/94.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This culture lesson discusses smoking in the United States, including restrictions in public places and restaurants.",
+      "keyPatterns": [
+        {
+          "pattern": "Americans smoke less than people in most other countries.",
+          "meaning": "Make a comparison about smoking rates."
+        },
+        {
+          "pattern": "It is illegal to smoke in a restaurant.",
+          "meaning": "Describe a legal restriction."
+        },
+        {
+          "pattern": "No smoking.",
+          "meaning": "State a prohibition."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "smoking",
+          "meaning": "sự hút thuốc lá"
+        },
+        {
+          "word": "Strict",
+          "meaning": "khắt khe"
+        },
+        {
+          "word": "Smoke",
+          "meaning": "hút thuốc lá"
+        },
+        {
+          "word": "Nobody",
+          "meaning": "không có ai"
+        },
+        {
+          "word": "Legal",
+          "meaning": "hợp pháp, thuộc về pháp luật"
+        },
+        {
+          "word": "Law",
+          "meaning": "luật"
+        },
+        {
+          "word": "touch down",
+          "meaning": "hạ cánh"
+        },
+        {
+          "word": "cigaret te",
+          "meaning": "điếu thuốc đang cháy"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=94"
@@ -3156,7 +7124,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -3166,9 +7142,55 @@
       "title": "Anh Ngữ Sinh Động Bài 95",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=95",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/95.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices music, dancing, and degrees of ability through Can You Play the Piano?",
+      "keyPatterns": [
+        {
+          "pattern": "Can you play the piano?",
+          "meaning": "Ask about musical ability."
+        },
+        {
+          "pattern": "I'm a pretty good dancer.",
+          "meaning": "Describe a degree of ability."
+        },
+        {
+          "pattern": "I'm not a very good dancer.",
+          "meaning": "Describe limited ability politely."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Samba",
+          "meaning": "tên điệu nhẩy Ba Tây Samba, nguồn gốc ở"
+        },
+        {
+          "word": "Performance",
+          "meaning": "buổi trình diễn"
+        },
+        {
+          "word": "Director",
+          "meaning": "giám đốc"
+        },
+        {
+          "word": "Dancer",
+          "meaning": "vũ công"
+        },
+        {
+          "word": "Rock music",
+          "meaning": "nhạc rốc"
+        },
+        {
+          "word": "Latin music",
+          "meaning": "nhạc"
+        },
+        {
+          "word": "Latin dances",
+          "meaning": "điệu nhẩy"
+        },
+        {
+          "word": "Classical music",
+          "meaning": "nhạc cổ điển"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=95"
@@ -3177,7 +7199,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -3187,9 +7217,55 @@
       "title": "Anh Ngữ Sinh Động Bài 96",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=96",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/96.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson reviews common American sports through a question-of-the-week activity and continues business language for clarifying.",
+      "keyPatterns": [
+        {
+          "pattern": "The pitcher throws the ball.",
+          "meaning": "Describe an action in baseball."
+        },
+        {
+          "pattern": "The batter swings his bat and hits the ball.",
+          "meaning": "Describe a baseball action sequence."
+        },
+        {
+          "pattern": "Fleming hits the ball over the net.",
+          "meaning": "Describe a tennis action."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "size",
+          "meaning": "khổ lớn"
+        },
+        {
+          "word": "Tennis",
+          "meaning": "quần vợt"
+        },
+        {
+          "word": "Speech",
+          "meaning": "bài diễn văn"
+        },
+        {
+          "word": "Racket",
+          "meaning": "vợt"
+        },
+        {
+          "word": "Quantity",
+          "meaning": "số lượng"
+        },
+        {
+          "word": "Net",
+          "meaning": "lưới"
+        },
+        {
+          "word": "Mayor",
+          "meaning": "thị trưởng"
+        },
+        {
+          "word": "Information",
+          "meaning": "(danh từ ở số ít, không có s"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=96"
@@ -3198,7 +7274,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -3208,9 +7292,55 @@
       "title": "Anh Ngữ Sinh Động Bài 97",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=97",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/97.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This culture lesson explains why direct American communication can sound aggressive and practices stating, confirming, and clarifying opinions.",
+      "keyPatterns": [
+        {
+          "pattern": "For Americans, being direct is not being aggressive; it's telling the truth.",
+          "meaning": "Explain the cultural difference between directness and aggression."
+        },
+        {
+          "pattern": "That's not what I mean.",
+          "meaning": "Clarify an intended meaning."
+        },
+        {
+          "pattern": "I need to clarify my position.",
+          "meaning": "Make a position or opinion clearer."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "rep",
+          "meaning": "representative) thay cho hai từ salesman và saleswoman"
+        },
+        {
+          "word": "led",
+          "meaning": "đưa đến, dẫn đến"
+        },
+        {
+          "word": "definitely",
+          "meaning": "chắc chắn là vậy"
+        },
+        {
+          "word": "Style",
+          "meaning": "phong cách, lối"
+        },
+        {
+          "word": "Simple",
+          "meaning": "giản dị"
+        },
+        {
+          "word": "Sentences",
+          "meaning": "câu"
+        },
+        {
+          "word": "Position",
+          "meaning": "lập trường, quan điểm"
+        },
+        {
+          "word": "Opinion",
+          "meaning": "ý kiến"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=97"
@@ -3219,7 +7349,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -3229,9 +7367,55 @@
       "title": "Anh Ngữ Sinh Động Bài 98",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=98",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/98.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson practices likes and dislikes and can/can't through the topic of reading mystery stories.",
+      "keyPatterns": [
+        {
+          "pattern": "Do you like to read mystery stories?",
+          "meaning": "Ask about a reading preference."
+        },
+        {
+          "pattern": "I like to read mystery stories.",
+          "meaning": "State a preference."
+        },
+        {
+          "pattern": "I can ...",
+          "meaning": "Express ability using can."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "recommend",
+          "meaning": "giới thiệu"
+        },
+        {
+          "word": "mysteries",
+          "meaning": "truyện bí ẩn, kinh dị"
+        },
+        {
+          "word": "Poker",
+          "meaning": "bài xì"
+        },
+        {
+          "word": "Likes",
+          "meaning": "(danh từ) những điều ta thích làm"
+        },
+        {
+          "word": "Decapitate",
+          "meaning": "chém đầu"
+        },
+        {
+          "word": "Chess",
+          "meaning": "cờ"
+        },
+        {
+          "word": "Bridge",
+          "meaning": "bài brít"
+        },
+        {
+          "word": "capital city",
+          "meaning": "thành phố chính"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=98"
@@ -3240,7 +7424,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -3250,9 +7442,55 @@
       "title": "Anh Ngữ Sinh Động Bài 99",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=99",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/99.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This business lesson practices promising and talking about future actions and reports in the context of a business lunch.",
+      "keyPatterns": [
+        {
+          "pattern": "I'm going to put this information in a report.",
+          "meaning": "State a planned future action."
+        },
+        {
+          "pattern": "I'll have the report ready for you tomorrow.",
+          "meaning": "Make a commitment about future work."
+        },
+        {
+          "pattern": "I promise to ...",
+          "meaning": "Make a promise about a future action."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "swung",
+          "meaning": "vung lên"
+        },
+        {
+          "word": "hit",
+          "meaning": "đánh"
+        },
+        {
+          "word": "Swing",
+          "meaning": "điệu nhẩy swing"
+        },
+        {
+          "word": "Storage",
+          "meaning": "chỗ chứa"
+        },
+        {
+          "word": "Graham",
+          "meaning": "Ông hứa sẽ làm một bản tường trình cho bà"
+        },
+        {
+          "word": "To store",
+          "meaning": "chứa"
+        },
+        {
+          "word": "To satisfy",
+          "meaning": "thoả mãn"
+        },
+        {
+          "word": "To promise",
+          "meaning": "hứa"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=99"
@@ -3261,7 +7499,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {
@@ -3271,9 +7517,55 @@
       "title": "Anh Ngữ Sinh Động Bài 100",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=100",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/100.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "This lesson continues the business discussion about spare-parts storage and practices promises, reports, and checking understanding.",
+      "keyPatterns": [
+        {
+          "pattern": "What does Mr. Blake have to do before he can prepare his report?",
+          "meaning": "Ask what must happen before a task can be completed."
+        },
+        {
+          "pattern": "I'll have the report ready for you tomorrow.",
+          "meaning": "Commit to a future deadline."
+        },
+        {
+          "pattern": "Americans really respect people who keep their promises.",
+          "meaning": "Explain the business value of keeping promises."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Trust",
+          "meaning": "sự tin cậy"
+        },
+        {
+          "word": "Stages",
+          "meaning": "giai đoạn"
+        },
+        {
+          "word": "Serious",
+          "meaning": "quan trọng"
+        },
+        {
+          "word": "Embarrassing",
+          "meaning": "ngượng"
+        },
+        {
+          "word": "Disgraceful",
+          "meaning": "xấu hổ, hổ thẹn"
+        },
+        {
+          "word": "To embarrass",
+          "meaning": "làm cho ai ngượng"
+        },
+        {
+          "word": "To check",
+          "meaning": "kiểm soát lại"
+        },
+        {
+          "word": "Office manager",
+          "meaning": "trưởng phòng"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=100"
@@ -3282,7 +7574,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna (source-grounded)",
+        "aiGeneratedAt": "2026-10-08T09:42:27.434819Z",
+        "aiReviewStatus": "pending",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "pending"
+        }
       }
     },
     {

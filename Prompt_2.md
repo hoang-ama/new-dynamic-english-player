@@ -867,3 +867,18 @@ Fix systematically.
 Validate all 340 lessons.
 
 Only declare completion after production verification.
+
+
+----
+
+Review verdict
+Hạng mục	Đánh giá
+Core architecture	🟢 Tốt
+Vanilla JS / simplicity	🟢 Tốt
+Frontend study-note rendering	🟢 Tốt
+Transcript security	🟢 Tốt
+Data separation	🟢 Tốt
+Enrichment workflow clarity	🟠 Cần cải thiện
+AI candidate validation	🟠 Thiếu validation command riêng
+Pending → production control	🔴 Cần sửa
+Nguyên nhân NOT ENRICHED	Đã xác định

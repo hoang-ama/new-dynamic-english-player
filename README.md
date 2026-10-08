@@ -136,6 +136,16 @@ The included `data/lessons.json` remains the canonical 340-record lesson manifes
 
 `npm run refresh` rebuilds the canonical manifest and requires outbound access to the course source.
 
+IMPORTANT:
+Files in data/ai-enrichment/ are staging candidates.
+The player does NOT read them directly.
+
+After adding or approving enrichment files, run:
+
+npm run apply-enrichment
+npm run validate
+npm run build:vercel
+
 ## Next pipeline stage
 
 After the AI enrichment candidates are reviewed:
@@ -143,3 +153,16 @@ After the AI enrichment candidates are reviewed:
 1. Review each candidate's summary, patterns, vocabulary, and cited source excerpts.
 2. Promote approved content to `data/lessons.json` with a deliberate data update.
 3. Validate the canonical lesson manifest again.
+
+
+AI generated
+      ↓
+schema validation
+      ↓
+evidence validation
+      ↓
+semantic review
+      ↓
+APPROVED
+      ↓
+data/lessons.json
