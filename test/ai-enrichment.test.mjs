@@ -42,6 +42,32 @@ test("rejects evidence not present in source and unknown output fields", () => {
   assert.ok(errors.some(error => error.includes("vocabulary[0]")));
 });
 
+test("rejects enrichment that has not passed semantic review", () => {
+  const candidate = {
+    // ...valid candidate fields...
+    reviewStatus: "pending",
+    validation: {
+      schema: "passed",
+      evidenceQuotes: "passed",
+      semanticReview: "pending"
+    }
+  };
+
+  const errors = validateEnrichmentCandidate(candidate, lesson);
+
+  assert.ok(
+    errors.some(error =>
+      error.includes('reviewStatus "approved"')
+    )
+  );
+
+  assert.ok(
+    errors.some(error =>
+      error.includes('semanticReview "passed"')
+    )
+  );
+});
+
 test("fails without an API key and before making a request", async () => {
   let requested = false;
   await assert.rejects(
@@ -80,7 +106,7 @@ test("retries transient overload and succeeds without changing the model or payl
   const retries = [];
   const result = await enrichLesson(sourceLesson, {
     apiKey: "test-secret",
-    waitImpl: async () => {},
+    waitImpl: async () => { },
     onRetry: retry => retries.push(retry),
     fetchImpl: async () => {
       calls += 1;
@@ -103,7 +129,7 @@ test("does not retry authentication or other non-transient errors", async () => 
   let calls = 0;
   await assert.rejects(enrichLesson(sourceLesson, {
     apiKey: "test-secret",
-    waitImpl: async () => {},
+    waitImpl: async () => { },
     fetchImpl: async () => {
       calls += 1;
       return { status: 403, ok: false, json: async () => ({ error: { message: "key rejected" } }) };
