@@ -89,7 +89,7 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .audio-heading, .section-heading-title { display: flex; align-items: center; gap: 12px; }
 .section-index { align-self: flex-start; padding-top: 2px; color: var(--coral); font-family: Georgia, serif; font-size: 12px; }
 .audio-heading h2, .section-heading-title h2 { margin: 0; font-family: Georgia, "Times New Roman", serif; font-size: 21px; font-weight: 400; }
-.audio-heading p, .section-heading-title p { margin: 4px 0 0; color: var(--muted); font-size: 11px; }
+.audio-heading p, .section-heading-title p { margin: 4px 0 0; color: var(--muted); font-size: 13px; }
 .audio-source-tag, .notes-status { margin-left: auto; color: var(--muted); font-size: 9px; font-weight: 700; }
 .audio-source-tag { padding: 6px 8px; border: 1px solid #e3e8e2; border-radius: 4px; background: #f8faf7; }
 .audio-player-card { margin: 17px 0 0 38px; padding: 17px 18px 12px; border: 1px solid #dce4dc; border-radius: 9px; background: #f5f8f4; }
@@ -99,7 +99,7 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .audio-disc span { width: 12px; height: 12px; border: 2px solid #fff8e0; border-radius: 50%; background: #896e31; }
 .audio-track-meta div, .dock-track > div { display: grid; gap: 4px; min-width: 0; }
 .audio-track-meta strong, .dock-track strong { overflow: hidden; font-size: 12px; text-overflow: ellipsis; white-space: nowrap; }
-.audio-track-meta div span, .dock-track div span { color: var(--muted); font-size: 10px; }
+.audio-track-meta div span, .dock-track div span { color: var(--muted); font-size: 12px; }
 .transport-controls, .dock-controls { display: flex; align-items: center; justify-content: center; gap: 12px; }
 .transport-button { width: 32px; height: 32px; border: 0; background: transparent; color: #526057; font-size: 14px; cursor: pointer; }
 .transport-button:hover { color: var(--coral); }
@@ -126,9 +126,11 @@ input[type="range"] { accent-color: var(--green); cursor: pointer; }
 .study-block + .study-block { padding-left: 17px; border-left: 1px solid #e3e8e3; }
 .study-block h3 { margin: 0 0 12px; color: #526057; font-size: 11px; font-weight: 700; }
 .study-content { color: #344039; font-size: 12px; line-height: 1.65; }
+.summary-block .study-content { font-size: 14px; }
 .study-content p { margin: 0 0 8px; }
 .study-content p:last-child { margin-bottom: 0; }
 .study-placeholder { color: var(--muted); font-size: 11px; line-height: 1.5; }
+.summary-block .study-placeholder { font-size: 13px; }
 .pattern-item { margin: 0 0 12px; padding-left: 10px; border-left: 2px solid #d67a5b; }
 .pattern-item:last-child { margin-bottom: 0; }
 .pattern-item strong, .vocabulary-item strong { display: block; color: #23362a; }

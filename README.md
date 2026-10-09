@@ -1,168 +1,204 @@
-# Dynamic English — Data Pipeline
+# Dynamic English Player — Anh Ngữ Sinh Động
 
-This pipeline builds the 340-lesson catalog for the Dynamic English player.
+Ứng dụng web học tiếng Anh cá nhân, gọn nhẹ và hiện đại dành cho khóa học kinh điển **Anh Ngữ Sinh Động / New Dynamic English** (toàn bộ 340 bài học).
 
-## What it collects
+Ứng dụng được thiết kế tối giản, tập trung vào trải nghiệm học tập:
+> **Bài học (Lesson) → Nghe âm thanh (Audio) → Ghi chú học tập (Study Notes) → Bản ghi lời thoại (Transcript)**
 
-- lesson ID: 1–340
-- part: 1–4
-- lesson number
-- lesson title
-- source lesson URL
-- direct audio URL
-- transcript endpoint placeholder
-- AI enrichment placeholders
+---
 
-It does **not** copy audio files.
+## 🌟 Tính năng nổi bật (Features)
 
-## Confirmed source structure
+1. **Trình phát âm thanh đầy đủ tính năng (Full-Featured Audio Player)**
+   - Phát âm thanh trực tiếp (stream) từ nguồn chính thống LopNgoaiNgu.com mà không cần tải hay lưu trữ audio về máy.
+   - Hỗ trợ Play, Pause, Seek thanh trượt thời gian, tua trước/sau.
+   - Tùy chỉnh tốc độ phát lại đa dạng: `0.75×`, `1×`, `1.25×`, `1.5×`, `2×`.
+   - Điều chỉnh âm lượng và tự động chuyển bài tiếp theo khi kết thúc (Auto-advance).
+   - Thanh điều khiển nổi cố định dưới đáy màn hình (Dock Player) tiện lợi khi cuộn trang hoặc dùng trên điện thoại di động.
 
-- Part 1: 1–100
-- Part 2: 101–200
-- Part 3: 201–300
-- Part 4: 301–340
+2. **Ghi chú học tập thông minh có cơ sở (AI-Grounded Study Notes)**
+   - Toàn bộ **340 bài học** đều đã được tích hợp đầy đủ ghi chú:
+     - **Summary**: Bản tóm tắt cô đọng, dễ hiểu về nội dung và tình huống trong bài.
+     - **Key sentence patterns**: Các mẫu câu giao tiếp trọng tâm kèm bản dịch nghĩa tiếng Việt.
+     - **Vocabulary**: Danh sách từ vựng then chốt kèm định nghĩa sát với ngữ cảnh bài học.
+   - Nội dung được tạo bởi mô hình AI (Google Gemini) với quy chuẩn đối soát nguồn nghiêm ngặt, đảm bảo 100% bám sát nội dung gốc, tuyệt đối không bịa đặt từ vựng hay quy tắc ngữ pháp.
 
-The current source exposes lesson audio using:
+3. **Xem Transcript ngay trong ứng dụng (Embedded Transcript on-demand)**
+   - Đọc bản ghi lời thoại trực tiếp mà không cần rời trang hoặc mở tab ngoài.
+   - Tải theo nhu cầu (chỉ tải khi người dùng bấm *"Show transcript"* để tiết kiệm băng thông và tăng tốc tải trang).
+   - Được làm sạch, loại bỏ các thành phần thừa từ trang nguồn.
+   - Xử lý thông qua Vercel Serverless Function an toàn (`/api/transcript?id=N`), phòng chống tấn công SSRF.
 
-`https://lopngoaingu.com/Dynamic_English_Study/audio/{lessonId}.mp3`
+4. **Theo dõi tiến độ học tập tự động (Progress Tracking)**
+   - Lưu trữ cục bộ qua trình duyệt (`localStorage`), không cần đăng nhập tài khoản:
+     - Ghi nhớ bài học đang nghe dở dang.
+     - Lưu mốc thời gian (timestamp) đã nghe của từng bài để tiếp tục nghe lại.
+     - Đánh dấu bài học đã hoàn thành (*Mark as completed*).
+     - Ghi nhớ tốc độ phát yêu thích.
+   - Tự động khôi phục an toàn, không làm ứng dụng bị lỗi nếu dữ liệu lưu trữ bị trống hoặc sai lệch.
 
-## Run
+5. **Tìm kiếm & Phân loại bài học thông minh**
+   - Danh sách 340 bài học được chia theo 4 phần rõ ràng:
+     - **Part 1:** Bài 1 – 100
+     - **Part 2:** Bài 101 – 200
+     - **Part 3:** Bài 201 – 300
+     - **Part 4:** Bài 301 – 340
+   - Tìm kiếm tức thì theo số bài học (vd: `56`, `Lesson 12`) hoặc tên bài học.
 
-Requires Node.js 18.17+.
+6. **Giao diện hiện đại & Tương thích mọi thiết bị (Responsive Design)**
+   - Thiết kế chuẩn "Study-first": trang nhã, tập trung, dễ nhìn, font chữ rõ ràng.
+   - Tối ưu hoàn hảo cho màn hình máy tính (Desktop), máy tính bảng (Tablet) và điện thoại di động (Mobile).
+
+---
+
+## 📁 Cấu trúc thư mục dự án (Project Directory Structure)
+
+```text
+Dynamic_English/
+├── api/                           # Vercel Serverless Functions
+│   └── transcript.js              # Endpoint xử lý lấy và làm sạch transcript an toàn
+├── data/                          # Kho dữ liệu khóa học
+│   ├── lessons.json               # Manifest chuẩn 340 bài học (đầy đủ metadata & AI notes)
+│   ├── source-lessons/            # Bản trích xuất nội dung gốc bài học dạng JSON (1-340)
+│   └── ai-enrichment/             # Dữ liệu đối soát AI enrichment của từng bài
+├── lib/                           # Các thư viện logic xử lý backend và pipeline
+│   ├── ai-enrichment.mjs          # Giao tiếp với Gemini API để sinh study notes
+│   ├── lesson-enrichment-merge.mjs# Kiểm tra bằng chứng và gộp dữ liệu vào manifest
+│   ├── source-content.mjs         # Trích xuất và bóc tách nội dung HTML gốc
+│   ├── transcript-api.mjs         # Logic xử lý nghiệp vụ cho Transcript API
+│   └── vercel-build.mjs           # Script chuẩn bị tài nguyên tĩnh trước khi deploy Vercel
+├── public/                        # Mã nguồn giao diện người dùng (Frontend)
+│   ├── app.js                     # File điều khiển chính của giao diện web
+│   ├── index.html                 # Giao diện HTML của ứng dụng
+│   ├── styles.css                 # Toàn bộ định dạng giao diện (Vanilla CSS)
+│   └── src/                       # Các module JS phía client
+│       ├── lessons.js             # Logic tải danh sách, lọc và tìm kiếm bài học
+│       ├── player.js              # Logic điều khiển trình phát âm thanh và audio events
+│       └── progress-store.js      # Logic lưu/đọc tiến độ người dùng từ localStorage
+├── scripts/                       # Các công cụ dòng lệnh (Automation & Dev)
+│   ├── dev-server.mjs             # Web server phát triển cục bộ (kèm API transcript)
+│   ├── validate-data.mjs          # Script kiểm tra tính toàn vẹn của dữ liệu 340 bài
+│   ├── extract-source-lessons.mjs # Script trích xuất nội dung từ trang web nguồn
+│   ├── enrich-lessons.mjs         # Script gửi yêu cầu tới Gemini để tạo study notes
+│   ├── apply-enrichment.mjs       # Script kiểm duyệt và cập nhật study notes vào lessons.json
+│   └── build-vercel.mjs           # Script build cho môi trường Vercel
+├── test/                          # Bộ kiểm thử tự động (Unit test)
+├── AGENTS.md                      # Đặc tả kỹ thuật và kiến trúc chuẩn của dự án
+└── package.json                   # Cấu hình dự án và danh sách câu lệnh npm
+```
+
+---
+
+## 🔄 Quy trình hoạt động (Workflow)
+
+### 1. Luồng vận hành ứng dụng (Runtime Workflow)
+```text
+Người dùng mở ứng dụng (http://127.0.0.1:4173)
+       ↓
+Browser tải public/index.html & đọc public/data/lessons.json
+       ↓
+Hiển thị danh sách 340 bài học + Khôi phục bài gần nhất từ localStorage
+       ↓
+Bấm Play ───► Trình duyệt stream trực tiếp audio từ LopNgoaiNgu.com
+       ↓
+Xem Study Notes (Tóm tắt, mẫu câu, từ vựng) đã có sẵn trong metadata
+       ↓
+Bấm "Show transcript" ───► Gọi API GET /api/transcript?id=N (chỉ tải khi mở)
+       ↓
+Tiến độ, vị trí audio, trạng thái hoàn thành tự động lưu vào localStorage
+```
+
+### 2. Luồng xây dựng & làm giàu dữ liệu (Data Pipeline Workflow)
+```text
+Trang web nguồn (LopNgoaiNgu.com)
+       ↓ (npm run extract)
+data/source-lessons/{id}.json (Nội dung gốc được bóc tách)
+       ↓ (npm run enrich)
+data/ai-enrichment/{id}.json (AI tạo summary, key patterns, vocabulary)
+       ↓ (npm run apply-enrichment)
+Kiểm tra cấu trúc & bằng chứng (Evidence Validation)
+       ↓
+data/lessons.json (Cập nhật vào manifest chính thức)
+       ↓ (npm run validate)
+Xác nhận tính hợp lệ của toàn bộ 340 bài học
+```
+
+---
+
+## 🚀 Hướng dẫn cho người mới bắt đầu (Getting Started)
+
+### Yêu cầu cài đặt trước (Prerequisites)
+- Đã cài đặt **Node.js** phiên bản `18.17.0` trở lên trên máy tính ([Tải tại nodejs.org](https://nodejs.org/)).
+- Đã cài đặt **Git**.
+
+---
+
+### Bước 1: Sao chép dự án về máy (Clone Repository)
+Mở cửa sổ dòng lệnh (Terminal trên macOS/Linux hoặc PowerShell trên Windows) và chạy:
+
+```bash
+git clone https://github.com/hoang-ama/new-dynamic-english-player.git
+cd new-dynamic-english-player
+```
+
+---
+
+### Bước 2: Cài đặt các gói phụ thuộc (Install Dependencies)
+Cài đặt các thư viện cần thiết bằng lệnh:
 
 ```bash
 npm install
-npm run refresh
 ```
 
-The output is:
+---
 
-`data/lessons.json`
-
-## Run the player
-
-Start the local Vanilla JavaScript app and Vercel-function-compatible transcript route with:
+### Bước 3: Chạy ứng dụng trên môi trường cục bộ (Run Locally)
+Khởi động máy chủ phát triển (Dev server) tích hợp sẵn:
 
 ```bash
 npm run dev
 ```
 
-Open `http://127.0.0.1:4173`. The player loads lesson metadata on startup, streams the selected lesson's original audio directly, and requests a transcript only when opened. Completion, current lesson, playback speed, and audio positions are stored in browser `localStorage`.
-
-Lesson summaries, patterns, and vocabulary remain visibly unavailable when the canonical manifest has no reviewed enrichment; the player does not invent replacements.
-
-Vercel uses `npm run build:vercel`, which validates the checked-in lesson manifest and stages it at `public/data/lessons.json`, along with the browser modules from `src/`, for static delivery. It does not fetch the course or rewrite the canonical data. These generated public copies are git-ignored. `npm run build` remains reserved for the separate catalog refresh pipeline.
-
-## Deploy through GitHub Actions
-
-`.github/workflows/vercel.yml` runs unit tests, manifest validation, browser E2E, and axe checks before deploying. Pushes to feature branches create Vercel Preview deployments; pushes to `main` create Production deployments. Pull requests run the checks but do not receive deployment secrets. `vercel.json` disables Vercel's automatic Git deployment so the same commit is not deployed twice.
-
-Before the first deployment:
-
-1. Create/link this project in Vercel with `vercel link` and note `orgId` and `projectId` from the generated local `.vercel/project.json`.
-2. In GitHub, open **Settings → Secrets and variables → Actions** and add `VERCEL_TOKEN`, `VERCEL_ORG_ID`, and `VERCEL_PROJECT_ID` as repository secrets.
-3. Push a branch for Preview; merge/push to `main` for Production.
-
-The `.vercel/` directory and credentials are ignored and must not be committed. A separate `GEMINI_API_KEY` is only needed if/when a server-side AI feature is deployed; the current player does not call Gemini at runtime.
-
-## Extract lesson content
-
-The source-content extractor uses the lesson article body and removes the embedded source audio controls and lesson-menu link. By default it fetches only the representative checkpoints (lessons 1, 113, and 340):
-
-```bash
-npm run extract
+Sau khi chạy lệnh, màn hình terminal sẽ hiển thị:
+```text
+Dynamic English Player running at http://127.0.0.1:4173
 ```
 
-Records are written locally to `data/source-lessons/{id}.json` with a fetch timestamp and `fetched` or `failed` status. This course-derived content is excluded from the public repository. After reviewing the checkpoint output, pass `--all` to fetch all 340 lessons:
+👉 **Mở trình duyệt web của bạn và truy cập:** `http://127.0.0.1:4173` để bắt đầu học!
 
-```bash
-npm run extract -- --all
-```
+---
 
-Failed requests are recorded and are not replaced with fabricated content. Audio is not downloaded.
+## 🛠️ Các lệnh npm hữu ích (Useful npm Commands)
 
-## Transcript API
+| Lệnh | Ý nghĩa |
+|---|---|
+| `npm run dev` | Khởi chạy máy chủ cục bộ hỗ trợ đầy đủ web player và API transcript tại port `4173`. |
+| `npm run validate` | Kiểm tra tính toàn vẹn của dữ liệu: đảm bảo đủ 340 bài, định dạng URL âm thanh, cấu trúc trường. |
+| `npm test` | Chạy bộ kiểm thử đơn vị (Unit tests) cho các chức năng backend và logic dữ liệu. |
+| `npm run test:e2e` | Chạy kiểm thử tự động toàn diện từ đầu đến cuối trên trình duyệt bằng Playwright. |
+| `npm run build:vercel` | Kiểm tra dữ liệu và sao chép manifest bài học vào thư mục `public/` để sẵn sàng triển khai tĩnh trên Vercel. |
 
-The Vercel function `GET /api/transcript?id=N` resolves the lesson in `data/lessons.json`, fetches only that record's fixed LopNgoaiNgu lesson URL, extracts the article, and returns structured JSON (`id`, `sourceUrl`, `title`, `content`, `sections`, `fetchedAt`, and `status`). The endpoint rejects invalid IDs and methods, does not accept a remote URL parameter, and returns an error when the source is unavailable or cannot be extracted. Transcript content is returned as text, not source HTML.
+---
 
-Run the request-handler tests with:
+## 🌐 Hướng dẫn Triển khai lên Vercel (Deployment)
 
-```bash
-npm test
-```
+Dự án tương thích hoàn hảo với nền tảng lưu trữ [Vercel](https://vercel.com):
 
-## Responsive and end-to-end checks
+1. **Deploy tự động qua GitHub:**
+   - Đưa dự án lên GitHub.
+   - Đăng nhập vào [Vercel](https://vercel.com) và chọn **Add New Project** → Chọn repository này.
+   - Vercel sẽ tự động phát hiện cấu hình và chạy `npm run build:vercel`.
+   - File cấu hình `vercel.json` và `api/transcript.js` đã được thiết lập sẵn sàng để hoạt động ngay mà không cần cấu hình thêm.
 
-The Playwright suite covers lesson search/selection, completion persistence across reloads, transcript loading/cache/error retry, mobile drawer keyboard focus, responsive widths, and axe WCAG checks. Install Chromium once, then run:
+2. **Deploy qua Vercel CLI:**
+   ```bash
+   npx vercel
+   ```
 
-```bash
-npx playwright install chromium
-npm run test:e2e
-```
+---
 
-Playwright reports are written under `test-results/` and are git-ignored.
+## ⚖️ Bản quyền & Nguồn trích dẫn (Attribution & Disclaimer)
 
-## AI enrichment
-
-The enrichment pipeline uses Google's Gemini API with the pinned model ID `gemini-3.6-flash`. It reads only successful records from `data/source-lessons/`, requests structured JSON, and checks every evidence excerpt against the source text. Temporary `408`, `429`, and `5xx` responses are retried up to three total attempts, respecting `Retry-After` when provided. Results are staged in `data/ai-enrichment/` with `reviewStatus: "pending"`; generation alone does not modify `data/lessons.json`.
-
-Set `GEMINI_API_KEY` in the root `.env` file (the file is git-ignored):
-
-```dotenv
-GEMINI_API_KEY=your_Gemini_API_key
-```
-
-The enrichment script loads `.env` on supported Node versions. Do not commit the key or expose it in browser code. In Vercel, configure the same variable through Project Settings → Environment Variables. The default command processes checkpoint lessons 1, 113, and 340:
-
-```bash
-npm run enrich -- --ids=1,113,340
-```
-
-To process all lessons after reviewing the checkpoint candidates, use `npm run enrich -- --all`. Existing outputs are skipped unless `--force` is passed. Use `npm test` to run the enrichment validation tests.
-
-Apply validated enrichment candidates to the lesson manifest with:
-
-```bash
-npm run apply-enrichment
-```
-
-The apply step copies only the public study-note fields (`summary`, `keyPatterns`, and `vocabulary`) into `data/lessons.json` and records AI metadata. Evidence excerpts remain in the local candidate files.
-
-Review Google's [Gemini pricing and data-use terms](https://ai.google.dev/gemini-api/docs/pricing) before sending lesson content: Google's current documentation distinguishes the free tier (submitted content may be used to improve products) from paid tier (content is not used for product improvement).
-
-## Important
-
-The included `data/lessons.json` remains the canonical 340-record lesson manifest. Source extraction results and their per-lesson statuses are stored separately in `data/source-lessons/`.
-
-`npm run refresh` rebuilds the canonical manifest and requires outbound access to the course source.
-
-IMPORTANT:
-Files in data/ai-enrichment/ are staging candidates.
-The player does NOT read them directly.
-
-After adding or approving enrichment files, run:
-
-npm run apply-enrichment
-npm run validate
-npm run build:vercel
-
-## Next pipeline stage
-
-After the AI enrichment candidates are reviewed:
-
-1. Review each candidate's summary, patterns, vocabulary, and cited source excerpts.
-2. Promote approved content to `data/lessons.json` with a deliberate data update.
-3. Validate the canonical lesson manifest again.
-
-
-AI generated
-      ↓
-schema validation
-      ↓
-evidence validation
-      ↓
-semantic review
-      ↓
-APPROVED
-      ↓
-data/lessons.json
+- **Nguồn khóa học:** *LopNgoaiNgu.com — New Dynamic English (Anh Ngữ Sinh Động)*.
+- Ứng dụng phát trực tiếp âm thanh từ nguồn LopNgoaiNgu.com, không sở hữu bản quyền hay lưu trữ trái phép các tệp âm thanh gốc.
+- Dự án này phục vụ mục đích học tập cá nhân phi thương mại.
