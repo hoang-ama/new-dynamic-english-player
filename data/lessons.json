@@ -25986,9 +25986,71 @@
       "title": "Anh Ngữ Sinh Động Bài 301",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=301",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/301.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 301 ôn và thực hành mệnh đề điều kiện if not và unless. Bài giải thích khi if not và unless có thể thay thế cho nhau, khi nào chỉ dùng if not, và cách dùng unless trong các loại câu điều kiện.",
+      "keyPatterns": [
+        {
+          "pattern": "unless + clause, main clause",
+          "meaning": "Dùng unless để diễn tả điều kiện ngoại lệ, tương đương ý “nếu không/trừ phi”."
+        },
+        {
+          "pattern": "If + positive condition, main clause",
+          "meaning": "Mệnh đề if diễn tả điều kiện để dẫn tới kết quả ở mệnh đề chính."
+        },
+        {
+          "pattern": "unless + simple present, will + verb",
+          "meaning": "Một cách dùng unless trong first conditional."
+        },
+        {
+          "pattern": "unless + simple past, would + verb",
+          "meaning": "Bài cũng minh họa unless trong second conditional."
+        },
+        {
+          "pattern": "If-clause + main clause / main clause + if-clause",
+          "meaning": "Mệnh đề if có thể đứng trước hoặc sau mệnh đề chính; khi đứng trước thường có dấu phẩy."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "unless",
+          "meaning": "nếu không, trừ phi, trừ khi"
+        },
+        {
+          "word": "condition",
+          "meaning": "điều kiện"
+        },
+        {
+          "word": "main clause",
+          "meaning": "mệnh đề chính"
+        },
+        {
+          "word": "if-clause",
+          "meaning": "mệnh đề điều kiện"
+        },
+        {
+          "word": "exception",
+          "meaning": "ngoại lệ"
+        },
+        {
+          "word": "subjunctive",
+          "meaning": "bàng thái cách"
+        },
+        {
+          "word": "on time",
+          "meaning": "đúng giờ"
+        },
+        {
+          "word": "operate",
+          "meaning": "mổ; vận hành"
+        },
+        {
+          "word": "admitted",
+          "meaning": "được vào cửa"
+        },
+        {
+          "word": "facts",
+          "meaning": "sự việc, dữ kiện"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=301"
@@ -25997,7 +26059,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26007,41 +26077,69 @@
       "title": "Anh Ngữ Sinh Động Bài 302",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=302",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/302.mp3",
-      "summary": "Bài học này hướng dẫn chi tiết cách sử dụng mệnh đề unless và phân biệt với if not trong các câu điều kiện. Mệnh đề unless được dùng trong câu điều kiện loại một và loại hai, nhưng không được dùng cho những tình huống giả định không có thực trong quá khứ hay tương lai. Ngoài ra, bài học còn giải thích cách dùng unless khi đưa ra ý bổ sung (afterthought) và cấu trúc rút gọn đi với past participle.",
+      "summary": "Bài 302 tiếp tục phân biệt unless và if not, đặc biệt trong first conditional, second conditional và unreal past. Bài luyện đổi câu if sang unless và nhấn mạnh các trường hợp chỉ dùng if not hoặc chỉ dùng unless.",
       "keyPatterns": [
         {
-          "pattern": "simple present (ở unless clause) + simple future (ở main clause)",
-          "meaning": "Dùng trong câu điều kiện loại 1 (first conditional) diễn tả điều kiện trừ phi/nếu không."
+          "pattern": "unless + simple present, will + verb",
+          "meaning": "Dùng unless trong first conditional."
         },
         {
-          "pattern": "simple past (ở unless clause) + would + infinitive (ở main clause)",
-          "meaning": "Dùng trong câu điều kiện loại 2 (second conditional)."
+          "pattern": "unless + simple past, would + verb",
+          "meaning": "Dùng unless trong second conditional."
         },
         {
-          "pattern": "unless + afterthought",
-          "meaning": "Bắt buộc dùng unless khi nói thêm một điều để giới hạn hoặc bổ chính rõ hơn cho điều đã nói trước."
+          "pattern": "If ... not → unless ...",
+          "meaning": "Có thể chuyển một số câu phủ định với if not sang unless mà giữ nguyên ý."
         },
         {
-          "pattern": "unless + past participle",
-          "meaning": "Lối viết rút ngắn câu phụ làm câu văn trang nghiêm (formal), trong đó unless đóng vai trò làm preposition."
+          "pattern": "unless + affirmative clause",
+          "meaning": "Sau unless thường dùng mệnh đề khẳng định để diễn tả điều kiện ngoại lệ."
+        },
+        {
+          "pattern": "I wish / unreal past distinction",
+          "meaning": "Bài phân biệt các trường hợp điều kiện không thực trong quá khứ với cách dùng unless."
         }
       ],
       "vocabulary": [
         {
-          "word": "TO LURE",
-          "meaning": "quyến dũ, cám dỗ"
+          "word": "unless",
+          "meaning": "nếu không, trừ phi"
         },
         {
-          "word": "Recklessly",
-          "meaning": "liều lĩnh, thiếu thận trọng"
+          "word": "first conditional",
+          "meaning": "câu điều kiện loại một"
         },
         {
-          "word": "afterthought",
-          "meaning": "nói thêm một điều để giới hạn hay bổ chính cho rõ hơn điều đã nói trước"
+          "word": "second conditional",
+          "meaning": "câu điều kiện loại hai"
         },
         {
-          "word": "FAILURE",
-          "meaning": "danh từ của động từ fail, phát âm là /fei-ljơ(r)/"
+          "word": "unreal past",
+          "meaning": "quá khứ không thực"
+        },
+        {
+          "word": "subjunctive",
+          "meaning": "bàng thái cách"
+        },
+        {
+          "word": "failure",
+          "meaning": "sự thất bại; thi trượt"
+        },
+        {
+          "word": "doctor’s note",
+          "meaning": "giấy chứng nhận của bác sĩ"
+        },
+        {
+          "word": "paid time off",
+          "meaning": "thời gian nghỉ có lương"
+        },
+        {
+          "word": "unexpected",
+          "meaning": "bất ngờ"
+        },
+        {
+          "word": "exception",
+          "meaning": "ngoại lệ"
         }
       ],
       "transcript": {
@@ -26053,13 +26151,13 @@
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
         "aiStatus": "ai-generated",
-        "aiModel": "gemini-3.6-flash",
-        "aiGeneratedAt": "2026-10-06T01:33:11.287Z",
-        "aiReviewStatus": "pending",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
         "aiValidation": {
           "schema": "passed",
           "evidenceQuotes": "passed",
-          "semanticReview": "pending"
+          "semanticReview": "passed"
         }
       }
     },
@@ -26070,9 +26168,71 @@
       "title": "Anh Ngữ Sinh Động Bài 303",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=303",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/303.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 303 tập trung vào các lỗi thường gặp của người học tiếng Anh, trước hết là quên s/es ở động từ ngôi thứ ba số ít hiện tại. Bài cũng phân biệt anyone/any one và nhắc lại các đại từ tận cùng bằng -one, -body, -thing thường được xem là số ít.",
+      "keyPatterns": [
+        {
+          "pattern": "third-person singular subject + verb-s/-es",
+          "meaning": "Động từ hiện tại phải thêm s/es khi chủ từ là ngôi thứ ba số ít."
+        },
+        {
+          "pattern": "Anybody/anyone + singular verb",
+          "meaning": "Anybody và anyone được xem là số ít."
+        },
+        {
+          "pattern": "No one + singular verb",
+          "meaning": "No one được dùng với động từ số ít."
+        },
+        {
+          "pattern": "Anyone ≠ any one",
+          "meaning": "Anyone là bất kỳ ai; any one là bất kỳ một người hoặc vật nào."
+        },
+        {
+          "pattern": "Unless + singular subject + singular verb",
+          "meaning": "Ví dụ với something, động từ ở hình thức số ít như happens."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "omission",
+          "meaning": "sự bỏ sót"
+        },
+        {
+          "word": "third person singular",
+          "meaning": "ngôi thứ ba số ít"
+        },
+        {
+          "word": "anyone",
+          "meaning": "bất kỳ ai"
+        },
+        {
+          "word": "any one",
+          "meaning": "bất kỳ một người/vật nào"
+        },
+        {
+          "word": "somebody",
+          "meaning": "một ai đó"
+        },
+        {
+          "word": "no one",
+          "meaning": "không ai"
+        },
+        {
+          "word": "subject-verb agreement",
+          "meaning": "sự hòa hợp chủ từ và động từ"
+        },
+        {
+          "word": "economics",
+          "meaning": "kinh tế học"
+        },
+        {
+          "word": "mathematics",
+          "meaning": "toán học"
+        },
+        {
+          "word": "physics",
+          "meaning": "vật lý học"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=303"
@@ -26081,7 +26241,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26091,9 +26259,71 @@
       "title": "Anh Ngữ Sinh Động Bài 304",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=304",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/304.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 304 tiếp tục sửa lỗi phát âm và viết đuôi -ed của động từ thường ở simple past, đồng thời ôn cách đặt câu với if clauses và unless clauses. Bài cũng chú thích cách viết của một số từ như plumber và subpoena.",
+      "keyPatterns": [
+        {
+          "pattern": "verb + -ed in simple past",
+          "meaning": "Động từ thường ở quá khứ cần viết và phát âm đúng đuôi -ed."
+        },
+        {
+          "pattern": "if-clause + main clause",
+          "meaning": "Ôn cấu trúc câu điều kiện với if."
+        },
+        {
+          "pattern": "unless + clause",
+          "meaning": "Ôn cấu trúc điều kiện với unless."
+        },
+        {
+          "pattern": "past verb + -ed",
+          "meaning": "Cần chú ý cả chính tả và phát âm của hậu tố -ed."
+        },
+        {
+          "pattern": "subjunctive in conditional clauses",
+          "meaning": "Bài tiếp tục thực hành các cấu trúc điều kiện đã học."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "simple past",
+          "meaning": "thì quá khứ đơn"
+        },
+        {
+          "word": "-ed ending",
+          "meaning": "đuôi -ed"
+        },
+        {
+          "word": "plumber",
+          "meaning": "thợ sửa ống nước"
+        },
+        {
+          "word": "subpoena",
+          "meaning": "trát tòa"
+        },
+        {
+          "word": "pronunciation",
+          "meaning": "phát âm"
+        },
+        {
+          "word": "spelling",
+          "meaning": "chính tả"
+        },
+        {
+          "word": "if clause",
+          "meaning": "mệnh đề if"
+        },
+        {
+          "word": "unless clause",
+          "meaning": "mệnh đề unless"
+        },
+        {
+          "word": "conditional",
+          "meaning": "điều kiện"
+        },
+        {
+          "word": "practice",
+          "meaning": "thực tập"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=304"
@@ -26102,7 +26332,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26112,9 +26350,71 @@
       "title": "Anh Ngữ Sinh Động Bài 305",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=305",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/305.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 305 tập trung vào việc phát âm và viết đúng s/es trong nhiều trường hợp: động từ ngôi thứ ba số ít, danh từ số nhiều, sở hữu cách và một số hình thức rút gọn. Bài cũng luyện phân biệt các cặp âm /b/-/p/, /b/-/v/, “ng”-/g/ và /g/-/j/.",
+      "keyPatterns": [
+        {
+          "pattern": "third-person singular verb + s/es",
+          "meaning": "Động từ ngôi thứ ba số ít hiện tại cần s/es."
+        },
+        {
+          "pattern": "plural noun + s/es",
+          "meaning": "Danh từ số nhiều có thể cần s/es."
+        },
+        {
+          "pattern": "possessive + apostrophe-s",
+          "meaning": "S/es được dùng trong hình thức sở hữu cách theo ví dụ bài học."
+        },
+        {
+          "pattern": "contraction",
+          "meaning": "S/es có thể xuất hiện trong một số hình thức rút gọn."
+        },
+        {
+          "pattern": "/b/ vs /p/, /b/ vs /v/, /g/ vs /j/",
+          "meaning": "Bài luyện phân biệt các cặp âm dễ nhầm."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "possessive",
+          "meaning": "sở hữu cách"
+        },
+        {
+          "word": "contraction",
+          "meaning": "hình thức rút gọn"
+        },
+        {
+          "word": "plural",
+          "meaning": "số nhiều"
+        },
+        {
+          "word": "third person singular",
+          "meaning": "ngôi thứ ba số ít"
+        },
+        {
+          "word": "pronunciation",
+          "meaning": "phát âm"
+        },
+        {
+          "word": "conscientious",
+          "meaning": "có lương tâm, tận tụy"
+        },
+        {
+          "word": "coach",
+          "meaning": "huấn luyện viên"
+        },
+        {
+          "word": "sound",
+          "meaning": "âm"
+        },
+        {
+          "word": "ending",
+          "meaning": "đuôi từ"
+        },
+        {
+          "word": "distinguish",
+          "meaning": "phân biệt"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=305"
@@ -26123,7 +26423,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26133,9 +26441,71 @@
       "title": "Anh Ngữ Sinh Động Bài 306",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=306",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/306.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 306 ôn kiến thức văn hóa về Tối cao Pháp viện Hoa Kỳ và luyện phát âm, đặc biệt các trường hợp âm /t/ đọc lướt hoặc câm và cách phát âm g thành /g/ hoặc /j/.",
+      "keyPatterns": [
+        {
+          "pattern": "/t/ flapping",
+          "meaning": "Bài luyện trường hợp âm /t/ được đọc lướt trong tiếng Anh."
+        },
+        {
+          "pattern": "silent /t/",
+          "meaning": "Bài luyện những trường hợp âm /t/ câm."
+        },
+        {
+          "pattern": "g → /g/",
+          "meaning": "Chữ g có thể phát âm /g/ như trong go."
+        },
+        {
+          "pattern": "g → /j/",
+          "meaning": "Chữ g có thể phát âm /j/ như trong giant."
+        },
+        {
+          "pattern": "cultural knowledge + vocabulary practice",
+          "meaning": "Bài kết hợp kiến thức văn hóa với thực hành từ vựng và câu."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Supreme Court of the United States",
+          "meaning": "Tối cao Pháp viện Hoa Kỳ"
+        },
+        {
+          "word": "Chief Justice",
+          "meaning": "Chánh thẩm Tối cao Pháp viện"
+        },
+        {
+          "word": "flap",
+          "meaning": "âm đọc lướt"
+        },
+        {
+          "word": "silent",
+          "meaning": "câm"
+        },
+        {
+          "word": "pronunciation",
+          "meaning": "phát âm"
+        },
+        {
+          "word": "cultural knowledge",
+          "meaning": "hiểu biết văn hóa"
+        },
+        {
+          "word": "giant",
+          "meaning": "người khổng lồ"
+        },
+        {
+          "word": "go",
+          "meaning": "đi"
+        },
+        {
+          "word": "advanced",
+          "meaning": "nâng cao"
+        },
+        {
+          "word": "practice",
+          "meaning": "thực hành"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=306"
@@ -26144,7 +26514,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26154,9 +26532,71 @@
       "title": "Anh Ngữ Sinh Động Bài 307",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=307",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/307.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 307 tiếp tục phần văn hóa về Tối cao Pháp viện Hoa Kỳ, đồng thời phân biệt clerk, cleric và clerical, giải thích nguồn gốc liên quan của các từ này và luyện các cách phát âm của phụ âm c, kể cả c câm.",
+      "keyPatterns": [
+        {
+          "pattern": "clerk as noun",
+          "meaning": "Clerk được học với tư cách danh từ, nghĩa là thư ký trong ngữ cảnh bài."
+        },
+        {
+          "pattern": "clerk as verb",
+          "meaning": "Clerk cũng được học với tư cách động từ."
+        },
+        {
+          "pattern": "cleric vs clerical",
+          "meaning": "Phân biệt cleric với clerical về nghĩa và cách dùng."
+        },
+        {
+          "pattern": "c pronunciation",
+          "meaning": "Phụ âm c có nhiều cách phát âm tùy từ."
+        },
+        {
+          "pattern": "silent c",
+          "meaning": "Một số từ có c câm."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "clerk",
+          "meaning": "thư ký; làm công việc thư ký"
+        },
+        {
+          "word": "cleric",
+          "meaning": "giáo sĩ, thầy tu"
+        },
+        {
+          "word": "clerical",
+          "meaning": "thuộc về thư ký/văn phòng"
+        },
+        {
+          "word": "Supreme Court",
+          "meaning": "Tối cao Pháp viện"
+        },
+        {
+          "word": "Chief Justice",
+          "meaning": "Chánh thẩm"
+        },
+        {
+          "word": "consonant",
+          "meaning": "phụ âm"
+        },
+        {
+          "word": "silent c",
+          "meaning": "c câm"
+        },
+        {
+          "word": "pronunciation",
+          "meaning": "phát âm"
+        },
+        {
+          "word": "origin",
+          "meaning": "nguồn gốc"
+        },
+        {
+          "word": "culture",
+          "meaning": "văn hóa"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=307"
@@ -26165,7 +26605,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26175,9 +26623,71 @@
       "title": "Anh Ngữ Sinh Động Bài 308",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=308",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/308.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 308 tiếp tục học cách phát âm phụ âm c, gồm /s/, /k/, /sh/ trong các nhóm chữ khác nhau và các trường hợp c câm. Bài luyện đặt câu với những từ mới.",
+      "keyPatterns": [
+        {
+          "pattern": "c → /s/",
+          "meaning": "C có thể đọc /s/ như trong cycle."
+        },
+        {
+          "pattern": "c → /k/",
+          "meaning": "C có thể đọc /k/ như trong cat và critic."
+        },
+        {
+          "pattern": "c → /sh/",
+          "meaning": "C có thể tạo âm /sh/ trong một số hậu tố như -cial, -cious, -ciate, -cian."
+        },
+        {
+          "pattern": "silent c",
+          "meaning": "Một số từ có phụ âm c không phát âm."
+        },
+        {
+          "pattern": "pronunciation by spelling pattern",
+          "meaning": "Cách phát âm c thay đổi theo mẫu chữ đi kèm."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "cycle",
+          "meaning": "chu kỳ"
+        },
+        {
+          "word": "recycle",
+          "meaning": "tái chế; tái sinh"
+        },
+        {
+          "word": "critic",
+          "meaning": "nhà phê bình"
+        },
+        {
+          "word": "social",
+          "meaning": "xã hội"
+        },
+        {
+          "word": "vicious",
+          "meaning": "độc ác"
+        },
+        {
+          "word": "associate",
+          "meaning": "người cộng sự; liên kết"
+        },
+        {
+          "word": "electrician",
+          "meaning": "thợ điện"
+        },
+        {
+          "word": "consonant",
+          "meaning": "phụ âm"
+        },
+        {
+          "word": "silent",
+          "meaning": "câm"
+        },
+        {
+          "word": "pronunciation",
+          "meaning": "phát âm"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=308"
@@ -26186,7 +26696,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26196,9 +26714,71 @@
       "title": "Anh Ngữ Sinh Động Bài 309",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=309",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/309.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 309 là phần thực tập sử dụng các từ đã học trong bài 308. Người học luyện nói các câu về conscientious, conscience, dilemma, expressions như it’s a cinch/it’s a breeze và tục ngữ Good fences make good neighbors.",
+      "keyPatterns": [
+        {
+          "pattern": "conscientious worker",
+          "meaning": "Mẫu câu mô tả người làm việc tận tụy, có lương tâm."
+        },
+        {
+          "pattern": "conscience tells someone what to do",
+          "meaning": "Cách diễn đạt khi nói về việc nghe theo lương tâm."
+        },
+        {
+          "pattern": "face a dilemma",
+          "meaning": "Cách diễn đạt khi gặp tình huống khó xử."
+        },
+        {
+          "pattern": "It’s a cinch / It’s a breeze",
+          "meaning": "Các cách nói một việc rất dễ."
+        },
+        {
+          "pattern": "Good fences make good neighbors",
+          "meaning": "Tục ngữ được luyện trong bài."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "conscientious",
+          "meaning": "tận tụy, có lương tâm"
+        },
+        {
+          "word": "conscience",
+          "meaning": "lương tâm"
+        },
+        {
+          "word": "dilemma",
+          "meaning": "tình thế tiến thoái lưỡng nan"
+        },
+        {
+          "word": "cinch",
+          "meaning": "việc rất dễ"
+        },
+        {
+          "word": "breeze",
+          "meaning": "việc dễ dàng"
+        },
+        {
+          "word": "piece of cake",
+          "meaning": "việc rất dễ"
+        },
+        {
+          "word": "fence",
+          "meaning": "hàng rào"
+        },
+        {
+          "word": "neighbor",
+          "meaning": "hàng xóm"
+        },
+        {
+          "word": "detail",
+          "meaning": "chi tiết"
+        },
+        {
+          "word": "test",
+          "meaning": "bài thi"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=309"
@@ -26207,7 +26787,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26217,9 +26805,71 @@
       "title": "Anh Ngữ Sinh Động Bài 310",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=310",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/310.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 310 ôn acquit, acquire và acquaintance, đồng thời luyện phân biệt neither và none cùng hình thức động từ theo sau. Bài cũng có phần thực hành từ vựng như miscellaneous và omniscient.",
+      "keyPatterns": [
+        {
+          "pattern": "neither + singular verb",
+          "meaning": "Neither được dùng với động từ số ít trong các ví dụ của bài."
+        },
+        {
+          "pattern": "none + plural/specified noun context",
+          "meaning": "None được phân biệt với neither theo số lượng và ngữ cảnh."
+        },
+        {
+          "pattern": "acquit vs acquire vs acquaintance",
+          "meaning": "Ba từ có hình thức gần nhau nhưng nghĩa khác nhau."
+        },
+        {
+          "pattern": "miscellaneous expenses",
+          "meaning": "Cụm từ dùng để chỉ các khoản chi tiêu lặt vặt."
+        },
+        {
+          "pattern": "omniscient narrator",
+          "meaning": "Cụm từ chỉ người kể chuyện biết mọi việc."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "acquit",
+          "meaning": "tuyên trắng án; tha bổng"
+        },
+        {
+          "word": "acquire",
+          "meaning": "có được, đạt được"
+        },
+        {
+          "word": "acquaintance",
+          "meaning": "người quen; sự quen biết"
+        },
+        {
+          "word": "neither",
+          "meaning": "cả hai đều không"
+        },
+        {
+          "word": "none",
+          "meaning": "không ai/không cái nào"
+        },
+        {
+          "word": "miscellaneous",
+          "meaning": "linh tinh, lặt vặt"
+        },
+        {
+          "word": "expense",
+          "meaning": "chi phí"
+        },
+        {
+          "word": "omniscient",
+          "meaning": "biết mọi việc"
+        },
+        {
+          "word": "narrator",
+          "meaning": "người kể chuyện"
+        },
+        {
+          "word": "novel",
+          "meaning": "tiểu thuyết"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=310"
@@ -26228,7 +26878,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26238,9 +26896,71 @@
       "title": "Anh Ngữ Sinh Động Bài 311",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=311",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/311.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 311 ôn neither và none, sau đó sửa lỗi dùng as well as và phân biệt who với whom. Bài luyện câu với neither/none và chú ý sự phù hợp của động từ.",
+      "keyPatterns": [
+        {
+          "pattern": "none of + plural noun + singular/plural context",
+          "meaning": "Bài luyện cách dùng none trong câu với nhóm đối tượng."
+        },
+        {
+          "pattern": "neither of + two + singular verb",
+          "meaning": "Neither dùng khi nói về hai người/vật và động từ trong ví dụ ở số ít."
+        },
+        {
+          "pattern": "as well as",
+          "meaning": "Cấu trúc bổ sung thông tin “cũng như”."
+        },
+        {
+          "pattern": "who vs whom",
+          "meaning": "Who và whom được phân biệt theo chức năng trong câu."
+        },
+        {
+          "pattern": "subject-verb agreement",
+          "meaning": "Động từ phải phù hợp với chủ từ trong các cấu trúc trên."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "neither",
+          "meaning": "cả hai đều không"
+        },
+        {
+          "word": "none",
+          "meaning": "không ai/không cái nào"
+        },
+        {
+          "word": "as well as",
+          "meaning": "cũng như"
+        },
+        {
+          "word": "who",
+          "meaning": "ai; đại từ chủ ngữ"
+        },
+        {
+          "word": "whom",
+          "meaning": "ai; đại từ tân ngữ"
+        },
+        {
+          "word": "musical instrument",
+          "meaning": "nhạc cụ"
+        },
+        {
+          "word": "satisfactory",
+          "meaning": "thỏa đáng"
+        },
+        {
+          "word": "candidate",
+          "meaning": "thí sinh"
+        },
+        {
+          "word": "nearby",
+          "meaning": "gần đó"
+        },
+        {
+          "word": "instrument",
+          "meaning": "dụng cụ/nhạc cụ"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=311"
@@ -26249,7 +26969,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26259,9 +26987,71 @@
       "title": "Anh Ngữ Sinh Động Bài 312",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=312",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/312.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 312 học các cặp liên từ tương liên neither...nor, either...or và not only...but also, đồng thời nhấn mạnh tính tương xứng của các thành phần sau các cặp liên từ này.",
+      "keyPatterns": [
+        {
+          "pattern": "neither ... nor ...",
+          "meaning": "Cả hai phía đều không."
+        },
+        {
+          "pattern": "either ... or ...",
+          "meaning": "Một trong hai lựa chọn."
+        },
+        {
+          "pattern": "not only ... but also ...",
+          "meaning": "Không những ... mà còn ..."
+        },
+        {
+          "pattern": "parallel structure",
+          "meaning": "Các thành phần sau cặp liên từ tương liên cần tương xứng về cấu trúc."
+        },
+        {
+          "pattern": "neither of + plural noun + singular verb",
+          "meaning": "Ôn cách dùng neither với hai đối tượng và động từ số ít."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "correlative conjunction",
+          "meaning": "liên từ tương liên"
+        },
+        {
+          "word": "parallel",
+          "meaning": "tương xứng, song song"
+        },
+        {
+          "word": "neither",
+          "meaning": "cả hai đều không"
+        },
+        {
+          "word": "nor",
+          "meaning": "cũng không"
+        },
+        {
+          "word": "either",
+          "meaning": "một trong hai"
+        },
+        {
+          "word": "or",
+          "meaning": "hoặc"
+        },
+        {
+          "word": "not only",
+          "meaning": "không những"
+        },
+        {
+          "word": "but also",
+          "meaning": "mà còn"
+        },
+        {
+          "word": "novel",
+          "meaning": "tiểu thuyết"
+        },
+        {
+          "word": "candidate",
+          "meaning": "thí sinh"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=312"
@@ -26270,7 +27060,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26280,9 +27078,71 @@
       "title": "Anh Ngữ Sinh Động Bài 313",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=313",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/313.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 313 tiếp tục sửa lỗi thiếu đối xứng sau neither...nor, either...or và not only...but also. Bài cũng ôn sự khác nhau giữa neither và none dựa trên số lượng đối tượng.",
+      "keyPatterns": [
+        {
+          "pattern": "neither ... nor + parallel elements",
+          "meaning": "Hai thành phần sau neither và nor cần cùng dạng cấu trúc."
+        },
+        {
+          "pattern": "either ... or + parallel elements",
+          "meaning": "Hai lựa chọn sau either và or cần tương xứng."
+        },
+        {
+          "pattern": "not only ... but also + parallel elements",
+          "meaning": "Hai phần được nối phải song song về cấu trúc."
+        },
+        {
+          "pattern": "neither for two",
+          "meaning": "Neither dùng khi có hai người hoặc hai vật."
+        },
+        {
+          "pattern": "none for more than two",
+          "meaning": "None dùng khi có trên hai người hoặc hai vật."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "parallelism",
+          "meaning": "tính song song/tương xứng"
+        },
+        {
+          "word": "correlative conjunction",
+          "meaning": "liên từ tương liên"
+        },
+        {
+          "word": "neither",
+          "meaning": "cả hai đều không"
+        },
+        {
+          "word": "none",
+          "meaning": "không ai/không cái nào"
+        },
+        {
+          "word": "either",
+          "meaning": "một trong hai"
+        },
+        {
+          "word": "nor",
+          "meaning": "cũng không"
+        },
+        {
+          "word": "candidate",
+          "meaning": "thí sinh"
+        },
+        {
+          "word": "house",
+          "meaning": "ngôi nhà"
+        },
+        {
+          "word": "Japanese",
+          "meaning": "tiếng Nhật"
+        },
+        {
+          "word": "satisfactory",
+          "meaning": "thỏa đáng"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=313"
@@ -26291,7 +27151,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26301,9 +27169,71 @@
       "title": "Anh Ngữ Sinh Động Bài 314",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=314",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/314.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 314 học các từ dễ nhầm về hình thức và nghĩa, gồm ginger/gingerly, cloth/clothe/clothes/clothing và các nhóm từ tương tự. Trọng tâm là nhận biết nghĩa, từ loại, chính tả và cách dùng trong ngữ cảnh.",
+      "keyPatterns": [
+        {
+          "pattern": "ginger vs gingerly",
+          "meaning": "Phân biệt ginger là gừng và gingerly là hết sức thận trọng."
+        },
+        {
+          "pattern": "cloth / clothe / clothes / clothing",
+          "meaning": "Phân biệt các từ liên quan đến vải, mặc quần áo và quần áo."
+        },
+        {
+          "pattern": "word form and meaning",
+          "meaning": "Cùng hình thức gần nhau không có nghĩa là cùng từ loại hoặc cùng nghĩa."
+        },
+        {
+          "pattern": "context-based word choice",
+          "meaning": "Đặt câu theo ngữ cảnh để chọn đúng từ."
+        },
+        {
+          "pattern": "easily confused words",
+          "meaning": "Nhóm từ dễ nhầm cần được học qua nghĩa và ví dụ."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "ginger",
+          "meaning": "gừng"
+        },
+        {
+          "word": "gingerly",
+          "meaning": "hết sức thận trọng"
+        },
+        {
+          "word": "gingerbread",
+          "meaning": "bánh có vị gừng"
+        },
+        {
+          "word": "cloth",
+          "meaning": "vải"
+        },
+        {
+          "word": "clothe",
+          "meaning": "mặc quần áo cho"
+        },
+        {
+          "word": "clothes",
+          "meaning": "quần áo"
+        },
+        {
+          "word": "clothing",
+          "meaning": "trang phục/quần áo"
+        },
+        {
+          "word": "clothier",
+          "meaning": "người bán quần áo"
+        },
+        {
+          "word": "generics",
+          "meaning": "thuốc generic"
+        },
+        {
+          "word": "genetics",
+          "meaning": "di truyền học"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=314"
@@ -26312,7 +27242,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26322,9 +27260,71 @@
       "title": "Anh Ngữ Sinh Động Bài 315",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=315",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/315.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 315 tiếp tục phân biệt các từ dễ nhầm về nghĩa, chính tả và cách dùng, đồng thời ôn ginger/gingerly, cloth/clothes/clothing, generics/genetics và avenge/revenge.",
+      "keyPatterns": [
+        {
+          "pattern": "gingerly + verb",
+          "meaning": "Gingerly là trạng từ diễn tả hành động hết sức thận trọng."
+        },
+        {
+          "pattern": "avenge + object",
+          "meaning": "Avenge được học như động từ."
+        },
+        {
+          "pattern": "revenge as noun",
+          "meaning": "Revenge được học như danh từ."
+        },
+        {
+          "pattern": "generics vs genetics",
+          "meaning": "Phân biệt thuốc generic với lĩnh vực di truyền học."
+        },
+        {
+          "pattern": "eligible vs illegible",
+          "meaning": "Bài dẫn sang các cặp từ dễ nhầm được luyện qua câu."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "eligible",
+          "meaning": "đủ điều kiện"
+        },
+        {
+          "word": "illegible",
+          "meaning": "không đọc được"
+        },
+        {
+          "word": "avenge",
+          "meaning": "trả thù; báo thù"
+        },
+        {
+          "word": "revenge",
+          "meaning": "sự trả thù"
+        },
+        {
+          "word": "generics",
+          "meaning": "thuốc generic"
+        },
+        {
+          "word": "genetics",
+          "meaning": "di truyền học"
+        },
+        {
+          "word": "gingerly",
+          "meaning": "hết sức thận trọng"
+        },
+        {
+          "word": "clothier",
+          "meaning": "người bán quần áo"
+        },
+        {
+          "word": "advice",
+          "meaning": "lời khuyên"
+        },
+        {
+          "word": "advise",
+          "meaning": "khuyên"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=315"
@@ -26333,7 +27333,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26343,9 +27351,71 @@
       "title": "Anh Ngữ Sinh Động Bài 316",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=316",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/316.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 316 tiếp tục nhóm từ dễ nhầm, ôn eligible/illegible, advise/advice, counsel/council, angle/angel, moral/morale và devise/device, rồi luyện đặt câu để phân biệt nghĩa.",
+      "keyPatterns": [
+        {
+          "pattern": "advise vs advice",
+          "meaning": "Advise là động từ; advice là danh từ."
+        },
+        {
+          "pattern": "counsel vs council",
+          "meaning": "Phân biệt luật sư/lời khuyên với hội đồng."
+        },
+        {
+          "pattern": "angle vs angel",
+          "meaning": "Hai từ có cách viết gần nhau nhưng nghĩa khác."
+        },
+        {
+          "pattern": "moral vs morale",
+          "meaning": "Moral liên quan đạo đức; morale là tinh thần tập thể."
+        },
+        {
+          "pattern": "devise vs device",
+          "meaning": "Devise là nghĩ ra kế hoạch; device là thiết bị."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "eligible",
+          "meaning": "đủ điều kiện"
+        },
+        {
+          "word": "illegible",
+          "meaning": "không đọc được"
+        },
+        {
+          "word": "advise",
+          "meaning": "khuyên"
+        },
+        {
+          "word": "advice",
+          "meaning": "lời khuyên"
+        },
+        {
+          "word": "counsel",
+          "meaning": "luật sư biện hộ; lời khuyên"
+        },
+        {
+          "word": "council",
+          "meaning": "hội đồng"
+        },
+        {
+          "word": "angle",
+          "meaning": "góc"
+        },
+        {
+          "word": "angel",
+          "meaning": "thiên sứ"
+        },
+        {
+          "word": "moral",
+          "meaning": "đạo đức"
+        },
+        {
+          "word": "morale",
+          "meaning": "tinh thần tập thể"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=316"
@@ -26354,7 +27424,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26364,9 +27442,71 @@
       "title": "Anh Ngữ Sinh Động Bài 317",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=317",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/317.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 317 tiếp tục phân biệt các từ dễ nhầm, ôn discreet/discrete, eminent/imminent, farther/further, formally/formerly và human/humane, đồng thời luyện cách dùng discretion và các từ trong ngữ cảnh.",
+      "keyPatterns": [
+        {
+          "pattern": "discreet vs discrete",
+          "meaning": "Phân biệt kín đáo/thận trọng với riêng biệt/tách rời."
+        },
+        {
+          "pattern": "eminent vs imminent",
+          "meaning": "Phân biệt nổi tiếng/đáng kính với sắp xảy ra."
+        },
+        {
+          "pattern": "farther vs further",
+          "meaning": "Phân biệt cách dùng chỉ khoảng cách và nghĩa mở rộng/thêm nữa."
+        },
+        {
+          "pattern": "formally vs formerly",
+          "meaning": "Phân biệt một cách chính thức với trước đây."
+        },
+        {
+          "pattern": "human vs humane",
+          "meaning": "Phân biệt thuộc về con người với nhân đạo."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "discreet",
+          "meaning": "kín đáo, thận trọng"
+        },
+        {
+          "word": "discretion",
+          "meaning": "sự thận trọng; quyền quyết định"
+        },
+        {
+          "word": "discrete",
+          "meaning": "riêng biệt"
+        },
+        {
+          "word": "eminent",
+          "meaning": "nổi tiếng, lỗi lạc"
+        },
+        {
+          "word": "imminent",
+          "meaning": "sắp xảy ra"
+        },
+        {
+          "word": "farther",
+          "meaning": "xa hơn"
+        },
+        {
+          "word": "further",
+          "meaning": "thêm nữa; xa hơn theo nghĩa mở rộng"
+        },
+        {
+          "word": "formally",
+          "meaning": "một cách chính thức"
+        },
+        {
+          "word": "formerly",
+          "meaning": "trước đây"
+        },
+        {
+          "word": "humane",
+          "meaning": "nhân đạo"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=317"
@@ -26375,7 +27515,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26385,9 +27533,71 @@
       "title": "Anh Ngữ Sinh Động Bài 318",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=318",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/318.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 318 học và phân biệt wake, waken, awake, awaken và awakening, chú trọng cách dùng và hình thức động từ của nhóm từ dễ nhầm này.",
+      "keyPatterns": [
+        {
+          "pattern": "wake up",
+          "meaning": "thức dậy; đánh thức"
+        },
+        {
+          "pattern": "wake/woke/woken",
+          "meaning": "Wake được học như động từ bất quy tắc với các dạng quá khứ."
+        },
+        {
+          "pattern": "awake as verb/adjective",
+          "meaning": "Awake có cách dùng khác với wake và được phân biệt trong bài."
+        },
+        {
+          "pattern": "awaken",
+          "meaning": "đánh thức; thức tỉnh"
+        },
+        {
+          "pattern": "awakening",
+          "meaning": "sự thức tỉnh"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "wake",
+          "meaning": "thức dậy; đánh thức"
+        },
+        {
+          "word": "waken",
+          "meaning": "thức dậy; đánh thức"
+        },
+        {
+          "word": "awake",
+          "meaning": "tỉnh thức; thức tỉnh"
+        },
+        {
+          "word": "awaken",
+          "meaning": "đánh thức; thức tỉnh"
+        },
+        {
+          "word": "awakening",
+          "meaning": "sự thức tỉnh"
+        },
+        {
+          "word": "irregular verb",
+          "meaning": "động từ bất quy tắc"
+        },
+        {
+          "word": "woke",
+          "meaning": "quá khứ của wake"
+        },
+        {
+          "word": "woken",
+          "meaning": "phân từ hai của wake"
+        },
+        {
+          "word": "baby",
+          "meaning": "em bé"
+        },
+        {
+          "word": "late",
+          "meaning": "trễ"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=318"
@@ -26396,7 +27606,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26406,9 +27624,71 @@
       "title": "Anh Ngữ Sinh Động Bài 319",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=319",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/319.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 319 ôn rise/raise và lie/lay, đồng thời tiếp tục phân biệt wake/waken/awake/awaken/awakening. Trọng tâm là phân biệt nội động từ và ngoại động từ.",
+      "keyPatterns": [
+        {
+          "pattern": "rise/rose/risen",
+          "meaning": "Rise là nội động từ bất quy tắc, không có tân ngữ trực tiếp."
+        },
+        {
+          "pattern": "raise + object",
+          "meaning": "Raise là ngoại động từ và có tân ngữ theo sau."
+        },
+        {
+          "pattern": "lie/lay distinction",
+          "meaning": "Phân biệt lie và lay theo vai trò nội/ngoại động từ và dạng động từ."
+        },
+        {
+          "pattern": "wake + object",
+          "meaning": "Wake có thể dùng để đánh thức một người/vật."
+        },
+        {
+          "pattern": "intransitive vs transitive",
+          "meaning": "Bài nhấn mạnh cách phân biệt nội động từ và ngoại động từ."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "rise",
+          "meaning": "tăng; mọc; đứng dậy"
+        },
+        {
+          "word": "raise",
+          "meaning": "nâng; tăng"
+        },
+        {
+          "word": "lie",
+          "meaning": "nằm"
+        },
+        {
+          "word": "lay",
+          "meaning": "đặt; để"
+        },
+        {
+          "word": "intransitive",
+          "meaning": "nội động từ"
+        },
+        {
+          "word": "transitive",
+          "meaning": "ngoại động từ"
+        },
+        {
+          "word": "object",
+          "meaning": "tân ngữ"
+        },
+        {
+          "word": "awake",
+          "meaning": "tỉnh thức"
+        },
+        {
+          "word": "awaken",
+          "meaning": "đánh thức; thức tỉnh"
+        },
+        {
+          "word": "awakening",
+          "meaning": "sự thức tỉnh"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=319"
@@ -26417,7 +27697,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26427,9 +27715,71 @@
       "title": "Anh Ngữ Sinh Động Bài 320",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=320",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/320.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 320 ôn rise và raise khi dùng làm danh từ, đồng thời học relative pronouns who, which, that và phân biệt restrictive relative clauses với nonrestrictive relative clauses.",
+      "keyPatterns": [
+        {
+          "pattern": "pay rise / pay raise",
+          "meaning": "Cả hai đều chỉ việc tăng lương; bài nêu khác biệt Anh-Mỹ."
+        },
+        {
+          "pattern": "who for people",
+          "meaning": "Who thường dùng thay cho người trong relative clause."
+        },
+        {
+          "pattern": "which for things",
+          "meaning": "Which dùng cho vật/sự việc."
+        },
+        {
+          "pattern": "that in restrictive relative clause",
+          "meaning": "That thường dùng để bắt đầu mệnh đề quan hệ giới hạn."
+        },
+        {
+          "pattern": "restrictive vs nonrestrictive clause",
+          "meaning": "Phân biệt mệnh đề giới hạn và không giới hạn."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "pay rise",
+          "meaning": "tăng lương, cách dùng Anh"
+        },
+        {
+          "word": "pay raise",
+          "meaning": "tăng lương, cách dùng Mỹ"
+        },
+        {
+          "word": "pay increase",
+          "meaning": "tăng lương"
+        },
+        {
+          "word": "relative pronoun",
+          "meaning": "đại từ quan hệ"
+        },
+        {
+          "word": "restrictive clause",
+          "meaning": "mệnh đề quan hệ giới hạn"
+        },
+        {
+          "word": "nonrestrictive clause",
+          "meaning": "mệnh đề quan hệ không giới hạn"
+        },
+        {
+          "word": "who",
+          "meaning": "đại từ quan hệ cho người"
+        },
+        {
+          "word": "which",
+          "meaning": "đại từ quan hệ cho vật/sự việc"
+        },
+        {
+          "word": "that",
+          "meaning": "đại từ quan hệ"
+        },
+        {
+          "word": "object",
+          "meaning": "tân ngữ"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=320"
@@ -26438,7 +27788,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26448,9 +27806,71 @@
       "title": "Anh Ngữ Sinh Động Bài 321",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=321",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/321.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 321 phân biệt who và whom khi là đại từ nghi vấn hoặc đại từ quan hệ, đồng thời ôn that và which trong restrictive relative clauses.",
+      "keyPatterns": [
+        {
+          "pattern": "Who did you ...?",
+          "meaning": "Who được dùng phổ biến trong câu hỏi, đặc biệt trong văn nói."
+        },
+        {
+          "pattern": "Whom did you ...?",
+          "meaning": "Whom là hình thức trang trọng khi làm tân ngữ trong câu hỏi."
+        },
+        {
+          "pattern": "who as relative pronoun",
+          "meaning": "Who có thể làm đại từ quan hệ cho người."
+        },
+        {
+          "pattern": "whom as relative pronoun",
+          "meaning": "Whom có thể làm đại từ quan hệ ở vị trí tân ngữ."
+        },
+        {
+          "pattern": "that vs which in restrictive clause",
+          "meaning": "That thường dùng trong mệnh đề quan hệ giới hạn; which có thể thay thế trong một số trường hợp."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "interrogative pronoun",
+          "meaning": "đại từ nghi vấn"
+        },
+        {
+          "word": "relative pronoun",
+          "meaning": "đại từ quan hệ"
+        },
+        {
+          "word": "whom",
+          "meaning": "ai, dạng tân ngữ/trang trọng"
+        },
+        {
+          "word": "who",
+          "meaning": "ai"
+        },
+        {
+          "word": "restrictive",
+          "meaning": "giới hạn"
+        },
+        {
+          "word": "relative clause",
+          "meaning": "mệnh đề quan hệ"
+        },
+        {
+          "word": "principal",
+          "meaning": "hiệu trưởng"
+        },
+        {
+          "word": "formal",
+          "meaning": "trang trọng"
+        },
+        {
+          "word": "informal",
+          "meaning": "thân mật"
+        },
+        {
+          "word": "object",
+          "meaning": "tân ngữ"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=321"
@@ -26459,7 +27879,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26469,9 +27897,71 @@
       "title": "Anh Ngữ Sinh Động Bài 322",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=322",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/322.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 322 ôn who, whom, which và that, đồng thời học linking verbs và một số lỗi dễ nhầm giữa adjective và adverb như fast.",
+      "keyPatterns": [
+        {
+          "pattern": "who for people",
+          "meaning": "Who thay cho người."
+        },
+        {
+          "pattern": "whom as object",
+          "meaning": "Whom làm tân ngữ."
+        },
+        {
+          "pattern": "that/which in relative clauses",
+          "meaning": "That và which được ôn trong mệnh đề quan hệ."
+        },
+        {
+          "pattern": "linking verb + adjective",
+          "meaning": "Sau linking verb thường dùng tính từ để mô tả chủ ngữ."
+        },
+        {
+          "pattern": "adjective vs adverb",
+          "meaning": "Cần phân biệt hình thức và nghĩa của tính từ/trạng từ, kể cả khi một từ có thể dùng ở cả hai vai trò."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "linking verb",
+          "meaning": "liên động từ/hệ từ"
+        },
+        {
+          "word": "adjective",
+          "meaning": "tính từ"
+        },
+        {
+          "word": "adverb",
+          "meaning": "trạng từ"
+        },
+        {
+          "word": "fast",
+          "meaning": "nhanh; vững/chặt trong một số cách dùng"
+        },
+        {
+          "word": "who",
+          "meaning": "ai/đại từ quan hệ"
+        },
+        {
+          "word": "whom",
+          "meaning": "ai, tân ngữ"
+        },
+        {
+          "word": "which",
+          "meaning": "cái nào/đại từ quan hệ"
+        },
+        {
+          "word": "that",
+          "meaning": "đại từ quan hệ"
+        },
+        {
+          "word": "scholarship",
+          "meaning": "học bổng"
+        },
+        {
+          "word": "principal",
+          "meaning": "hiệu trưởng"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=322"
@@ -26480,7 +27970,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26490,9 +27988,71 @@
       "title": "Anh Ngữ Sinh Động Bài 323",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=323",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/323.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 323 tiếp tục linking verbs và phân biệt adjective/adverb. Bài cũng luyện cách hiểu who’s là viết tắt của who is, who has hoặc who was tùy cấu trúc.",
+      "keyPatterns": [
+        {
+          "pattern": "who’s = who is",
+          "meaning": "Who’s có thể là dạng rút gọn của who is."
+        },
+        {
+          "pattern": "who’s = who has",
+          "meaning": "Who’s có thể là dạng rút gọn của who has trong present perfect."
+        },
+        {
+          "pattern": "who’s = who was",
+          "meaning": "Who’s có thể xuất hiện từ who was trong câu bị động quá khứ."
+        },
+        {
+          "pattern": "linking verb + adjective",
+          "meaning": "Linking verbs liên kết chủ ngữ với tính từ mô tả."
+        },
+        {
+          "pattern": "adjective vs adverb",
+          "meaning": "Phân biệt tính từ và trạng từ theo chức năng trong câu."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "who’s",
+          "meaning": "dạng rút gọn của who is/who has/who was tùy ngữ cảnh"
+        },
+        {
+          "word": "linking verb",
+          "meaning": "liên động từ"
+        },
+        {
+          "word": "adjective",
+          "meaning": "tính từ"
+        },
+        {
+          "word": "adverb",
+          "meaning": "trạng từ"
+        },
+        {
+          "word": "passive voice",
+          "meaning": "thể bị động"
+        },
+        {
+          "word": "present perfect",
+          "meaning": "hiện tại hoàn thành"
+        },
+        {
+          "word": "elected",
+          "meaning": "được bầu"
+        },
+        {
+          "word": "speaker",
+          "meaning": "diễn giả"
+        },
+        {
+          "word": "president",
+          "meaning": "tổng thống"
+        },
+        {
+          "word": "agreement",
+          "meaning": "sự hòa hợp"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=323"
@@ -26501,7 +28061,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26511,9 +28079,71 @@
       "title": "Anh Ngữ Sinh Động Bài 324",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=324",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/324.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 324 ôn cách dùng sharp/sharply và học inversion, tức hoán đổi vị trí chủ từ và động từ để nhấn mạnh hoặc làm văn viết bớt nhàm chán.",
+      "keyPatterns": [
+        {
+          "pattern": "sharp as adjective",
+          "meaning": "Sharp có thể là tính từ, nghĩa là sắc/nhọn."
+        },
+        {
+          "pattern": "sharp as adverb",
+          "meaning": "Sharp có thể là trạng từ với nghĩa đúng giờ/chính xác thời điểm."
+        },
+        {
+          "pattern": "inversion for emphasis",
+          "meaning": "Đảo vị trí động từ và chủ từ có thể tạo hiệu ứng nhấn mạnh."
+        },
+        {
+          "pattern": "adjective vs adverb",
+          "meaning": "Phân biệt sharp với sharply theo chức năng và nghĩa."
+        },
+        {
+          "pattern": "subject-verb inversion",
+          "meaning": "Inversion thay đổi trật tự thông thường của chủ từ và động từ."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "sharp",
+          "meaning": "sắc, nhọn; đúng giờ"
+        },
+        {
+          "word": "sharply",
+          "meaning": "một cách sắc bén/đột ngột"
+        },
+        {
+          "word": "inversion",
+          "meaning": "đảo ngữ"
+        },
+        {
+          "word": "punctually",
+          "meaning": "đúng giờ"
+        },
+        {
+          "word": "emphasis",
+          "meaning": "sự nhấn mạnh"
+        },
+        {
+          "word": "adjective",
+          "meaning": "tính từ"
+        },
+        {
+          "word": "adverb",
+          "meaning": "trạng từ"
+        },
+        {
+          "word": "subject",
+          "meaning": "chủ từ"
+        },
+        {
+          "word": "verb",
+          "meaning": "động từ"
+        },
+        {
+          "word": "meeting",
+          "meaning": "cuộc họp"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=324"
@@ -26522,7 +28152,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26532,9 +28170,71 @@
       "title": "Anh Ngữ Sinh Động Bài 325",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=325",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/325.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 325 học thêm inversion sau trạng từ phủ định ở đầu câu như never, scarcely và no sooner. Bài cũng ôn đảo ngữ trong câu điều kiện.",
+      "keyPatterns": [
+        {
+          "pattern": "Never + auxiliary + subject + verb",
+          "meaning": "Đảo trợ động từ lên trước chủ từ sau never ở đầu câu để nhấn mạnh."
+        },
+        {
+          "pattern": "Scarcely + had + subject + past participle + when",
+          "meaning": "Cấu trúc đảo ngữ với scarcely."
+        },
+        {
+          "pattern": "No sooner + had + subject + past participle + than",
+          "meaning": "Cấu trúc đảo ngữ với no sooner."
+        },
+        {
+          "pattern": "Were + subject + ...",
+          "meaning": "Đảo ngữ có thể thay if trong một số câu điều kiện với were."
+        },
+        {
+          "pattern": "Had + subject + past participle",
+          "meaning": "Đảo ngữ có thể thay if trong điều kiện quá khứ hoàn thành."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "never",
+          "meaning": "không bao giờ"
+        },
+        {
+          "word": "scarcely",
+          "meaning": "hầu như không; vừa mới"
+        },
+        {
+          "word": "no sooner",
+          "meaning": "vừa mới...thì"
+        },
+        {
+          "word": "inversion",
+          "meaning": "đảo ngữ"
+        },
+        {
+          "word": "formal complaint",
+          "meaning": "khiếu nại chính thức"
+        },
+        {
+          "word": "if clause",
+          "meaning": "mệnh đề điều kiện"
+        },
+        {
+          "word": "auxiliary verb",
+          "meaning": "trợ động từ"
+        },
+        {
+          "word": "subject",
+          "meaning": "chủ từ"
+        },
+        {
+          "word": "emphasis",
+          "meaning": "nhấn mạnh"
+        },
+        {
+          "word": "rhetoric",
+          "meaning": "tu từ pháp"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=325"
@@ -26543,7 +28243,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26553,9 +28261,71 @@
       "title": "Anh Ngữ Sinh Động Bài 326",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=326",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/326.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 326 mở rộng inversion để tạo ấn tượng mạnh trong văn phong tu từ, câu cảm thán và miêu tả văn học. Bài cũng nhấn mạnh rằng inversion phổ biến hơn trong đọc/viết và có giới hạn trong văn nói.",
+      "keyPatterns": [
+        {
+          "pattern": "Scarcely had I ... when ...",
+          "meaning": "Đảo ngữ dùng để diễn tả hai sự kiện xảy ra gần nhau."
+        },
+        {
+          "pattern": "inversion for emphasis",
+          "meaning": "Đảo ngữ dùng để gây ấn tượng hoặc nhấn mạnh."
+        },
+        {
+          "pattern": "inversion in literary description",
+          "meaning": "Đảo ngữ có thể xuất hiện trong văn miêu tả."
+        },
+        {
+          "pattern": "inversion in exclamations",
+          "meaning": "Đảo ngữ có thể dùng trong câu cảm thán."
+        },
+        {
+          "pattern": "normal vs inverted form",
+          "meaning": "Bài luyện chuyển giữa câu thông thường và câu nhấn mạnh bằng đảo ngữ."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "inversion",
+          "meaning": "đảo ngữ"
+        },
+        {
+          "word": "rhetoric",
+          "meaning": "tu từ pháp"
+        },
+        {
+          "word": "exclamation",
+          "meaning": "câu cảm thán"
+        },
+        {
+          "word": "literary",
+          "meaning": "thuộc văn học"
+        },
+        {
+          "word": "description",
+          "meaning": "miêu tả"
+        },
+        {
+          "word": "emphasis",
+          "meaning": "nhấn mạnh"
+        },
+        {
+          "word": "scarcely",
+          "meaning": "hầu như không; vừa mới"
+        },
+        {
+          "word": "ring",
+          "meaning": "reo"
+        },
+        {
+          "word": "step out",
+          "meaning": "bước ra ngoài"
+        },
+        {
+          "word": "telephone",
+          "meaning": "điện thoại"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=326"
@@ -26564,7 +28334,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26574,9 +28352,71 @@
       "title": "Anh Ngữ Sinh Động Bài 327",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=327",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/327.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 327 học sự hòa hợp giữa chủ từ và động từ, đặc biệt với collective nouns. Động từ số ít hay số nhiều phụ thuộc vào việc danh từ tập thể được xem như một đơn vị hay các thành viên riêng biệt.",
+      "keyPatterns": [
+        {
+          "pattern": "singular subject + singular verb",
+          "meaning": "Chủ từ số ít đi với động từ số ít."
+        },
+        {
+          "pattern": "plural subject + plural verb",
+          "meaning": "Chủ từ số nhiều đi với động từ số nhiều."
+        },
+        {
+          "pattern": "collective noun + singular verb",
+          "meaning": "Danh từ tập thể dùng số ít khi được xem như một đơn vị."
+        },
+        {
+          "pattern": "collective noun + plural verb",
+          "meaning": "Danh từ tập thể có thể dùng số nhiều khi nhấn mạnh các thành viên riêng biệt."
+        },
+        {
+          "pattern": "agreement by person and number",
+          "meaning": "Động từ phải phù hợp với ngôi và số của chủ từ."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "subject-verb agreement",
+          "meaning": "sự hòa hợp chủ từ và động từ"
+        },
+        {
+          "word": "collective noun",
+          "meaning": "danh từ tập thể"
+        },
+        {
+          "word": "committee",
+          "meaning": "ủy ban"
+        },
+        {
+          "word": "member",
+          "meaning": "thành viên"
+        },
+        {
+          "word": "agreement",
+          "meaning": "sự đồng ý/thỏa thuận"
+        },
+        {
+          "word": "union",
+          "meaning": "công đoàn"
+        },
+        {
+          "word": "singular",
+          "meaning": "số ít"
+        },
+        {
+          "word": "plural",
+          "meaning": "số nhiều"
+        },
+        {
+          "word": "executive committee",
+          "meaning": "ban quản trị/ủy ban điều hành"
+        },
+        {
+          "word": "reach an agreement",
+          "meaning": "đạt được thỏa thuận"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=327"
@@ -26585,7 +28425,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26595,9 +28443,71 @@
       "title": "Anh Ngữ Sinh Động Bài 328",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=328",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/328.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 328 tiếp tục luyện subject-verb agreement qua bài tập, đặc biệt với collective nouns. Bài yêu cầu chọn has/have và haven’t/hasn’t dựa trên ý nghĩa số ít hay số nhiều của chủ từ.",
+      "keyPatterns": [
+        {
+          "pattern": "committee + haven’t",
+          "meaning": "Collective noun có thể dùng động từ số nhiều khi nói đến các thành viên riêng biệt."
+        },
+        {
+          "pattern": "committee + has",
+          "meaning": "Collective noun dùng động từ số ít khi xem như một đơn vị."
+        },
+        {
+          "pattern": "subject determines verb number",
+          "meaning": "Số của chủ từ quyết định hình thức động từ."
+        },
+        {
+          "pattern": "collective noun as unit vs members",
+          "meaning": "Cùng một danh từ tập thể có thể dùng số ít hoặc số nhiều tùy nghĩa."
+        },
+        {
+          "pattern": "has/have + past participle",
+          "meaning": "Bài luyện sự phù hợp của trợ động từ trong present perfect."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "collective noun",
+          "meaning": "danh từ tập thể"
+        },
+        {
+          "word": "unanimously",
+          "meaning": "nhất trí"
+        },
+        {
+          "word": "salary",
+          "meaning": "lương"
+        },
+        {
+          "word": "employee",
+          "meaning": "nhân viên"
+        },
+        {
+          "word": "committee",
+          "meaning": "ủy ban"
+        },
+        {
+          "word": "union",
+          "meaning": "công đoàn"
+        },
+        {
+          "word": "agreement",
+          "meaning": "thỏa thuận"
+        },
+        {
+          "word": "subject",
+          "meaning": "chủ từ"
+        },
+        {
+          "word": "singular",
+          "meaning": "số ít"
+        },
+        {
+          "word": "plural",
+          "meaning": "số nhiều"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=328"
@@ -26606,7 +28516,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26616,9 +28534,71 @@
       "title": "Anh Ngữ Sinh Động Bài 329",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=329",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/329.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 329 học cách dùng used và used to, đặc biệt used to + verb để diễn tả thói quen trong quá khứ nay không còn. Bài cũng phân biệt used như tính từ với các cấu trúc used to.",
+      "keyPatterns": [
+        {
+          "pattern": "used to + base verb",
+          "meaning": "Diễn tả một thói quen hoặc trạng thái trong quá khứ nay không còn."
+        },
+        {
+          "pattern": "Did + subject + use to + verb?",
+          "meaning": "Trong câu hỏi với did, dùng use to sau trợ động từ."
+        },
+        {
+          "pattern": "subject + used to + verb",
+          "meaning": "Cấu trúc khẳng định cho thói quen quá khứ."
+        },
+        {
+          "pattern": "used car / second-hand",
+          "meaning": "Used có thể là tính từ nghĩa là đã qua sử dụng."
+        },
+        {
+          "pattern": "used to vs present habit",
+          "meaning": "Used to nói về quá khứ, không phải thói quen hiện tại."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "used",
+          "meaning": "đã dùng; đã qua sử dụng"
+        },
+        {
+          "word": "second-hand",
+          "meaning": "đã qua sử dụng"
+        },
+        {
+          "word": "used to",
+          "meaning": "đã từng, trước đây thường"
+        },
+        {
+          "word": "past habit",
+          "meaning": "thói quen trong quá khứ"
+        },
+        {
+          "word": "afford",
+          "meaning": "có khả năng chi trả"
+        },
+        {
+          "word": "repair",
+          "meaning": "sửa chữa"
+        },
+        {
+          "word": "girlfriend",
+          "meaning": "bạn gái"
+        },
+        {
+          "word": "high school",
+          "meaning": "trung học"
+        },
+        {
+          "word": "piano",
+          "meaning": "đàn piano"
+        },
+        {
+          "word": "hardly ever",
+          "meaning": "hầu như không bao giờ"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=329"
@@ -26627,7 +28607,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26637,9 +28625,71 @@
       "title": "Anh Ngữ Sinh Động Bài 330",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=330",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/330.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 330 phân biệt used to, be used to và get used to. Used to diễn tả thói quen quá khứ; be/get used to diễn tả trạng thái đã quen hoặc quá trình trở nên quen với điều gì.",
+      "keyPatterns": [
+        {
+          "pattern": "used to + base verb",
+          "meaning": "Diễn tả hành động hoặc trạng thái thường xảy ra trong quá khứ."
+        },
+        {
+          "pattern": "be used to + noun/gerund",
+          "meaning": "Diễn tả đã quen với một điều gì."
+        },
+        {
+          "pattern": "get used to + noun/gerund",
+          "meaning": "Diễn tả quá trình trở nên quen với một điều gì."
+        },
+        {
+          "pattern": "be of no use to someone",
+          "meaning": "Diễn tả điều gì không còn hữu ích."
+        },
+        {
+          "pattern": "put something into good use",
+          "meaning": "Dùng một thứ vào mục đích tốt/hữu ích."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "be used to",
+          "meaning": "quen với"
+        },
+        {
+          "word": "get used to",
+          "meaning": "trở nên quen với"
+        },
+        {
+          "word": "used to",
+          "meaning": "đã từng/thường làm trong quá khứ"
+        },
+        {
+          "word": "of no use",
+          "meaning": "không có ích"
+        },
+        {
+          "word": "put into good use",
+          "meaning": "đưa vào sử dụng tốt"
+        },
+        {
+          "word": "valuable",
+          "meaning": "có giá trị"
+        },
+        {
+          "word": "useful",
+          "meaning": "hữu ích"
+        },
+        {
+          "word": "computer games",
+          "meaning": "trò chơi máy tính"
+        },
+        {
+          "word": "time wisely",
+          "meaning": "thời gian một cách khôn ngoan"
+        },
+        {
+          "word": "purpose",
+          "meaning": "mục đích"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=330"
@@ -26648,7 +28698,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26658,9 +28716,71 @@
       "title": "Anh Ngữ Sinh Động Bài 331",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=331",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/331.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 331 ôn tag questions, tức câu hỏi láy lại ở cuối câu để yêu cầu người nghe xác nhận thông tin. Bài cũng giới thiệu cách nói đơn giản như Is it right?, Is it correct?, All right? hoặc OK? để thay cho một số tag questions.",
+      "keyPatterns": [
+        {
+          "pattern": "positive statement, negative tag",
+          "meaning": "Mệnh đề chính khẳng định thường đi với tag phủ định."
+        },
+        {
+          "pattern": "negative statement, positive tag",
+          "meaning": "Mệnh đề chính phủ định thường đi với tag khẳng định."
+        },
+        {
+          "pattern": "auxiliary in statement → corresponding auxiliary in tag",
+          "meaning": "Trợ động từ trong câu chính quyết định hình thức tag."
+        },
+        {
+          "pattern": "tag question for confirmation",
+          "meaning": "Dùng tag question để hỏi người nghe xác nhận thông tin."
+        },
+        {
+          "pattern": "Is it right? / Is it correct? / OK?",
+          "meaning": "Các cách hỏi xác nhận đơn giản được bài giới thiệu như lựa chọn thay thế."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "tag question",
+          "meaning": "câu hỏi láy lại"
+        },
+        {
+          "word": "confirmation",
+          "meaning": "sự xác nhận"
+        },
+        {
+          "word": "statement",
+          "meaning": "mệnh đề/câu trần thuật"
+        },
+        {
+          "word": "auxiliary verb",
+          "meaning": "trợ động từ"
+        },
+        {
+          "word": "negative",
+          "meaning": "phủ định"
+        },
+        {
+          "word": "positive",
+          "meaning": "khẳng định"
+        },
+        {
+          "word": "confirm",
+          "meaning": "xác nhận"
+        },
+        {
+          "word": "correct",
+          "meaning": "đúng"
+        },
+        {
+          "word": "right",
+          "meaning": "đúng"
+        },
+        {
+          "word": "all right",
+          "meaning": "được/chính xác"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=331"
@@ -26669,7 +28789,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26679,9 +28807,71 @@
       "title": "Anh Ngữ Sinh Động Bài 332",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=332",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/332.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 332 chuyển sang chủ đề lịch sử Hoa Kỳ với Gettysburg Address của Abraham Lincoln và trận Gettysburg. Bài cung cấp bối cảnh về bài diễn văn ngày 19/11/1863 và cuộc chiến giữa Union và Confederacy.",
+      "keyPatterns": [
+        {
+          "pattern": "historical context + speech",
+          "meaning": "Bài dùng bối cảnh lịch sử để học tiếng Anh qua một bài diễn văn nổi tiếng."
+        },
+        {
+          "pattern": "Union vs Confederacy",
+          "meaning": "Bài giới thiệu hai phe trong Nội chiến Hoa Kỳ liên quan đến Gettysburg."
+        },
+        {
+          "pattern": "address as speech",
+          "meaning": "Address được dùng với nghĩa bài diễn văn."
+        },
+        {
+          "pattern": "historical date expression",
+          "meaning": "Bài luyện cách nói và hiểu ngày tháng trong bối cảnh lịch sử."
+        },
+        {
+          "pattern": "famous speech vocabulary",
+          "meaning": "Học từ vựng qua Gettysburg Address."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Gettysburg Address",
+          "meaning": "Bài diễn văn Gettysburg"
+        },
+        {
+          "word": "Abraham Lincoln",
+          "meaning": "Abraham Lincoln"
+        },
+        {
+          "word": "Union",
+          "meaning": "phe miền Bắc"
+        },
+        {
+          "word": "Confederacy",
+          "meaning": "phe miền Nam"
+        },
+        {
+          "word": "Civil War",
+          "meaning": "Nội chiến Hoa Kỳ"
+        },
+        {
+          "word": "battlefield",
+          "meaning": "bãi chiến trường"
+        },
+        {
+          "word": "dedication",
+          "meaning": "lễ khánh thành/dedication"
+        },
+        {
+          "word": "address",
+          "meaning": "bài diễn văn"
+        },
+        {
+          "word": "president",
+          "meaning": "tổng thống"
+        },
+        {
+          "word": "Pennsylvania",
+          "meaning": "Pennsylvania"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=332"
@@ -26690,7 +28880,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26700,9 +28898,71 @@
       "title": "Anh Ngữ Sinh Động Bài 333",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=333",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/333.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 333 tiếp tục luyện tag questions qua các bài tập điền đáp án. Người học thực hành đổi trợ động từ giữa mệnh đề chính và tag, kể cả với câu phủ định và các đại từ như nothing.",
+      "keyPatterns": [
+        {
+          "pattern": "We won’t be late, will we?",
+          "meaning": "Mệnh đề won’t đổi thành will trong tag question."
+        },
+        {
+          "pattern": "negative main statement + positive tag",
+          "meaning": "Câu chính phủ định đi với tag khẳng định."
+        },
+        {
+          "pattern": "Nothing ... , did it?",
+          "meaning": "Các từ mang nghĩa phủ định như nothing ảnh hưởng đến hình thức tag."
+        },
+        {
+          "pattern": "main auxiliary → tag auxiliary",
+          "meaning": "Tag sử dụng trợ động từ phù hợp với câu chính."
+        },
+        {
+          "pattern": "tag question for agreement/confirmation",
+          "meaning": "Tag question có thể dùng để yêu cầu xác nhận hoặc đồng ý."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "tag question",
+          "meaning": "câu hỏi láy lại"
+        },
+        {
+          "word": "negative statement",
+          "meaning": "câu phủ định"
+        },
+        {
+          "word": "auxiliary",
+          "meaning": "trợ động từ"
+        },
+        {
+          "word": "nothing",
+          "meaning": "không có gì"
+        },
+        {
+          "word": "late",
+          "meaning": "trễ"
+        },
+        {
+          "word": "vacation",
+          "meaning": "kỳ nghỉ"
+        },
+        {
+          "word": "confirm",
+          "meaning": "xác nhận"
+        },
+        {
+          "word": "agreement",
+          "meaning": "sự đồng ý"
+        },
+        {
+          "word": "exercise",
+          "meaning": "bài tập"
+        },
+        {
+          "word": "statement",
+          "meaning": "câu trần thuật"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=333"
@@ -26711,7 +28971,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26721,9 +28989,71 @@
       "title": "Anh Ngữ Sinh Động Bài 334",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=334",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/334.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 334 ôn Indirect Speech/Reported Speech. Bài phân biệt lời nói trực tiếp với lời thuật lại và minh họa cách chuyển câu nói về nhà, câu hỏi và các dạng lời nói khác sang reported speech.",
+      "keyPatterns": [
+        {
+          "pattern": "Direct speech → reported speech",
+          "meaning": "Chuyển lời nói nguyên văn sang lời thuật lại."
+        },
+        {
+          "pattern": "said that + backshift",
+          "meaning": "Ví dụ của bài chuyển I want thành he wanted trong reported speech."
+        },
+        {
+          "pattern": "asked + object + wh-clause",
+          "meaning": "Câu hỏi trực tiếp có thể chuyển sang câu hỏi gián tiếp với asked."
+        },
+        {
+          "pattern": "reported speech in news/storytelling",
+          "meaning": "Reported speech được dùng khi tường thuật hoặc kể lại điều người khác nói."
+        },
+        {
+          "pattern": "direct speech with quotation marks",
+          "meaning": "Direct speech thường được trình bày trong ngoặc kép."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "direct speech",
+          "meaning": "lời nói trực tiếp"
+        },
+        {
+          "word": "indirect speech",
+          "meaning": "lời nói gián tiếp"
+        },
+        {
+          "word": "reported speech",
+          "meaning": "lời thuật lại"
+        },
+        {
+          "word": "report",
+          "meaning": "tường thuật"
+        },
+        {
+          "word": "quotation marks",
+          "meaning": "dấu ngoặc kép"
+        },
+        {
+          "word": "journalist",
+          "meaning": "phóng viên"
+        },
+        {
+          "word": "witness",
+          "meaning": "người chứng kiến"
+        },
+        {
+          "word": "ask",
+          "meaning": "hỏi"
+        },
+        {
+          "word": "say",
+          "meaning": "nói"
+        },
+        {
+          "word": "want",
+          "meaning": "muốn"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=334"
@@ -26732,7 +29062,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26742,9 +29080,71 @@
       "title": "Anh Ngữ Sinh Động Bài 335",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=335",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/335.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 335 tiếp tục luyện Reported Speech qua các bài tập chuyển câu trực tiếp sang câu thuật lại, bao gồm câu kể và câu hỏi. Bài nhắc lại việc đổi thì và cấu trúc câu hỏi khi thuật lại.",
+      "keyPatterns": [
+        {
+          "pattern": "He said that he wanted ...",
+          "meaning": "Câu trực tiếp ở hiện tại được thuật lại bằng dạng quá khứ trong ví dụ."
+        },
+        {
+          "pattern": "She asked me what I wanted",
+          "meaning": "Câu hỏi wh- được chuyển thành mệnh đề gián tiếp theo trật tự câu kể."
+        },
+        {
+          "pattern": "said + that clause",
+          "meaning": "Dùng said để thuật lại một câu trần thuật."
+        },
+        {
+          "pattern": "asked + object + wh-clause",
+          "meaning": "Dùng asked với người nghe và mệnh đề wh khi thuật lại câu hỏi."
+        },
+        {
+          "pattern": "reported speech tense shift",
+          "meaning": "Bài luyện sự thay đổi hình thức thì khi chuyển sang reported speech."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "reported speech",
+          "meaning": "lời thuật lại"
+        },
+        {
+          "word": "direct speech",
+          "meaning": "lời nói trực tiếp"
+        },
+        {
+          "word": "indirect question",
+          "meaning": "câu hỏi gián tiếp"
+        },
+        {
+          "word": "tense shift",
+          "meaning": "sự lùi thì"
+        },
+        {
+          "word": "wh-clause",
+          "meaning": "mệnh đề wh"
+        },
+        {
+          "word": "say",
+          "meaning": "nói"
+        },
+        {
+          "word": "ask",
+          "meaning": "hỏi"
+        },
+        {
+          "word": "want",
+          "meaning": "muốn"
+        },
+        {
+          "word": "witness",
+          "meaning": "người chứng kiến"
+        },
+        {
+          "word": "report",
+          "meaning": "tường thuật"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=335"
@@ -26753,7 +29153,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26763,9 +29171,71 @@
       "title": "Anh Ngữ Sinh Động Bài 336",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=336",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/336.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 336 giới thiệu bài thơ Stopping by Woods on a Snowy Evening của Robert Frost, cùng tiểu sử và bối cảnh sáng tác. Bài học dùng văn học để mở rộng từ vựng và hiểu nội dung thơ.",
+      "keyPatterns": [
+        {
+          "pattern": "literary text + vocabulary study",
+          "meaning": "Học tiếng Anh qua một tác phẩm văn học nổi tiếng."
+        },
+        {
+          "pattern": "biographical background",
+          "meaning": "Bài cung cấp tiểu sử và hoàn cảnh của tác giả trước khi đọc thơ."
+        },
+        {
+          "pattern": "poem title as phrase",
+          "meaning": "Tên bài thơ được dùng làm chủ đề ngôn ngữ và đọc hiểu."
+        },
+        {
+          "pattern": "imagery and description",
+          "meaning": "Bài khai thác hình ảnh thiên nhiên trong bài thơ."
+        },
+        {
+          "pattern": "literary interpretation",
+          "meaning": "Bài hướng người học đến việc hiểu ý nghĩa và hình ảnh trong thơ."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Stopping by Woods on a Snowy Evening",
+          "meaning": "Dừng bước ven rừng chiều tuyết phủ"
+        },
+        {
+          "word": "Robert Frost",
+          "meaning": "nhà thơ Mỹ Robert Frost"
+        },
+        {
+          "word": "woods",
+          "meaning": "rừng"
+        },
+        {
+          "word": "snowy",
+          "meaning": "có tuyết"
+        },
+        {
+          "word": "evening",
+          "meaning": "buổi tối"
+        },
+        {
+          "word": "poem",
+          "meaning": "bài thơ"
+        },
+        {
+          "word": "poet",
+          "meaning": "thi sĩ"
+        },
+        {
+          "word": "journalist",
+          "meaning": "ký giả"
+        },
+        {
+          "word": "Massachusetts",
+          "meaning": "Massachusetts"
+        },
+        {
+          "word": "San Francisco",
+          "meaning": "San Francisco"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=336"
@@ -26774,7 +29244,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26784,9 +29262,71 @@
       "title": "Anh Ngữ Sinh Động Bài 337",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=337",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/337.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 337 giới thiệu The Pasture và The Road Not Taken của Robert Frost, tiếp nối chủ đề thơ ca và bối cảnh sáng tác của ông. Bài cung cấp thông tin về các tác phẩm và cách đọc hiểu hình ảnh, ý nghĩa trong thơ.",
+      "keyPatterns": [
+        {
+          "pattern": "The Pasture",
+          "meaning": "Tên một bài thơ của Robert Frost được giới thiệu trong bài."
+        },
+        {
+          "pattern": "The Road Not Taken",
+          "meaning": "Tên bài thơ nổi tiếng khác của Robert Frost được giới thiệu."
+        },
+        {
+          "pattern": "poetry + background information",
+          "meaning": "Bài kết hợp đọc thơ với thông tin về tác giả và tác phẩm."
+        },
+        {
+          "pattern": "literary imagery",
+          "meaning": "Hình ảnh thơ được dùng để hiểu nội dung."
+        },
+        {
+          "pattern": "poem interpretation",
+          "meaning": "Người học tiếp cận ý nghĩa và bối cảnh của thơ."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "The Pasture",
+          "meaning": "Đồng Cỏ Xanh"
+        },
+        {
+          "word": "The Road Not Taken",
+          "meaning": "Con Đường Không Đi"
+        },
+        {
+          "word": "Robert Frost",
+          "meaning": "nhà thơ Mỹ Robert Frost"
+        },
+        {
+          "word": "pasture",
+          "meaning": "đồng cỏ"
+        },
+        {
+          "word": "road",
+          "meaning": "con đường"
+        },
+        {
+          "word": "poetry",
+          "meaning": "thơ ca"
+        },
+        {
+          "word": "critic",
+          "meaning": "nhà phê bình"
+        },
+        {
+          "word": "North of Boston",
+          "meaning": "tập thơ North of Boston"
+        },
+        {
+          "word": "literary",
+          "meaning": "thuộc văn học"
+        },
+        {
+          "word": "poem",
+          "meaning": "bài thơ"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=337"
@@ -26795,7 +29335,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26805,9 +29353,71 @@
       "title": "Anh Ngữ Sinh Động Bài 338",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=338",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/338.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 338 học present subjunctive trong mệnh đề phụ sau các cấu trúc diễn tả sự cần thiết, yêu cầu, mệnh lệnh, khuyến khích hoặc quyết định như It is necessary that, insist, ask, urge và resolve.",
+      "keyPatterns": [
+        {
+          "pattern": "It is necessary/important/essential that + subject + base verb",
+          "meaning": "Sau các cấu trúc cần thiết, mệnh đề phụ dùng present subjunctive."
+        },
+        {
+          "pattern": "that + subject + be",
+          "meaning": "Khi động từ phụ là be, dùng be cho mọi ngôi trong present subjunctive."
+        },
+        {
+          "pattern": "insist that + subject + base verb",
+          "meaning": "Sau insist, động từ trong mệnh đề phụ dùng dạng nguyên thể không to."
+        },
+        {
+          "pattern": "urge that + subject + base verb",
+          "meaning": "Sau urge, mệnh đề phụ dùng present subjunctive."
+        },
+        {
+          "pattern": "resolve/decide/rule that + subject + base verb",
+          "meaning": "Sau các động từ quyết định/quyết nghị, mệnh đề phụ dùng present subjunctive."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "present subjunctive",
+          "meaning": "bàng thái cách hiện tại"
+        },
+        {
+          "word": "necessity",
+          "meaning": "sự cần thiết"
+        },
+        {
+          "word": "demand",
+          "meaning": "mệnh lệnh/đòi hỏi"
+        },
+        {
+          "word": "request",
+          "meaning": "yêu cầu"
+        },
+        {
+          "word": "urge",
+          "meaning": "thúc giục, cố thuyết phục"
+        },
+        {
+          "word": "resolution",
+          "meaning": "quyết nghị"
+        },
+        {
+          "word": "insist",
+          "meaning": "nhất định yêu cầu"
+        },
+        {
+          "word": "resolve",
+          "meaning": "quyết định, ra nghị quyết"
+        },
+        {
+          "word": "defer",
+          "meaning": "hoãn lại"
+        },
+        {
+          "word": "board of directors",
+          "meaning": "hội đồng quản trị"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=338"
@@ -26816,7 +29426,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26826,9 +29444,71 @@
       "title": "Anh Ngữ Sinh Động Bài 339",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=339",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/339.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 339 học dạng động từ trong mệnh đề phụ sau wish và as if/as though, đồng thời ôn câu điều kiện if. Bài phân biệt ước muốn trái thực tế ở hiện tại, quá khứ và tương lai.",
+      "keyPatterns": [
+        {
+          "pattern": "I wish + past tense",
+          "meaning": "Dùng quá khứ để diễn tả điều ước trái với thực tế ở hiện tại."
+        },
+        {
+          "pattern": "I wish + were",
+          "meaning": "Với be trong unreal present, dùng were cho mọi ngôi."
+        },
+        {
+          "pattern": "I wish + past perfect",
+          "meaning": "Dùng past perfect cho điều ước trái với sự thật trong quá khứ."
+        },
+        {
+          "pattern": "I wish + would + verb",
+          "meaning": "Dùng would để diễn tả điều mong muốn xảy ra trong tương lai."
+        },
+        {
+          "pattern": "as if/as though + unreal tense",
+          "meaning": "Bài học tiếp tục cách dùng thì không thực sau as if/as though."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "wish",
+          "meaning": "ước, mong"
+        },
+        {
+          "word": "subjunctive",
+          "meaning": "bàng thái cách"
+        },
+        {
+          "word": "unreal present",
+          "meaning": "hiện tại không thực"
+        },
+        {
+          "word": "past perfect",
+          "meaning": "quá khứ hoàn thành"
+        },
+        {
+          "word": "as if",
+          "meaning": "như thể"
+        },
+        {
+          "word": "as though",
+          "meaning": "như thể"
+        },
+        {
+          "word": "reception",
+          "meaning": "buổi tiệc/tiếp tân"
+        },
+        {
+          "word": "attend",
+          "meaning": "tham dự"
+        },
+        {
+          "word": "lottery",
+          "meaning": "xổ số"
+        },
+        {
+          "word": "luxury car",
+          "meaning": "xe hơi hạng sang"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=339"
@@ -26837,7 +29517,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     },
     {
@@ -26847,9 +29535,71 @@
       "title": "Anh Ngữ Sinh Động Bài 340",
       "sourceUrl": "https://lopngoaingu.com/Dynamic_English_Study/index.php?id=340",
       "audioUrl": "https://lopngoaingu.com/Dynamic_English_Study/audio/340.mp3",
-      "summary": null,
-      "keyPatterns": [],
-      "vocabulary": [],
+      "summary": "Bài 340 là bài cuối chương trình, mở đầu bằng một câu chuyện và thơ tình, sau đó giới thiệu một bài thơ nổi tiếng. Bài dùng hình ảnh con kiến, con dơi và con tằm để kể chuyện và dẫn vào chủ đề thơ ca, cái đẹp và tình yêu.",
+      "keyPatterns": [
+        {
+          "pattern": "wish + transformed image",
+          "meaning": "Câu chuyện mở đầu dùng các hình ảnh giả định “ước gì anh hóa...” để diễn tả tình cảm."
+        },
+        {
+          "pattern": "narrative storytelling",
+          "meaning": "Bài dùng một câu chuyện có nhiều nhân vật để dẫn vào phần thơ."
+        },
+        {
+          "pattern": "symbolic imagery",
+          "meaning": "Kiến, dơi và tằm được dùng như các hình ảnh tượng trưng trong câu chuyện."
+        },
+        {
+          "pattern": "poetry as theme",
+          "meaning": "Bài chuyển từ câu chuyện sang chủ đề thơ và cái đẹp bất tử."
+        },
+        {
+          "pattern": "descriptive language",
+          "meaning": "Bài dùng nhiều từ mô tả hình ảnh, vẻ đẹp và quá trình làm tơ."
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "silkworm",
+          "meaning": "con tằm"
+        },
+        {
+          "word": "silk",
+          "meaning": "lụa, tơ"
+        },
+        {
+          "word": "cocoon",
+          "meaning": "kén"
+        },
+        {
+          "word": "mulberry",
+          "meaning": "dâu"
+        },
+        {
+          "word": "bat",
+          "meaning": "con dơi"
+        },
+        {
+          "word": "ant",
+          "meaning": "con kiến"
+        },
+        {
+          "word": "poetry",
+          "meaning": "thơ ca"
+        },
+        {
+          "word": "immortal",
+          "meaning": "bất tử"
+        },
+        {
+          "word": "beauty",
+          "meaning": "vẻ đẹp"
+        },
+        {
+          "word": "symbol",
+          "meaning": "biểu tượng"
+        }
+      ],
       "transcript": {
         "mode": "source-proxy",
         "endpoint": "/api/transcript?id=340"
@@ -26858,7 +29608,15 @@
         "source": "lopngoaingu.com",
         "fetchedAt": "2026-10-06T16:59:48.480Z",
         "contentStatus": "source-page-linked",
-        "aiStatus": "pending"
+        "aiStatus": "ai-generated",
+        "aiModel": "GPT-5.6 Luna",
+        "aiGeneratedAt": "2026-10-08T16:57:26.418677Z",
+        "aiReviewStatus": "approved",
+        "aiValidation": {
+          "schema": "passed",
+          "evidenceQuotes": "passed",
+          "semanticReview": "passed"
+        }
       }
     }
   ]
