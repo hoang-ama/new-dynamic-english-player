@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 import { enrichLesson, GEMINI_MODEL, parseModelJson, validateEnrichment } from "../lib/ai-enrichment.mjs";
-import { applyEnrichmentToManifest } from "../lib/lesson-enrichment-merge.mjs";
+import { applyEnrichmentToManifest, validateEnrichmentCandidate } from "../lib/lesson-enrichment-merge.mjs";
 
 const content = "The lesson teaches: I come from New York. New York is a city. I come from California.";
 const sourceLesson = {
@@ -44,7 +44,12 @@ test("rejects evidence not present in source and unknown output fields", () => {
 
 test("rejects enrichment that has not passed semantic review", () => {
   const candidate = {
-    // ...valid candidate fields...
+    ...validResult,
+    id: 1,
+    sourceUrl: sourceLesson.sourceUrl,
+    model: GEMINI_MODEL,
+    generatedAt: "2026-10-04T00:00:00.000Z",
+    status: "ai-generated",
     reviewStatus: "pending",
     validation: {
       schema: "passed",
@@ -53,7 +58,7 @@ test("rejects enrichment that has not passed semantic review", () => {
     }
   };
 
-  const errors = validateEnrichmentCandidate(candidate, lesson);
+  const errors = validateEnrichmentCandidate(candidate, sourceLesson);
 
   assert.ok(
     errors.some(error =>
@@ -174,8 +179,8 @@ test("applies validated enrichment candidates to the lesson manifest", () => {
     model: GEMINI_MODEL,
     generatedAt: "2026-10-04T00:00:00.000Z",
     status: "ai-generated",
-    reviewStatus: "pending",
-    validation: { schema: "passed", evidenceQuotes: "passed", semanticReview: "pending" }
+    reviewStatus: "approved",
+    validation: { schema: "passed", evidenceQuotes: "passed", semanticReview: "passed" }
   };
 
   const { manifest: merged, applied } = applyEnrichmentToManifest(manifest, [candidate]);
@@ -185,5 +190,5 @@ test("applies validated enrichment candidates to the lesson manifest", () => {
   assert.deepEqual(merged.lessons[0].keyPatterns, [{ pattern: "I come from [place].", meaning: "Say the place a person comes from." }]);
   assert.deepEqual(merged.lessons[0].vocabulary, [{ word: "city", meaning: "city" }]);
   assert.equal(merged.lessons[0].metadata.aiStatus, "ai-generated");
-  assert.equal(merged.lessons[0].metadata.aiReviewStatus, "pending");
+  assert.equal(merged.lessons[0].metadata.aiReviewStatus, "approved");
 });
